@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
 
 
-# 	Implementation Options
+# 	Sell from any Device!
 
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
 
