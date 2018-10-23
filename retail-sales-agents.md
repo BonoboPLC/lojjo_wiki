@@ -152,8 +152,20 @@ First navigate to **Check Ticket** from the home screen.
 
 Step 1. 
 
-## Processing Payouts
-## Verifying Players before payout (optional)
+
+## Withdrawal Float Account
+
+Every Sales Agent has a Withdrawal Float Account in the system. 
+
+This account tracks any funds which are provided to the Agent, by head office, for the purpose of paying Player prizes.
+
+This **account can is increased** when the Sales manager leaves additional money with you to pay for expected prizes.
+
+This **account is decreased **when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+
+
+## How to Pay Prizes
+## How to verify a Player 
 ## Two Factor Authentication
 
 # Managing Player Accounts
