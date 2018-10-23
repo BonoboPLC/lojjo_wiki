@@ -16,8 +16,6 @@
 
 ![Create Agent](/uploads/create-agent.png "Create Agent")
 
-> Step 3. Agent Wizard - Complete Agent Details
-{.is-info}
 
 
 
