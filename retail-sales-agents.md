@@ -142,7 +142,10 @@ You can easily create accounts for players.
  
  ![Full Registration](/uploads/full-registration.png "Full Registration")
  
- Once you have have created the account, the player will receive an email with their log in information and a temporary password.
+ > Account Created!
+{.is-info}
+ 
+ Once you have have completed the details, the account will be created and the player will receive an email with their log in information and a temporary password.
 They will also be assigned a unique Account number which they can use for future interactions with your retail sales agents or customer service staff.
 
  
