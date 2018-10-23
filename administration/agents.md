@@ -19,7 +19,7 @@
 
 
 
-## Set Username and Temp Password
+## Set username/pw
 
 ![Agent Wizard 1](/uploads/agent-wizard-1.png "Agent Wizard 1")
 
