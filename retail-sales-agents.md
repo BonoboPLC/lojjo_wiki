@@ -296,14 +296,19 @@ You may also be required to complete Address and Age for a Player
 {.is-info}
 
 You may also be asked to verify the Player's detail and account
-In order to do so, you must obtain and take pictures of the Player's Identification documents as part of this process.
+
 
 ![Verification Required](/uploads/verification-required.png "Verification Required")
 
+In order to do so, you must obtain and take pictures of the Player and their Identification documents as part of this process.
 
+1. Picture of Player 
+2. Picture of ID - In order to verify Player's Name and Date of Birth
+3. Picture of Address document - In order to verify Player's Address
 
+![Take Picture](/uploads/take-picture.png "Take Picture")
 
-
+Once you have verified the Age, and Address, then you can Verify the Player which will remove any restrictions on their account.
 
 # Agent Sales & Deposit Limits
 
