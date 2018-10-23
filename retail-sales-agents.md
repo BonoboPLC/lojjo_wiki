@@ -3,6 +3,13 @@
 
 # Retail Sales Agent Manual
 ## 	Implementation Options
+
+You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
+
+
+
+
+
 ### Smartphone or Tablet (no printer)
 
 ![Device Screenshots](/uploads/device-screenshots.png)
