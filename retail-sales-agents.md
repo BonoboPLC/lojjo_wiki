@@ -129,7 +129,8 @@ All printed tickets contain
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Accepting Payment
 
-Sales Agents are free to accept payment in any way available to them as directed by head office. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
+Sales Agents are free to accept payment in any way available to them as directed by head office. 
+This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
 
 All the Sales Agent needs to do is to confirm that they have successfully received payment from the customer, and then remit the funds to head office at a different time. 
 
@@ -170,14 +171,20 @@ This **account is increased** when the Sales manager provides you with funds to 
 
 This **account is decreased** when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
 
-If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
+>If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
+{.is-warning}
 
 >If you do not have sufficient funds to pay prizes your manager will be alerted. You will be provided with a list of alternatives which the player may contact to retrieve their prize.
-{.is-warning}
+{.is-danger}
 
 
 ## How to Pay Prizes
+
+
 ## How to verify a Player 
+
+
+
 ## Two Factor Authentication
 
 # Managing Player Accounts
