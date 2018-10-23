@@ -111,6 +111,19 @@ The player will need to print their name and signature on the printed Ticket to 
 **Digital tickets** can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
 Note: You can still print out a physical receipt for tickets purchased by Account Holders.
 
+The first time you select Printed Tickets, you will need to confirm that you have a working printer connected.
+If you do not have a printer connected, then only sell Electronic Tickets.
+
+
+All printed tickets contain 
+* The Ticket ID (Found to the right of the IQR Code)
+* Secure Code (Found on top of the ticket and required for checking ticket)
+	* Will read "Original Print 232342" if the ticket is the first and original printed ticket
+	* Will read "Reprint 232342" if the ticket was voided and reprinted 
+* Player ID (if sold to registered player)
+* Sales Agent
+
+
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
 
