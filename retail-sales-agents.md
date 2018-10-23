@@ -38,11 +38,11 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 #### Digital Tickets
 
-## Step 3. Select  game
+**Step 3. Select  game
+**
+** Step 4. Choose how many tickets**
 
-## Step 4. Choose how many tickets
-
-## Step 5. Confirm and Collect payment
+** Step 5. Confirm and Collect payment**
 
 # Paying Prizes
 ## Printed Tickets
