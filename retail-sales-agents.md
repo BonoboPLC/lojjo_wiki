@@ -213,10 +213,13 @@ Step 1.
 
 >**Step 3.** Confirm the amount to pay
 {.is-info}
+
 ![Agent Confirm Payout](/uploads/agent-confirm-payout.png "Agent Confirm Payout")
 
 >**Step 4.** Pay the player
 {.is-info}
+
+![Payout Success](/uploads/payout-success.png "Payout Success")
 
 ## Two Factor Authentication
 
