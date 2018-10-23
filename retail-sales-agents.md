@@ -73,7 +73,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 ![Quick Account](/uploads/quick-account.png "Quick Account")
 
-
+![Full Registration](/uploads/full-registration.png "Full Registration")
 
 ## Verifying a Player
 
