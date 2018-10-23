@@ -46,6 +46,8 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 ![Add Withdrawal Float](/uploads/add-withdrawal-float.png "Add Withdrawal Float")
 
+![Collect Withdrawal Float](/uploads/collect-withdrawal-float.png "Collect Withdrawal Float")
+
 ## Collecting Sales Receipts
 
 ![Collect Sales Receipts](/uploads/collect-sales-receipts.png "Collect Sales Receipts")
