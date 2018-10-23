@@ -1,7 +1,7 @@
 <!-- TITLE: Agents -->
 <!-- SUBTITLE: A quick summary of Agents -->
 
-# How to Manage Agents
+# Creating Agents
 
 ## Creating Agent Accounts
 ## Sales Agent Limits
