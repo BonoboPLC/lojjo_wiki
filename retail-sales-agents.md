@@ -51,7 +51,7 @@ Log in to the Agent Portal with your credentials
 
 ![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
 
->Step 2. Select between a Printed or Digital ticket
+>Step 2. Select either a Printed or Digital ticket
 {.is-info}
 
 You can sell printed or digital tickets. 
