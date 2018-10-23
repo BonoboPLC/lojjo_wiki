@@ -65,28 +65,20 @@ The following sets of information are displayed for each game. Some of the confi
 
 === Config Values ===
 
-{| class="wikitable" style="border-spacing: 2px; border: 1px solid darkgray;"
-! style="width: 15%;" | Value
-! style="width: 50%;" | Description
-! style="width: 35%;" | Usage notes
-|-
-|- style="text-align: left;"
-| Type || Tournament or Instant Game || Tournaments start at a specific time. Instant games start when they are full and not on a schedule.
-|- style="text-align: left;"
-| Game Rule || Defines the rules of the game. Can be any of the following:
+| Value | Description | Usage notes |
+| ------ | ----------- | ----------- |
+| Type | Tournament or Instant Game | Tournaments start at a specific time. Instant games start when they are full and not on a schedule. |
+| Game Rule | Defines the rules of the game. Can be any of the following:
 * Regular Game
 * Elimination
-* OneDraw
-
- || N/A
-|- style="text-align: left;"
-| Game Playout || Defines the visual presentation of the game. Can be any of the following:
+* OneDraw | N/A |
+| Game Playout | Defines the visual presentation of the game. Can be any of the following:
 * LottoRace
 * LottoRace2
 * PokerRace
 * SlotsRace
+| N/A |
 
-|| N/A
 |- style="text-align: left;"
 | Pick ||Defines the number of balls which are to be picked and the set of numbers from which they are picked. For example in a 6/49 game you would pick 6 numbers between 1 and 49  || N/A
 |- style="text-align: left;"
