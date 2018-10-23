@@ -14,7 +14,13 @@
 > Step 2 Select "Create New Agent" from the top right hand navigation
 {.is-info}
 
-![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
+![Create Agent](/uploads/create-agent.png "Create Agent")
+
+> Step 3. Complete Agent Details
+{.is-info}
+
+
+
 
 ## Setting Sales & Deposit Limits
 
