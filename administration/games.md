@@ -15,7 +15,7 @@ To view the available games complete the following steps:
 # Log in to your Admin section
 # Navigate to the Games List tab of the Admin
 
-== Accessing Games List ==
+#### Accessing Games List
 
 The Games List is your first stop for managing your games. 
 
@@ -28,22 +28,13 @@ To expand the details for each game, click on the arrow icon located on the righ
 
 ==== Data Displayed ====
 
-{| class="wikitable" style="border-spacing: 2px; border: 1px solid darkgray;"
-! style="width: 15%;" | Features
-! style="width: 50%;" | Description
-! style="width: 35%;" | Usage notes
-|-
-|- style="text-align: left;"
-| Logo, Name(ID)|| Displays the game logo, it's name and the Game Definition ID. || Please note that Game Definition ID is not the Instance ID. Game definitions will have multiple game instances which inherit the configurations of the Game Definition. 
-|- style="text-align: left;"
-| X/Y|| Denote the configured pick size and range for the game. For example, 6/49 means pick 6 balls between 1 and 49. || N/A
-|- style="text-align: left;"
-| $X/Y  || Displays the rake and buy-in for each game.  || N/A
-|- style="text-align: left;"
-| Game Type (Interval) || Denotes game type: Tournament or Instant Game. If the game is of tournament type, the frequency of each game is also shown. || N/A
-|- style="text-align: left;"
-| X Open || Denotes the number of Open Instances of this game || Clicking on this link will list the open games for this game definition.
-|}
+| Features | Description | Usage notes |
+| ------ | ----------- | ----------- |
+| Logo, Name(ID) | Displays the game logo, it's name and the Game Definition ID. | Please note that Game Definition ID is not the Instance ID. Game definitions will have multiple game instances which inherit the configurations of the Game Definition. | 
+| X/Y | Denote the configured pick size and range for the game. For example, 6/49 means pick 6 balls between 1 and 49. | N/A
+| $X/Y | Displays the rake and buy-in for each game.  | N/A |
+| Game Type (Interval) | Denotes game type: Tournament or Instant Game. If the game is of tournament type, the frequency of each game is also shown. | N/A |
+| X Open | Denotes the number of Open Instances of this game | Clicking on this link will list the open games for this game definition. |
 
 === Action Buttons ===
 
