@@ -107,8 +107,9 @@ You can sell printed or digital tickets.
 **Printed Tickets** are anonymous and not associated to any account, just like your typical Lottery ticket.
 
 The player will need to print their name and signature on the printed Ticket to ensure ownership.
-Digital tickets can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
 
+**Digital tickets** can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
+Note: You can still print out a physical receipt for tickets purchased by Account Holders.
 
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
