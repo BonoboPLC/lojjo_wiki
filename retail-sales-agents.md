@@ -161,7 +161,7 @@ This **account is decreased** when you use the funds to pay Player prizes or rem
 >If you do not have funds to pay prizes, please inform the player to come back at a later date and attempt to contact your manager and request funds for your Withdrawal Float account.
 {.is-warning}
 
->If you are not able to prizes your manager will be alerted. You will be provided with a list of alternatives for the player retrieve their prize.
+>If you are not able to prizes your manager will be alerted. You will be provided with a list of alternatives to give to present to the player as a means for retrieving their prize.
 {.is-danger}
 
 ## How to Check tickets
@@ -278,6 +278,19 @@ They will also be assigned a unique Account number which they can use for future
 
 
 ## Verifying a Player
+
+You may be required to complete basic player details for a player which has presented non-registered Printed Ticket, prior to processing their payout.
+
+![Basic Kyc](/uploads/basic-kyc.png "Basic Kyc")
+
+You may also be required to complete Address and Age for a Player 
+
+You may also be asked to verify the Player's detail and account
+
+In order to do so, you must obtain and take pictures of the Player's Identification documents as part of this process.
+
+
+
 
 # Agent Sales & Deposit Limits
 
