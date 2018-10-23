@@ -23,7 +23,7 @@ Before getting started, make sure that you have at least one active game, and on
 
 You can sell printed or digital tickets. 
 Printed tickets can be anonymous or to Account holders.
-Digital tickets can sold to Account holders only. A quick Player Registration is all it takes to a register a player.
+Digital tickets can sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a register a player.
 
 ### Printed Tickets
 
