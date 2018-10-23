@@ -40,7 +40,7 @@ To expand the details for each game, click on the arrow icon located on the righ
 
 | Buttons | Action | Usage notes |
 | ------ | ----------- | ----------- |
-| Close/Open | Setting a game to close will restrict any new game instances from being created. Can be used at any time and no prerequisite actions are required. | Typically used as part of game shutdown procedure. If a game is closed and no open instances exist, then setting the game to Open will not automatically create new instances. The game must be stopped and started. |
+| Close/Open | Setting a game to close will restrict any new game instances from being created. Can be used at any time and no prerequisite actions are required. | Typically used as part of game shutdown procedure. <br/>If a game is closed and no open instances exist, then setting the game to Open will not automatically create new instances. The game must be stopped and started. |
 | Stopping a Game | Stopping a game will stop any open instances and refund all bets. Should only be used when there are no open instances available and after all games in play have been completed.  | Before stopping a game, set the game to close first. Setting it to close will ensure no new instances are created and you can wait for any existing games to finish before stopping a game. |
 | Starting a Game | Starting a game will create a new open instance of the game definition.  | N/A
 
@@ -69,7 +69,7 @@ The following sets of information are displayed for each game. Some of the confi
 | ------ | ----------- | ----------- |
 | Type | Tournament or Instant Game | Tournaments start at a specific time. Instant games start when they are full and not on a schedule. |
 | Game Rule | Defines the rules of the game. Can be any of the following: <br/><ul><li>Regular Game</li><li>Elimination</li><li>OneDraw</li></ul> | N/A |
-| Game Playout | Defines the visual presentation of the game. Can be any of the following: <br/>* LottoRace * LottoRace2 * PokerRace * SlotsRace | N/A |
+| Game Playout | Defines the visual presentation of the game. Can be any of the following: <br/><ul><li>LottoRace</li><li>LottoRace2</li><li>PokerRace</li><li>SlotsRace</ul> | N/A |
 
 |- style="text-align: left;"
 | Pick ||Defines the number of balls which are to be picked and the set of numbers from which they are picked. For example in a 6/49 game you would pick 6 numbers between 1 and 49  || N/A
