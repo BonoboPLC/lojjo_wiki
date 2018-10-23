@@ -10,7 +10,7 @@ You can access Sales Agent from any smart device, including PC, Laptop, Smartpho
 
 
 
-## Smartphone or Tablet (no printer)
+## Smartphone or Tablet 
 
 ![Device Screenshots](/uploads/device-screenshots.png)
 
