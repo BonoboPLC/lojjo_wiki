@@ -59,6 +59,8 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
+
+![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment"){:height="300px" width="300px"}
 # Paying Prizes
 ## Printed Tickets
 ## Registered Users
