@@ -1,8 +1,7 @@
-<!-- TITLE: Retail Sales Agents -->
-<!-- SUBTITLE: A quick summary of Retail Sales Agents -->
+<!-- TITLE: Retail Sales Agents Guide -->
+<!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
 
 # Retail Sales Agent Manual
-## System Requirements
 ## 	Implementation Options
 ### Smartphone or Tablet (no printer)
 ### PC/Laptop with Thermal Printer
