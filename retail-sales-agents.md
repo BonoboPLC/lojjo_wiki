@@ -136,15 +136,17 @@ You can easily create accounts for players.
  
  ![Quick Account](/uploads/quick-account.png "Quick Account")
  
-Once you have have created the account, the player will receive an email with their log in information and a temporary password.
-They will also be assigned a unique Account number which they can use for future interactions with your retail sales agents or customer service staff.
 
- 
- ![Account Created](/uploads/account-created.png "Account Created")
  
   If you do not check "Player Completes Registration", then you will be prompted to complete the players full registration by entering their full address, age and name.
  
  ![Full Registration](/uploads/full-registration.png "Full Registration")
+ 
+ Once you have have created the account, the player will receive an email with their log in information and a temporary password.
+They will also be assigned a unique Account number which they can use for future interactions with your retail sales agents or customer service staff.
+
+ 
+ ![Account Created](/uploads/account-created.png "Account Created")
 
 
 
