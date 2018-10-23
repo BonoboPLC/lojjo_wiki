@@ -4,6 +4,9 @@
 # Retail Sales Agent Manual
 ## 	Implementation Options
 ### Smartphone or Tablet (no printer)
+
+![Device Screenshots](/uploads/device-screenshots.png "Device Screenshots")
+
 ### PC/Laptop with Thermal Printer
 ### All in One Point of Sale 
 ## Handling of Cash & Payments
