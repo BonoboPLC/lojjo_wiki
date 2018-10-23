@@ -1,7 +1,7 @@
 <!-- TITLE: Retail Sales Agents Guide -->
 <!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
 
-# Retail Sales Agent Manual
+
 # 	Implementation Options
 
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
