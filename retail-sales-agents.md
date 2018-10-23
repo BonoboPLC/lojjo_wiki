@@ -56,8 +56,13 @@ Log in to the Agent Portal with your credentials
 
 You can sell printed or digital tickets. 
 Printed tickets are anonymous and not associated to any account, just like your typical Lottery ticket.
+
 The player will need to print their name and sign to ensure ownership.
 Digital tickets can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
+
+You can search for existing account holders by Phone, Email or Account #
+
+![Search Account](/uploads/search-account.png "Search Account")
 
 ![Select Ticket Type](/uploads/select-ticket-type.png "Select Ticket Type")
 
