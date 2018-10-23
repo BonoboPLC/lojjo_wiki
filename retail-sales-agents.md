@@ -311,6 +311,5 @@ In order to do so, you must obtain and take pictures of the Player and their Ide
 
 Once you have verified the Age, and Address, then you can Verify the Player which will remove any restrictions on their account.
 
-# Agent Sales & Deposit Limits
 
 
