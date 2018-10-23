@@ -137,15 +137,18 @@ All the Agent needs to do is to confirm that they have successfully received pay
 ## How to Check tickets
 
 You can check tickets in 2 ways; You can scan the QR code, or check manually.
+First navigate to **Check Ticket** from the home screen.
 
->**Step 3.** Scan QR Code
+![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
+
+>**Scan QR Code**
 {.is-info}
 
 
->**Step 3.** Check manually
+>**Check Manually Code**
 {.is-info}
 
-
+Step 1. 
 
 ## Processing Payouts
 ## Verifying Players before payout (optional)
