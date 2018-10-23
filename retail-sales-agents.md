@@ -24,26 +24,26 @@ Selling tickets is pretty easy.
 
 Before getting started, make sure that you have at least one active game, and one active sales agent account. 
 
-**Step 1. Log in and Choose Sell**
+> Step 1. Log in and Choose Sell
 1. Log in to the Agent Portal with your credentials
 2. Click on Sell
 
-**Step 2. Select between a Printed or Digital ticket**
+>Step 2. Select between a Printed or Digital ticket
 You can sell printed or digital tickets. 
 Printed tickets can be anonymous like your typical Lottery ticket, or as a printed receipt for an Account holder.
 Digital tickets can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
 
-**Step 3. Select  game**
+>Step 3. Select  game
 
-**Step 4. Choose how many tickets**
+>Step 4. Choose how many tickets
 
-**Step 5. Confirm and Collect payment**
+>Step 5. Confirm and Collect payment
 
 
 
-## Printed Tickets vs Digital Tickets
+< Printed Tickets vs Digital Tickets{.is-warning}
 
-## Handling Cash and Electronic payments
+< Handling Cash and Electronic payments{.is-warning}
 # Paying Prizes
 ## Printed Tickets
 ## Registered Users
