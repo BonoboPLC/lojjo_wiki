@@ -210,9 +210,9 @@ You will need to enter the following:
 If a ticket is indeed a winner, you'll see the following and hear a winners sound.
 Please keep your devices volume turned up so that players can easily distinguish between winning and loosing tickets, by listening. 
 
-Inform the Player that they have won and ask them if they want to cash out. 
+Inform the Player that they have won and ask them if they want to receive their prize.
 
-If so, Scroll to the bottom of the page and choose "**Cashout**"
+If so, Scroll to the bottom of the page and choose "**CASHOUT**"
 
 ![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
 
@@ -227,10 +227,14 @@ We will need to pay the Player the amount shown. Ensure that you have the cash o
 >**Step 3.** Pay the player and confirm that payment was made
 {.is-info}
 
+Confirm that you have successfully paid the Player.
+
 ![Agent Confirm Payout](/uploads/agent-confirm-payout.png "Agent Confirm Payout")
 
 >**Step 4.** Provide Receipt to player
 {.is-info}
+
+Payout is now successfully complete. Please provide the receipt to the Player.
 
 ![Payout Success](/uploads/payout-success.png "Payout Success")
 
