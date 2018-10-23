@@ -144,6 +144,26 @@ You are responsible for handling all cash provided to you safely and securely.
 At that point you'll need to remit your sales receipts to your Sales Manager. Upon successful receipt of funds, your Sales manager will remove the limitation on your account.
 {.is-danger}
 # Paying Prizes
+
+## Withdrawal Float Account
+
+Every Sales Agent has a Withdrawal Float Account in the system which is used for Paying Prizes.
+
+This account tracks any funds which are provided to the Agent, by head office, for the purpose of paying expected Player prizes during normal course of business.
+
+This **account is increased** when the Sales manager provides you with funds to pay for expected prize payouts.
+
+This **account is decreased** when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+
+>If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
+{.is-warning}
+
+>If you do not have funds to pay prizes, please inform the player to come back at a later date and attempt to contact your manager and request funds for your Withdrawal Float account.
+{.is-warning}
+
+>If you are not able to prizes your manager will be alerted. You will be provided with a list of alternatives for the player retrieve their prize.
+{.is-danger}
+
 ## How to Check tickets
 
 You can check tickets in 2 ways; You can scan the QR code, or check manually.
@@ -176,29 +196,19 @@ You will need to enter the following:
 Step 1. 
 
 
-## Withdrawal Float Account
-
-Every Sales Agent has a Withdrawal Float Account in the system. 
-
-This account tracks any funds which are provided to the Agent, by head office, for the purpose of paying Player prizes.
-
-This **account is increased** when the Sales manager provides you with funds to pay for expected prize payouts.
-
-This **account is decreased** when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
-
->If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
-{.is-warning}
-
->If you do not have funds to pay prizes, please inform the player to come back at a later date and attempt to contact your manager and request funds for your Withdrawal Float account.
-{.is-warning}
-
->If you are not able to prizes your manager will be alerted. You will be provided with a list of alternatives for the player retrieve their prize.
-{.is-danger}
 
 
 ## How to Pay Prizes
 
+>**Step 1.** Check for a winning ticket
+{.is-info}
 
+![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
+
+>**Step 3.** Select  game
+{.is-info}
+
+![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
 ## Two Factor Authentication
 
 # Managing Player Accounts
