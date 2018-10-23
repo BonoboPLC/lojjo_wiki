@@ -68,7 +68,7 @@ The following sets of information are displayed for each game. Some of the confi
 | Value | Description | Usage notes |
 | ------ | ----------- | ----------- |
 | Type | Tournament or Instant Game | Tournaments start at a specific time. Instant games start when they are full and not on a schedule. |
-| Game Rule | Defines the rules of the game. Can be any of the following: * Regular Game * Elimination * OneDraw | N/A |
+| Game Rule | Defines the rules of the game. Can be any of the following: <br/>* Regular Game * Elimination * OneDraw | N/A |
 | Game Playout | Defines the visual presentation of the game. Can be any of the following: * LottoRace * LottoRace2 * PokerRace * SlotsRace | N/A |
 
 |- style="text-align: left;"
