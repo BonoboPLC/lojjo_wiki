@@ -2,9 +2,11 @@
 <!-- SUBTITLE: A quick summary of Agents -->
 
 # Creating Agents
+![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment")
 
 ## Creating Agent Accounts
 ## Setting Sales & Deposit Limits
+
 ## Setting Agent Commissions
 
 ## Enabling Agents to Pay Prizes
