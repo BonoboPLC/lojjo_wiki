@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Agents -->
 
 # Creating Agents
-![Contact](/uploads/contact.png "Contact")
+![Contact](/uploads/contact.png "Contact"){:height="150px" width="150px"}
 
 
 
