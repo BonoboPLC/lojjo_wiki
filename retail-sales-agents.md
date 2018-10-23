@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
 
 # Retail Sales Agent Manual
-## 	Implementation Options
+# 	Implementation Options
 
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
 
@@ -10,17 +10,17 @@ You can access Sales Agent from any smart device, including PC, Laptop, Smartpho
 
 
 
-### Smartphone or Tablet (no printer)
+## Smartphone or Tablet (no printer)
 
 ![Device Screenshots](/uploads/device-screenshots.png)
 
-### PC/Laptop with Thermal Printer
-### All in One Point of Sale 
+## PC/Laptop with Thermal Printer
+## All in One Point of Sale 
 
 ![](/uploads/600-x-600.png){:height="300px" width="300px"}
-## Handling of Cash & Payments
-## Agent Sales Receipt Limits
-## Selling a Ticket
+# Handling of Cash & Payments
+# Agent Sales Receipt Limits
+# Selling a Ticket
 Selling tickets is pretty easy.
 
 Before getting started, make sure that you have at least one active game, and one active sales agent account. 
@@ -38,19 +38,19 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 #### Digital Tickets
 
-### Step 3. Select  game
+## Step 3. Select  game
 
-### Step 4. Choose how many tickets
+## Step 4. Choose how many tickets
 
-### Step 5. Confirm and Collect payment
+## Step 5. Confirm and Collect payment
 
-## Paying Prizes
-### Printed Tickets
-### Registered Users
-### Two Factor Authentication
+# Paying Prizes
+## Printed Tickets
+## Registered Users
+## Two Factor Authentication
 
-## Managing Player Accounts
-### Registering a Player
+# Managing Player Accounts
+## Registering a Player
 
 ![New Account](/uploads/new-account.png "New Account")
-### Verifying a Player
+## Verifying a Player
