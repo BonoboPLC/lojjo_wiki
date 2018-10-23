@@ -45,8 +45,8 @@ Before getting started, make sure that you have at least one active game, and on
 
 > Step 1. Log in and Choose Sell Ticket
 {.is-info}
-1. Log in to the Agent Portal with your credentials
-2. Click on Sell
+Log in to the Agent Portal with your credentials
+**Click on Sell Ticket**
 
 ![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
 
