@@ -279,13 +279,17 @@ They will also be assigned a unique Account number which they can use for future
 
 ## Verifying a Player
 
-You may be required to complete basic player details for a player which has presented non-registered Printed Ticket, prior to processing their payout.
+You may be required to complete basic player details for a player which has presented a non-registered Printed Ticket, prior to processing their payout.
 
 ![Basic Kyc](/uploads/basic-kyc.png "Basic Kyc")
 
 You may also be required to complete Address and Age for a Player 
 
+![Full Registration](/uploads/full-registration.png "Full Registration")
+
 You may also be asked to verify the Player's detail and account
+
+![Full Registration](/uploads/full-registration.png "Full Registration")
 
 In order to do so, you must obtain and take pictures of the Player's Identification documents as part of this process.
 
