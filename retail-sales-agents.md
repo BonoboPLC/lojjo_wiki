@@ -46,7 +46,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 >Step 5. Confirm and Collect payment
 {.is-info}
 
-![New Account](/uploads/new-account.png "New Account")
+![Confirm Purchase](/uploads/confirm-purchase.png "Confirm Purchase")
 
 ## Printed Tickets vs Digital Tickets
 
