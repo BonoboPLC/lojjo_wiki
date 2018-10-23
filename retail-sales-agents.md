@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A complete guide to selling tickets and paying prizes -->
 
 
-# 	Sell from any Device!
+# 	Sell from any Device
 
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
 For best experience please use Chrome.
@@ -311,5 +311,26 @@ In order to do so, you must obtain and take pictures of the Player and their Ide
 
 Once you have verified the Age, and Address, then you can Verify the Player which will remove any restrictions on their account.
 
+# Accepting Deposits
 
+>**Step 1.** Find the Players account
+{.is-info}
 
+You can search by 
+
+Phone
+Email
+Account #  
+The account number is emailed to the Player when they first register and can also be found in the Players *"My Account"* section on the web site.
+
+![Search Player Deposit](/uploads/search-player-deposit.png "Search Player Deposit")
+
+If the Player does not have an account, [create a new account](/retail-sales-agents#registering-a-player) for the Player.
+
+>**Step 2.** Collect Payment 
+{.is-info}
+
+>**Step 3.** Provide Receipt to Player
+{.is-info}
+
+The funds are instantly available for the Player to access. 
