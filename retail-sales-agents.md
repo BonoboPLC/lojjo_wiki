@@ -82,6 +82,8 @@ When selecting Electronic Ticket, you will be prompted to either **search for an
 >Step 5. Confirm and Collect payment
 {.is-info}
 
+Sales Agents are free to accept payment in any way available. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system.
+
 ![Confirm Purchase](/uploads/confirm-purchase.png "Confirm Purchase")
 
 ![Collect Cash](/uploads/collect-cash.png "Collect Cash")
@@ -90,6 +92,10 @@ When selecting Electronic Ticket, you will be prompted to either **search for an
 
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
+
+Sales Agents are free to accept payment in any way available. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
+
+All the Agent needs to do is to confirm that they have received payment, and then remit the funds to you on your own schedule.
 
 ![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment"){:height="300px" width="300px"}
 # Paying Prizes
