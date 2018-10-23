@@ -344,4 +344,4 @@ If the Player does not have an account, [create a new account](/retail-sales-age
 The funds are instantly available for the Player to access.
 
 
-
+![Deposit Complete](/uploads/deposit-complete.png "Deposit Complete")
