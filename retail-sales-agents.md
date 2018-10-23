@@ -111,7 +111,7 @@ Sales Agents are free to accept payment in any way available. This could be simp
 All the Agent needs to do is to confirm that they have successfully received payment from the customer, and then remit the funds to head office at a different time. 
 
 ![Collect Cash](/uploads/collect-cash.png "Collect Cash")
-![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment"){:height="300px" width="300px"}
+
 # Paying Prizes
 ## Printed Tickets
 ## Registered Users
