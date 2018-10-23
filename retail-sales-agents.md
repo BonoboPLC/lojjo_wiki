@@ -1,7 +1,7 @@
 <!-- TITLE: Retail Sales Agents -->
 <!-- SUBTITLE: A quick summary of Retail Sales Agents -->
 
-# Header
+# Retail Sales Agent Manual
 ## System Requirements
 ## 	Implementation Options
 ## Handling of Cash & Payments
