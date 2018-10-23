@@ -60,11 +60,13 @@ Printed tickets are anonymous and not associated to any account, just like your 
 The player will need to print their name and sign to ensure ownership.
 Digital tickets can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
 
+
+![Select Ticket Type](/uploads/select-ticket-type.png "Select Ticket Type")
+
+
 You can search for existing account holders by Phone, Email or Account #
 
 ![Search Account](/uploads/search-account.png "Search Account")
-
-![Select Ticket Type](/uploads/select-ticket-type.png "Select Ticket Type")
 
 
 >Step 3. Select  game
