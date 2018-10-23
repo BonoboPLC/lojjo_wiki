@@ -283,6 +283,7 @@ They will also be assigned a unique Account number which they can use for future
 {.is-info}
 
 You may be required to complete basic player details for a player which has presented a non-registered Printed Ticket, prior to processing their payout.
+
 ![Basic Kyc](/uploads/basic-kyc.png "Basic Kyc")
 
 > Complete Address & Birthdate
@@ -302,9 +303,9 @@ You may also be asked to verify the Player's detail and account
 
 In order to do so, you must obtain and take pictures of the Player and their Identification documents as part of this process.
 
-1. Picture of Player 
-2. Picture of ID - In order to verify Player's Name and Date of Birth
-3. Picture of Address document - In order to verify Player's Address
+1. **Picture of Player **
+2. **Picture of ID** - In order to verify Player's Name and Date of Birth
+3. **Picture of Address document** - In order to verify Player's Address
 
 ![Take Picture](/uploads/take-picture.png "Take Picture")
 
