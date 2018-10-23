@@ -6,6 +6,6 @@
 # Welcome to our system guide
 [Admin User Guide](/admin-user-guide "title text!")
 [Sales Agent User Guide](sales-agent-guide/ "title text!")
-[System Integration Guide](http://docs.bonoboplc.com:4567// "API")
+[System Integration Guide](http://docs.bonoboplc.com:4567/)
 
 
