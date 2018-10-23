@@ -5,11 +5,12 @@
 ## System Requirements
 ## 	Implementation Options
 ## Handling of Cash & Payments
-## Selling a Ticket
-## Printed Tickets
-## Digital Tickets
 ## Agent Sales Receipt Limits
+## Selling a Ticket
+### Printed Tickets
+### Digital Tickets
+
 ## Paying Prizes
-## Printed Tickets
-## Registered Users
+### Printed Tickets
+### Registered Users
 ## Enabling Two Factor Authentication for prize payouts
