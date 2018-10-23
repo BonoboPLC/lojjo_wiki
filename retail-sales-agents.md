@@ -86,7 +86,6 @@ Sales Agents are free to accept payment in any way available. This could be simp
 
 ![Confirm Purchase](/uploads/confirm-purchase.png "Confirm Purchase")
 
-![Collect Cash](/uploads/collect-cash.png "Collect Cash")
 
 ## Printed Tickets vs Digital Tickets
 
