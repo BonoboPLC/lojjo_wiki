@@ -13,6 +13,7 @@ You can access Sales Agent from any smart device, including PC, Laptop, Smartpho
 
 > PC/Laptop with Thermal Printer
 
+![Pc Printer](/uploads/pc-printer.png "Pc Printer")
 
 > All in One Point of Sale 
 
