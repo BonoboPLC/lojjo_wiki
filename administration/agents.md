@@ -24,11 +24,19 @@
 
 
 
-## Complete Agent details
+## Set Agent details
 
 Make sure that the information provided is accurate to comply with record keeping regulations.
 
 ![Agent Personal Info](/uploads/agent-personal-info.png "Agent Personal Info")
+
+
+## Set Store address
+
+The store address will be listed on the Web site and used for referrals by other Sales Agents.
+
+
+![Agent Store Location](/uploads/agent-store-location.png "Agent Store Location")
 
 ## Setting Sales & Deposit Limits
 
