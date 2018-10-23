@@ -158,7 +158,7 @@ First navigate to **Check Ticket** from the home screen.
 ![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
 
 
->**Check Manually Code**
+>**Check Ticket Manually**
 {.is-info}
 
 If no camera was detected, or the QR code is damaged, you can enter the Ticket information manually.
