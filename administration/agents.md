@@ -8,3 +8,9 @@
 ## Sales Agent Commission
 
 ## Enabling Agents to Pay Prizes
+
+# Managing Agents day to day
+
+## Viewing Agent Activity
+## Collecting Sales Receipts
+## Enabling Agents to Pay prizes
