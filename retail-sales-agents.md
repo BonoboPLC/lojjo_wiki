@@ -167,6 +167,10 @@ This **account is decreased** when you use the funds to pay Player prizes or rem
 ## How to Check tickets
 
 You can check tickets in 2 ways; You can scan the QR code, or check manually.
+
+> Ensure that Tickets are signed and include the Players name prior to checking the ticket
+{.is-warning}
+
 First navigate to **Check Ticket** from the home screen.
 
 ![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
@@ -193,7 +197,7 @@ You will need to enter the following:
 
 
 ![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
-Step 1. 
+
 
 
 
@@ -203,20 +207,29 @@ Step 1.
 >**Step 1.** Check for a winning ticket
 {.is-info}
 
+If a ticket is indeed a winner, you'll see the following and hear a winners sound.
+Please keep your devices volume turned up so that players can easily distinguish between winning and loosing tickets, by listening. 
+
+Inform the Player that they have won and ask them if they want to cash out. 
+
+If so, Scroll to the bottom of the page and choose "**Cashout**"
+
 ![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
 
 >**Step 2.** Confirm the amount to pay
 {.is-info}
 
+We will need to pay the Player the amount shown. Ensure that you have the cash on hand and pay the player. 
+
 ![Need To Pay](/uploads/need-to-pay.png "Need To Pay")
 
 
->**Step 3.** Confirm the amount to pay
+>**Step 3.** Pay the player and confirm that payment was made
 {.is-info}
 
 ![Agent Confirm Payout](/uploads/agent-confirm-payout.png "Agent Confirm Payout")
 
->**Step 4.** Pay the player
+>**Step 4.** Provide Receipt to player
 {.is-info}
 
 ![Payout Success](/uploads/payout-success.png "Payout Success")
