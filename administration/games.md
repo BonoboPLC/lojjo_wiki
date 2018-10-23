@@ -72,12 +72,7 @@ The following sets of information are displayed for each game. Some of the confi
 * Regular Game
 * Elimination
 * OneDraw | N/A |
-| Game Playout | Defines the visual presentation of the game. Can be any of the following:<br/>
-* LottoRace
-* LottoRace2
-* PokerRace
-* SlotsRace
-| N/A |
+| Game Playout | Defines the visual presentation of the game. Can be any of the following:<br>* LottoRace * LottoRace2 * PokerRace * SlotsRace | N/A |
 
 |- style="text-align: left;"
 | Pick ||Defines the number of balls which are to be picked and the set of numbers from which they are picked. For example in a 6/49 game you would pick 6 numbers between 1 and 49  || N/A
