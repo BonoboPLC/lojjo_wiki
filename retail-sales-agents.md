@@ -15,4 +15,4 @@
 ## Paying Prizes
 ### Printed Tickets
 ### Registered Users
-## Enabling Two Factor Authentication for prize payouts
+### Enabling Two Factor Authentication
