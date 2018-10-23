@@ -323,7 +323,7 @@ Email
 Account #  
 The account number is emailed to the Player when they first register and can also be found in the Players *"My Account"* section on the web site.
 
-![Search Player Deposit](/uploads/search-player-deposit.png "Search Player Deposit")
+![Search Find Player](/uploads/search-find-player.png "Search Find Player")
 
 If the Player does not have an account, [create a new account](/retail-sales-agents#registering-a-player) for the Player.
 
