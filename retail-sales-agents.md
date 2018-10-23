@@ -73,7 +73,7 @@ Go ahead and select the one you need. You'll be taken back to the ticket selecti
 >Step 3. Select  game
 {.is-info}
 
-Click on the "Change" label on the Game Selector to change the game from the list.
+Click on the "Change" label on the Game Selector to view other available games from the list.
 Any commissions payable for the games will be displayed in Green.
 
 ![Select A Game](/uploads/select-a-game.png "Select A Game")
