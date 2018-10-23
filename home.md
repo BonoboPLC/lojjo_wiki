@@ -4,7 +4,8 @@
 
 
 # Welcome to our system guide
-[Admin User Guide](/administration "title text!")
+## [Admin User Guide](/administration "title text!")
+[Game Management](/administration/games "title text!")
 [Sales Agents](/administration/agents "title text!")
 
 
