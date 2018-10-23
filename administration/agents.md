@@ -4,7 +4,7 @@
 # Creating Agents
 ![Contact](/uploads/contact.png "Contact")
 
-## Creating Agent Accounts
+
 
 > Step 1.  Navigate to the Sales Agent shown on the navigation
 {.is-info}
@@ -19,9 +19,11 @@
 > Step 3. Agent Wizard - Complete Agent Details
 {.is-info}
 
+
+
+## Create Agent Username and Temporary Password
+
 ![Agent Wizard 1](/uploads/agent-wizard-1.png "Agent Wizard 1")
-
-
 
 
 ## Setting Sales & Deposit Limits
