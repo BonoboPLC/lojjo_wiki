@@ -10,7 +10,7 @@
 ### PC/Laptop with Thermal Printer
 ### All in One Point of Sale 
 
-![600 X 600](/uploads/600-x-600.png "600 X 600" =300x300)
+![600 X 600](/uploads/600-x-600.png "600 X 600")
 ## Handling of Cash & Payments
 ## Agent Sales Receipt Limits
 ## Selling a Ticket
