@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A quick summary of Agents -->
 
 # Creating Agents
-![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment")
+![Contact](/uploads/contact.png "Contact")
 
 ## Creating Agent Accounts
 ## Setting Sales & Deposit Limits
