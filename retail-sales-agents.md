@@ -46,7 +46,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 >Step 4. Choose how many tickets
 {.is-info}
 
-
+![How Many Tickets](/uploads/how-many-tickets.png "How Many Tickets")
 
 >Step 5. Confirm and Collect payment
 {.is-info}
