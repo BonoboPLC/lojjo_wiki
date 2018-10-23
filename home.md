@@ -7,7 +7,7 @@
 ## [Admin User Guide](/administration "title text!")
 [Game Management](/administration/games "title text!")
 [Sales Agents](/administration/agents "title text!")
-[Site Settings](/administration/games "title text!")
+[Site Branding & CSS](/administration/games "title text!")
 
 
 
