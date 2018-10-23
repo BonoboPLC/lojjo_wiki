@@ -175,7 +175,7 @@ First navigate to **Check Ticket** from the home screen.
 >**Scan QR Code**
 {.is-info}
 
-![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
+If a camera is detected, please scan the QR code on the ticket.
 
 
 >**Check Ticket Manually**
@@ -205,10 +205,19 @@ Step 1.
 
 ![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
 
->**Step 3.** Confirm the amount to pay
+>**Step 2.** Confirm the amount to pay
 {.is-info}
 
 ![Need To Pay](/uploads/need-to-pay.png "Need To Pay")
+
+
+>**Step 3.** Confirm the amount to pay
+{.is-info}
+![Agent Confirm Payout](/uploads/agent-confirm-payout.png "Agent Confirm Payout")
+
+>**Step 4.** Pay the player
+{.is-info}
+
 ## Two Factor Authentication
 
 # Managing Player Accounts
