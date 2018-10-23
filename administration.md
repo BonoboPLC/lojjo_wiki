@@ -1,13 +1,8 @@
 <!-- TITLE: Admin User Guide -->
 <!-- SUBTITLE: A quick summary of Admin User Guide -->
 
-# Managing Games
-## Starting & Stopping games
-## Setting the Game Schedule
 
-## Creating & Editing Game Templates
-### LottoRace Games
-#### Entry Fees
-#### Game Size
-
-# Managing Sales Agents
+# Administrator Guide
+[Managing Games](/administration/games "Managing your Lottery & Raffle Games")
+[Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
+[Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
