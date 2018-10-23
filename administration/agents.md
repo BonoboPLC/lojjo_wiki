@@ -38,6 +38,8 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 ![Agent Activity Tracker](/uploads/agent-activity-tracker.png "Agent Activity Tracker")
 
 ## Enabling Agents to Pay prizes
+
+
 ## Managing Withdrawal Float
 
 ![Withdrawal Float Agent](/uploads/withdrawal-float-agent.png "Withdrawal Float Agent")
@@ -48,6 +50,7 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 ## Collecting Deposit Receipts
 
+![Collect Deposit Receipts](/uploads/collect-deposit-receipts.png "Collect Deposit Receipts")
 
 
 ## Paying Agent Commissions
