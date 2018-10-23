@@ -16,8 +16,10 @@
 
 ![Create Agent](/uploads/create-agent.png "Create Agent")
 
-> Step 3. Complete Agent Details
+> Step 3. Agent Wizard - Complete Agent Details
 {.is-info}
+
+![Agent Wizard 1](/uploads/agent-wizard-1.png "Agent Wizard 1")
 
 
 
