@@ -151,13 +151,28 @@ First navigate to **Check Ticket** from the home screen.
 
 ![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
 
+
 >**Scan QR Code**
 {.is-info}
+
+![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
 
 
 >**Check Manually Code**
 {.is-info}
 
+If no camera was detected, or the QR code is damaged, you can enter the Ticket information manually.
+
+You will need to enter the following: 
+
+* The Ticket ID (Found to the right of the QR Code)
+	* Will read "Ticket: 1234567"  
+* Securekey(Found on top of the ticket)
+	* Will read "Original Print 232342" if the ticket is the first and original printed ticket
+	* Will read "Reprint 232342" if the ticket was voided and reprinted 
+
+
+![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
 Step 1. 
 
 
@@ -182,10 +197,6 @@ This **account is decreased** when you use the funds to pay Player prizes or rem
 
 
 ## How to Pay Prizes
-
-
-## How to verify a Player 
-
 
 
 ## Two Factor Authentication
@@ -227,10 +238,8 @@ They will also be assigned a unique Account number which they can use for future
 
 
 
-
-
-
-
 ## Verifying a Player
 
 # Agent Sales & Deposit Limits
+
+
