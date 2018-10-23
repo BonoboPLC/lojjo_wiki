@@ -4,8 +4,8 @@
 # Creating Agents
 
 ## Creating Agent Accounts
-## Sales Agent Limits
-## Sales Agent Commission
+## Setting Sales & Deposit Limits
+## Setting Agent Commissions
 
 ## Enabling Agents to Pay Prizes
 
