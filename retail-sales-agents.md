@@ -19,7 +19,7 @@ You can access Sales Agent from any smart device, including PC, Laptop, Smartpho
 
 ![](/uploads/600-x-600.png){:height="300px" width="300px"}
 # Handling of Cash & Payments
-# Agent Sales Receipt Limits
+# Agent Sales & Deposit Limits
 # Selling a Ticket
 Selling tickets is pretty easy.
 
