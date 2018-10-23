@@ -5,6 +5,17 @@
 ![Contact](/uploads/contact.png "Contact")
 
 ## Creating Agent Accounts
+
+> Step 1.  Navigate to the Sales Agent shown on the navigation
+{.is-info}
+
+![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
+
+> Step 2 Select "Create New Agent" from the top right hand navigation
+{.is-info}
+
+![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
+
 ## Setting Sales & Deposit Limits
 
 
