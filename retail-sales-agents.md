@@ -5,17 +5,35 @@
 # 	Sell from any Device!
 
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
-
+For best experience please use Chrome.
 
 > Smartphone or Tablet
 
+You can use any Apple or Android smartphone or tablet.
+Be aware that when using a smartphone you typically won't be connected to a printer and will be limited to selling digital tickets only.
+
+This setup is best for mobile sellers wishing to sell to registered Account holders.
+
 ![Device Screenshots](/uploads/device-screenshots.png)
 
+
+
 > PC/Laptop with Thermal Printer
+
+You can use any PC or Laptop. For best experience please use Chrome browser.
+You can use any 80mm printer of your choice. 
+Please ensure that your print margins are set to zero.
+
+This setup is best for fixed locations such as Betting Shops and Lottery outlets.
 
 ![Pc Printer](/uploads/pc-printer.png "Pc Printer")
 
 > All in One Point of Sale 
+
+The All in One Android point of sale comes pre-installed with the Sales Agent App.
+It includes a 58mm printer and can connect via WIFI or SIM Card.
+
+This setup is best for mobile sellers (i.e. Sellers walking around the Stadium and selling tickets to the 50/50 Draw)
 
 ![](/uploads/600-x-600.png){:height="300px" width="300px"}
 
