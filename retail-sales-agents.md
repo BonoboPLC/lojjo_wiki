@@ -69,7 +69,10 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 # Managing Player Accounts
 ## Registering a Player
 
-![New Account](/uploads/new-account.png "New Account")
+![Create Account](/uploads/create-account.png "Create Account")
+
+
+
 ## Verifying a Player
 
 # Agent Sales & Deposit Limits
