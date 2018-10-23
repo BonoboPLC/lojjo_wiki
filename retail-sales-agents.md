@@ -130,12 +130,19 @@ You can easily create accounts for players.
 
 > Step 2. Complete the Quick Registration form
 {.is-info}
+ 
+ Note: The agent must verify that the player is of Legal age. You must not create accounts for minors.
+ Note: Checking "Player completes registration" enables the player to complete their full registration at their own convenience. 
+  If you do not check this off, you will be prompted to complete the players full registration by entering their full address, age and name.
+ 
+ ![Full Registration](/uploads/full-registration.png "Full Registration")
+
 
 ![Quick Account](/uploads/quick-account.png "Quick Account")
 
 ![Account Created](/uploads/account-created.png "Account Created")
 
-![Full Registration](/uploads/full-registration.png "Full Registration")
+
 
 ## Verifying a Player
 
