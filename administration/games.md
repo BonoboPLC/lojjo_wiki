@@ -38,21 +38,10 @@ To expand the details for each game, click on the arrow icon located on the righ
 
 === Action Buttons ===
 
-{| class="wikitable" style="border-spacing: 2px; border: 1px solid darkgray;"
-! style="width: 15%;" | Buttons
-! style="width: 50%;" | Action
-! style="width: 35%;" | Usage notes
-|-
-|- style="text-align: left;"
-| Close/Open|| Setting a game to close will restrict any new game instances from being created. Can be used at any time and no prerequisite actions are required.
-|| Typically used as part of game shutdown procedure. 
-
-If a game is closed and no open instances exist, then setting the game to Open will not automatically create new instances. The game must be stopped and started.
-|- style="text-align: left;"
-| Stopping a Game || Stopping a game will stop any open instances and refund all bets. Should only be used when there are no open instances available and after all games in play have been completed.  || Before stopping a game, set the game to close first. Setting it to close will ensure no new instances are created and you can wait for any existing games to finish before stopping a game.
-|- style="text-align: left;"
-| Starting a Game || Starting a game will create a new open instance of the game definition.  || N/A
-|}
+| Buttons | Action | Usage notes |
+| Close/Open | Setting a game to close will restrict any new game instances from being created. Can be used at any time and no prerequisite actions are required. | Typically used as part of game shutdown procedure. If a game is closed and no open instances exist, then setting the game to Open will not automatically create new instances. The game must be stopped and started. |
+| Stopping a Game | Stopping a game will stop any open instances and refund all bets. Should only be used when there are no open instances available and after all games in play have been completed.  | Before stopping a game, set the game to close first. Setting it to close will ensure no new instances are created and you can wait for any existing games to finish before stopping a game. |
+| Starting a Game | Starting a game will create a new open instance of the game definition.  | N/A
 
 == Starting & Stopping Games ==
 
