@@ -4,14 +4,17 @@
 
 
 # Welcome to our system guide
-## [Admin User Guide](/administration "title text!")
-[Game Management](/administration/games "title text!")
-[Sales Agents](/administration/agents "title text!")
-[Site Branding & CSS](/administration/games "title text!")
+## Admin User Guide
+[Game Management](/administration/games "Managing your Lottery & Raffle Games")
+[Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
+[Site Branding & CSS](/administration/games "Customizing your Player Web site!")
 
 
-
+## Sales Agent User Guide
 [Sales Agent User Guide](sales-agent-guide/ "title text!")
+
+## System Integration Guide
+
 [System Integration Guide](http://docs.bonoboplc.com:4567/)
 
 
