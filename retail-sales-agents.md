@@ -116,7 +116,7 @@ If you do not have a printer connected, then only sell Electronic Tickets.
 
 
 All printed tickets contain 
-* The Ticket ID (Found to the right of the IQR Code)
+* The Ticket ID (Found to the right of the QR Code)
 * Secure Code (Found on top of the ticket and required for checking ticket)
 	* Will read "Original Print 232342" if the ticket is the first and original printed ticket
 	* Will read "Reprint 232342" if the ticket was voided and reprinted 
@@ -134,8 +134,21 @@ All the Agent needs to do is to confirm that they have successfully received pay
 ![Collect Cash](/uploads/collect-cash.png "Collect Cash")
 
 # Paying Prizes
-## Printed Tickets
-## Registered Users
+## How to Check tickets
+
+You can check tickets in 2 ways; You can scan the QR code, or check manually.
+
+>**Step 3.** Scan QR Code
+{.is-info}
+
+
+>**Step 3.** Check manually
+{.is-info}
+
+
+
+## Processing Payouts
+## Verifying Players before payout (optional)
 ## Two Factor Authentication
 
 # Managing Player Accounts
