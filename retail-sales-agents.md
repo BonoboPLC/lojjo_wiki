@@ -103,6 +103,13 @@ Sales Agents are free to accept payment in any way available. This could be simp
 
 ## Printed Tickets vs Digital Tickets
 
+You can sell printed or digital tickets. 
+**Printed Tickets** are anonymous and not associated to any account, just like your typical Lottery ticket.
+
+The player will need to print their name and signature on the printed Ticket to ensure ownership.
+Digital tickets can be sold to Account holders only. A quick [Player Registration](/retail-sales-agents#registering-a-player) is all it takes to a create an account for a player.
+
+
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
 
