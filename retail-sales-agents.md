@@ -47,8 +47,8 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 {.is-info}
 
 
-> Printed Tickets vs Digital Tickets
-{.is-info}
+## Printed Tickets vs Digital Tickets
+
 
 < Handling Cash and Electronic payments{.is-warning}
 # Paying Prizes
