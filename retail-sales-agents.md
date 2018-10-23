@@ -5,7 +5,7 @@
 ## 	Implementation Options
 ### Smartphone or Tablet (no printer)
 
-![Device Screenshots](/uploads/device-screenshots.png "Device Screenshots")
+![Device Screenshots](/uploads/device-screenshots.png)
 
 ### PC/Laptop with Thermal Printer
 ### All in One Point of Sale 
