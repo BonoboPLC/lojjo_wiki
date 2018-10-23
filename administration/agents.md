@@ -18,10 +18,10 @@
 
 
 
-
 ## Set username/pw
 
-![Agent Wizard 1](/uploads/agent-wizard-1.png "Agent Wizard 1")
+![Agent Wizard Cred](/uploads/agent-wizard-cred.png "Agent Wizard Cred")
+
 
 
 ## Complete personal details
