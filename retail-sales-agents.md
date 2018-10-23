@@ -9,13 +9,10 @@ You can access Sales Agent from any smart device, including PC, Laptop, Smartpho
 
 > Smartphone or Tablet
 
-
-## Smartphone or Tablet 
-
 ![Device Screenshots](/uploads/device-screenshots.png)
 
-## PC/Laptop with Thermal Printer
-## All in One Point of Sale 
+> PC/Laptop with Thermal Printer
+> All in One Point of Sale 
 
 ![](/uploads/600-x-600.png){:height="300px" width="300px"}
 # Handling of Cash & Payments
