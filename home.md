@@ -10,7 +10,7 @@
 [Site Branding & CSS](/administration/games "Customizing your Player Web site!")
 
 
-## Sales Agent User Guide
+## Retail Sales Agent User Guide
 [Sales Agent User Guide](retail-lotto-guide/ "title text!")
 
 ## System Integration Guide
