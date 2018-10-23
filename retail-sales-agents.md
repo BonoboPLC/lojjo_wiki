@@ -95,8 +95,9 @@ Sales Agents are free to accept payment in any way available. This could be simp
 
 Sales Agents are free to accept payment in any way available. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
 
-All the Agent needs to do is to confirm that they have received payment, and then remit the funds to you on your own schedule.
+All the Agent needs to do is to confirm that they have successfully received payment from the customer, and then remit the funds to you on your own schedule.
 
+![Collect Cash](/uploads/collect-cash.png "Collect Cash")
 ![Accepting Payment](/uploads/accepting-payment.png "Accepting Payment"){:height="300px" width="300px"}
 # Paying Prizes
 ## Printed Tickets
