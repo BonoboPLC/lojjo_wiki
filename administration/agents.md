@@ -24,6 +24,12 @@
 ![Agent Wizard 1](/uploads/agent-wizard-1.png "Agent Wizard 1")
 
 
+## Complete personal details
+
+Make sure that the information provided is accurate to comply with record keeping regulations.
+
+![Agent Personal Info](/uploads/agent-personal-info.png "Agent Personal Info")
+
 ## Setting Sales & Deposit Limits
 
 
