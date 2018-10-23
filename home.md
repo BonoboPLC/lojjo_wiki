@@ -4,12 +4,8 @@
 
 
 # Welcome to our system guide
-test
-## Admin User Guide()
-test
-## Sales Agent User Guide()
-test
-## System Integration Guide()
-test
+[Admin User Guide](/admin-user-guide "title text!")
+[Sales Agent User Guide](http://nodeca.github.io/pica/demo/ "title text!")
+[System Integration Guide](http://nodeca.github.io/pica/demo/ "title text!")
 
 
