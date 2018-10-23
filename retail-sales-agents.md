@@ -74,6 +74,10 @@ Go ahead and select the one you need. You'll be taken back to the ticket selecti
 {.is-info}
 
 Click on the "Change" label on the Game Selector to view other available games from the list.
+
+![Ticket Selector](/uploads/ticket-selector.png "Ticket Selector")
+
+
 Any commissions payable for the games will be displayed in Green.
 
 ![Select A Game](/uploads/select-a-game.png "Select A Game")
