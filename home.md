@@ -11,7 +11,7 @@
 
 
 ## Sales Agent User Guide
-[Sales Agent User Guide](sales-agent-guide/ "title text!")
+[Sales Agent User Guide](retail-lotto-guide/ "title text!")
 
 ## System Integration Guide
 
