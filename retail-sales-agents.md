@@ -43,7 +43,7 @@ Selling tickets is pretty easy.
 
 Before getting started, make sure that you have at least one active game, and one active sales agent account. 
 
-> Step 1. Log in and Choose Sell Ticket
+> **Step 1.** Log in and Choose Sell Ticket
 {.is-info}
 
 Log in to the Agent Portal with your credentials
@@ -51,7 +51,7 @@ Log in to the Agent Portal with your credentials
 
 ![Sell Ticket](/uploads/sell-ticket.png "Sell Ticket")
 
->Step 2. Select either a Printed or Digital ticket
+>**Step 2.** Select either a Printed or Digital ticket
 {.is-info}
 
 You can sell printed or digital tickets. 
@@ -70,7 +70,7 @@ Go ahead and select the one you need. You'll be taken back to the ticket selecti
 ![Search Account](/uploads/search-account.png "Search Account")
 
 
->Step 3. Select  game
+>**Step 3.** Select  game
 {.is-info}
 
 Click on the "Change" label on the Game Selector to view other available games from the list.
@@ -82,7 +82,7 @@ The list will display all available games including ticket price, status and the
 
 ![Select A Game](/uploads/select-a-game.png "Select A Game")
 
->Step 4. Choose how many tickets
+>**Step 4.** Choose how many tickets
 {.is-info}
 
 You can select the number of tickets, based on the customers request.
@@ -93,7 +93,7 @@ For example you can sell tickets to the next 5 weekly draws in one transaction.
 
 ![How Many Tickets](/uploads/how-many-tickets.png "How Many Tickets")
 
->Step 5. Confirm and Collect payment
+>**Step 5.** Confirm and Collect payment
 {.is-info}
 
 Sales Agents are free to accept payment in any way available. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system.
