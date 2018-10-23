@@ -1,5 +1,5 @@
  <!-- TITLE: Bonobo LottoSuite System Guide -->
-<!-- SUBTITLE: A complete guide on developing and deploying LottoRace installations-->
+<!-- SUBTITLE: A complete guide for developing and deploying LottoRace installations-->
 
 
 
