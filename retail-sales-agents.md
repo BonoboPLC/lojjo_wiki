@@ -165,8 +165,8 @@ This **account is decreased** when you use the funds to pay Player prizes or rem
 
 If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
 
->If you do not have sufficient funds to pay prizes
-{.is-alert}
+>If you do not have sufficient funds to pay prizes your manager will be alerted. You will be provided with a list of alternatives which the player may contact to retrieve their prize.
+{.is-warning}
 
 
 ## How to Pay Prizes
