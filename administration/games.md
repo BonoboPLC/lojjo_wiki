@@ -72,7 +72,7 @@ The following sets of information are displayed for each game. Some of the confi
 * Regular Game
 * Elimination
 * OneDraw | N/A |
-| Game Playout | Defines the visual presentation of the game. Can be any of the following:\\
+| Game Playout | Defines the visual presentation of the game. Can be any of the following:<br/>
 * LottoRace
 * LottoRace2
 * PokerRace
