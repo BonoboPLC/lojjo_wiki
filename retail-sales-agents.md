@@ -205,10 +205,10 @@ Step 1.
 
 ![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
 
->**Step 3.** Select  game
+>**Step 3.** Confirm the amount to pay
 {.is-info}
 
-![Winning Ticket](/uploads/winning-ticket.png "Winning Ticket")
+![Need To Pay](/uploads/need-to-pay.png "Need To Pay")
 ## Two Factor Authentication
 
 # Managing Player Accounts
