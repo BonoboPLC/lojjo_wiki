@@ -7,7 +7,7 @@
 You can access Sales Agent from any smart device, including PC, Laptop, Smartphone or Tablet.
 
 
-
+> Smartphone or Tablet
 
 
 ## Smartphone or Tablet 
