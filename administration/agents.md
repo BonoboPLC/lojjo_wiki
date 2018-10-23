@@ -34,6 +34,9 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 # Managing Agents day to day
 
 ## Viewing Agent Activity
+
+
+
 ## Enabling Agents to Pay prizes
 ## Managing Withdrawal Float
 ## Collecting Sales Receipts
