@@ -120,7 +120,16 @@ All the Agent needs to do is to confirm that they have successfully received pay
 # Managing Player Accounts
 ## Registering a Player
 
+You can easily create accounts for players.
+
+
+> Step 1. Choose **New Account,** either from the account search screen, or from the home screen.
+{.is-info}
+
 ![Create Account](/uploads/create-account.png "Create Account")
+
+> Step 2. Complete the Quick Registration form
+{.is-info}
 
 ![Quick Account](/uploads/quick-account.png "Quick Account")
 
