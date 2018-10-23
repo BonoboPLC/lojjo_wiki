@@ -327,8 +327,15 @@ The account number is emailed to the Player when they first register and can als
 
 If the Player does not have an account, [create a new account](/retail-sales-agents#registering-a-player) for the Player.
 
+>**Step 2.** Ask the player how much they  would like to Deposit
+{.is-info}
+
+![How Much Deposit](/uploads/how-much-deposit.png "How Much Deposit")
+
 >**Step 2.** Collect Payment 
 {.is-info}
+
+
 
 >**Step 3.** Provide Receipt to Player
 {.is-info}
