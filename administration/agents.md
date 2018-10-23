@@ -14,3 +14,4 @@
 ## Viewing Agent Activity
 ## Collecting Sales Receipts
 ## Enabling Agents to Pay prizes
+## Paying Agent Commissions
