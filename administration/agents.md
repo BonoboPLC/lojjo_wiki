@@ -24,7 +24,7 @@
 
 
 
-## Complete personal details
+## Complete Agent details
 
 Make sure that the information provided is accurate to comply with record keeping regulations.
 
