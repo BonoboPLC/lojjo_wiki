@@ -47,6 +47,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 {.is-info}
 
 
+
 >Step 5. Confirm and Collect payment
 {.is-info}
 
@@ -56,7 +57,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 ## Printed Tickets vs Digital Tickets
 
-
+![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
 ## Handling Cash and Electronic payments
 # Paying Prizes
 ## Printed Tickets
