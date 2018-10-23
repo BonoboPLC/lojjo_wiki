@@ -159,9 +159,11 @@ Every Sales Agent has a Withdrawal Float Account in the system.
 
 This account tracks any funds which are provided to the Agent, by head office, for the purpose of paying Player prizes.
 
-This **account can is increased** when the Sales manager leaves additional money with you to pay for expected prizes.
+This **account can is increased** when the Sales manager provides you with funds to pay for expected prize payouts.
 
-This **account is decreased **when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+This **account is decreased** when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+
+If you do not have sufficient funds in your Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, you'll be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
 
 
 ## How to Pay Prizes
