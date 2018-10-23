@@ -127,14 +127,21 @@ All printed tickets contain
 
 
 ![Printed Ticket Confirmation](/uploads/printed-ticket-confirmation.png "Printed Ticket Confirmation")
-## Handling Cash and Electronic payments
+## Accepting Payment
 
-Sales Agents are free to accept payment in any way available. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
+Sales Agents are free to accept payment in any way available to them as directed by head office. This could be simple as accepting cash, or taking payment by swiping the customers card on your payment system or other payment systems such as [Square](https://squareup.com) or [Stripe](https://stripe.com).
 
-All the Agent needs to do is to confirm that they have successfully received payment from the customer, and then remit the funds to head office at a different time. 
+All the Sales Agent needs to do is to confirm that they have successfully received payment from the customer, and then remit the funds to head office at a different time. 
+
+The system tracks all payments accepted by the Sales Agent for ticket sales or account deposits. 
+
+You are responsible for handling all cash provided to you safely and securely. 
 
 ![Collect Cash](/uploads/collect-cash.png "Collect Cash")
 
+>Note: When you reach your Sales Limit, you will no longer be able to sell tickets. 
+At that point you'll need to remit your sales receipts to your Sales Manager. Upon successful receipt of funds, your Sales manager will remove the limitation on your account.
+{.is-danger}
 # Paying Prizes
 ## How to Check tickets
 
