@@ -4,10 +4,10 @@
 
 
 # Welcome to our system guide
-## Admin User Guide
+## Administrator Guide
 [Game Management](/administration/games "Managing your Lottery & Raffle Games")
 [Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
-[Site Branding & CSS](/administration/games "Customizing your Player Web site!")
+[Site Skin & CSS](/administration/skinning "Customizing your Player Web site!")
 
 
 ## Retail Sales Agent User Guide
