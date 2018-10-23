@@ -64,7 +64,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 ![Select Ticket Type](/uploads/select-ticket-type.png "Select Ticket Type")
 
 
-When selecting Electronic Ticket, you will be prompted to either search for an **existing Account**, or to create a **new Account**.
+When selecting Electronic Ticket, you will be prompted to either **search for an existing Account**, or to **create a new Account**.
 
 ![Search Account](/uploads/search-account.png "Search Account")
 
