@@ -65,6 +65,7 @@ Digital tickets can be sold to Account holders only. A quick [Player Registratio
 
 
 When selecting Electronic Ticket, you will be prompted to either **search for an existing Account**, or to **create a new Account**.
+Go ahead and select the one you need. You'll be taken back to the ticket selection screen when you've selected the account.
 
 ![Search Account](/uploads/search-account.png "Search Account")
 
@@ -72,10 +73,19 @@ When selecting Electronic Ticket, you will be prompted to either **search for an
 >Step 3. Select  game
 {.is-info}
 
+Click on the "Change" label on the Game Selector to change the game from the list.
+Any commissions payable for the games will be displayed in Green.
+
 ![Select A Game](/uploads/select-a-game.png "Select A Game")
 
 >Step 4. Choose how many tickets
 {.is-info}
+
+You can select the number of tickets, based on the customers request.
+Please note that most games have a maximum number of entries per player.
+
+You can also choose to add Subscriptions for future games. A Subscription will repeat the same plays in future games as they become available.
+For example you can sell tickets to the next 5 weekly draws in one transaction. 
 
 ![How Many Tickets](/uploads/how-many-tickets.png "How Many Tickets")
 
