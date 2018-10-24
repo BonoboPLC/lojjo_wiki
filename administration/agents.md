@@ -83,6 +83,8 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 ## Collecting Sales Receipts
 
+![Sales Receipts Collect](/uploads/sales-receipts-collect.png "Sales Receipts Collect")
+
 ![Collect Sales Receipts](/uploads/collect-sales-receipts.png "Collect Sales Receipts")
 
 ## Collecting Deposit Receipts
