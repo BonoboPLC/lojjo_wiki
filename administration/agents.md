@@ -92,7 +92,8 @@ This helps you designate which Sales Agents can process payouts, and their respe
 To enable a Sales Agent to pay prizes, please follow the 3 easy steps shown bleow.
 
 
-**Set Agent Prize Payout Limit**
+> Set Agent Prize Payout Limit
+{.is-info}
 
 This **Prize Payout Limit** is  the maximum value that can be paid by this Sales Agent. 
 
