@@ -8,6 +8,8 @@ Sales Agents can be anyone of your staff, an external sales representative or vo
 
 Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets, pay winnings and much more.
 
+Sales Agents can operate from call centers, door to door or from shops.
+
 Follow the 2 easy steps shown below to create an account for a Sales Agent
 
 > Step 1.  Navigate to the Sales Agent shown on the navigation
