@@ -11,6 +11,8 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
 
+[Managing Players](/administration/agents "Managing Players")
+
 [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 
 [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
