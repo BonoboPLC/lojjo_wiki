@@ -13,7 +13,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 
-[Customise Site Skin](/administration/skinning "Customizing your Player Web site!)
+[Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
 
 # Retail Sales Agent User Guide
 Read this if you are Selling Tickets
