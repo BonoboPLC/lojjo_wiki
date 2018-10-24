@@ -75,7 +75,7 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 ## Managing Withdrawal Float
 
-![Withdrawal Float Agent](/uploads/withdrawal-float-agent.png "Withdrawal Float Agent")
+![Withdrawal Float Agent 2](/uploads/withdrawal-float-agent-2.png "Withdrawal Float Agent 2")
 
 ![Add Withdrawal Float](/uploads/add-withdrawal-float.png "Add Withdrawal Float")
 
