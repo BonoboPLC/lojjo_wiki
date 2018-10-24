@@ -5,11 +5,11 @@
 
 There are 3 different type of games currently offered on the Platform.
 
-## LottoRace Games
+## LottoRace Raffles
 
 ## Lottery Games
 
-## Raffle Games
+## Prize Raffles
 
 
 # Managing Game Templates
