@@ -104,11 +104,18 @@ You can use this to allow most agents to make small payouts, but reserve larger 
 
 ![Agent Prize Payout Limit](/uploads/agent-prize-payout-limit.png "Agent Prize Payout Limit")
 
-**Ensure they have a withdrawl float**
+> Ensure they have sufficient Withdrawl Float
+{.is-info}
 
-**Enable agent to payout from Sales Receipt**
+> Enable agent to payout from Sales Receipt
+{.is-info}
 
-This step is optional, but very useful in helping
+This step is optional, but very useful in helping an agent recycle the funds from Ticket Sales into Prize Payouts.
+
+For example if  the Sales Agent has $1,000  in Ticket Sales for the day, but you did not provide them with a Withdrawal Float in the beginning of the day, the Agent can use money from Ticket Sales to pay prizes.
+
+You can disable or enable this setting based o your requirement.
+
 
 ![Can Agent Pay From Sales](/uploads/can-agent-pay-from-sales.png "Can Agent Pay From Sales")
 
