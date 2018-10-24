@@ -9,8 +9,8 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 * [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
 * [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
-	* [Creating Agents](/administration/agents#creating-sales-agents)
-	* [Day to Day Management flow](/administration/agents#managing-agents-day-to-day)
+	* [Creating Sales Agents](/administration/agents#creating-sales-agents)
+	* [Day to Day Operation flow](/administration/agents#managing-agents-day-to-day)
 * [Managing Players](/administration/players "Managing Players")
 * [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 * [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
