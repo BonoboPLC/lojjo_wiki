@@ -3,11 +3,13 @@
 
 # Manage Games
 
-There are 3 different type o games currently offered on the Platform.
+There are 3 different type of games currently offered on the Platform.
 
 ## LottoRace Games
 
 ## Lottery Games
 
 ## Raffle Games
+
+
 
