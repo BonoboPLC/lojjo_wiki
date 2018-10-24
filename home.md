@@ -1,5 +1,5 @@
  <!-- TITLE: System Guide -->
-<!-- SUBTITLE: A complete guide for managing Games, Sales Agents, Players and more ->
+<!-- SUBTITLE: A complete guide for managing Games, Sales Agents, Players and more -->
 
 
 
