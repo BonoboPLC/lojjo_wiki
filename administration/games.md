@@ -12,7 +12,7 @@ There are 3 different type of games currently offered on the Platform.
 ## Raffle Games
 
 
-# Understanding Game Templates
+# Managing Game Templates
 # Viewing Past Game Instances
 # Games Report
 
