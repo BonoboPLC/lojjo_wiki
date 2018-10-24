@@ -54,7 +54,7 @@ This store address will be listed on the web site and used for referrals by othe
 
 You can set limits on how much sales or deposit receipts an agent can have on hand. 
 
-This limit helps protect you and the sales agent against any losses due to theft or mistakes.
+This limit helps you avoid mishaps protect you and the sales agent against any losses.
 
 Once the limits are reached the Sales Agent will need to remit the balances due before selling additional Tickets.
 
@@ -87,7 +87,7 @@ The Sales Agent can see how much they would earn for each ticket, in the game se
 
 By default all Sales Agents are not able to process payouts.  
 
-This helps you designate which Sales Agents can process payouts, and their respective limitations. 
+This helps you avoid mishaps and designate which Sales Agents can process payouts, and their respective limitations. 
 
 To enable a Sales Agent to pay prizes, please follow the 3 easy steps shown bleow.
 
