@@ -8,9 +8,12 @@
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
 [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
-[Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
-[Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
 
+[Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
+
+[Managing Staff Accounts](/administration/skinning "Providing access for Company employees")
+
+[Customise Site Skin](/administration/skinning "Customizing your Player Web site!)
 
 # Retail Sales Agent User Guide
 Read this if you are Selling Tickets
