@@ -43,7 +43,10 @@ Selling tickets is pretty easy.
 
 Before getting started, make sure that you have at least one active game, and one active sales agent account. 
 
-## Step by Step
+
+## How to sell a ticket
+
+Follow the 5 easy steps below to sell a ticket, anytime, anywhere.
 
 > **Step 1.** Log in and Choose Sell Ticket
 {.is-info}
