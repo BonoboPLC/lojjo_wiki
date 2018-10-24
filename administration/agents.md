@@ -55,10 +55,12 @@ You can impose limits on how much in sales or deposit receipts an agent can have
 This limit helps protect you and the sales agent against any losses due to theft or mistakes.
 
 **Sales Receipt Limit**
-This is the maximum amount of Sales Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to [remit the Sales Receipts](/administration/agents#collecting-sales-receipts) to their manager, before being able to sell again.
+This is the maximum amount of Sales Receipts your agent can have on hand. 
+Once this limit is reached the Sales Agent will need to [remit the Sales Receipts](/administration/agents#collecting-sales-receipts) to their manager, before being able to sell again.
 
 **Deposit Receipt Limit**
-This is the maximum amount of Deposit Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to [remit the Deposit Receipts](/administration/agents#collecting-deposit-receipts) to their manager, before being able to accept Deposits again.
+This is the maximum amount of Deposit Receipts your agent can have on hand. 
+Once this limit is reached the Sales Agent will need to [remit the Deposit Receipts](/administration/agents#collecting-deposit-receipts) to their manager, before being able to accept Deposits again.
 
 You can limit the prizes that agent is able to pay.
 **Prize Payout Limit**
