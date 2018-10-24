@@ -53,7 +53,7 @@ You can limit the prizes that agent is able to pay.
 **Prize Payout Limit**
 This is the maximum amount that this Agent can payout in prizes to players
 
-
+![Set Commissions](/uploads/set-commissions.png "Set Commissions")
 ## Setting Agent Commissions
 You can set  a specific **Commission Percentage** for each sales agent.
 
