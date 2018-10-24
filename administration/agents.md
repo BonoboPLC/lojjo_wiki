@@ -107,6 +107,9 @@ You can use this to allow most agents to make small payouts, but reserve larger 
 > Ensure they have sufficient Withdrawl Float
 {.is-info}
 
+
+
+
 > Enable agent to payout from Sales Receipt
 {.is-info}
 
@@ -140,6 +143,23 @@ This includes the following and more
 
 
 ## Managing Withdrawal Float
+
+Every Sales Agent has a Withdrawal Float Account in the system which is used for Paying Prizes.
+
+This account tracks any funds which are provided to the Agent, by head office, for the purpose of paying expected Player prizes during normal course of business.
+
+This **account is increased** when the Sales manager funds the account to pay for expected prize payouts.
+
+This **account is decreased** when you use the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+
+>If the Agent doesn't have sufficient funds in the Withdrawal Float to pay a winning ticket, but have enough cash from the days sales receipt, the Agent will be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
+{.is-warning}
+
+>If the Agent cannot pay prizes, they will ask the player to return and attempt to contact the Manager for more funds for their Withdrawal Float account in order to pay the player. 
+{.is-warning}
+
+>If the Agent cannot pay for whatever reason, an alert will be shown in the Agent Activity. The Agent will be provided with a list of alternatives to present to the player for prize retrieval.
+{.is-danger}
 
 ![Withdrawal Float Agent 2](/uploads/withdrawal-float-agent-2.png "Withdrawal Float Agent 2")
 
