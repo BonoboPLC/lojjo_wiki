@@ -12,7 +12,7 @@ Sales Agents can operate from call centers, door to door or from shops.
 
 Follow the 2 easy steps shown below to create an account for a Sales Agent
 
-> Step 1.  Navigate to the Sales Agent shown on the navigation
+> Step 1.  Navigate to the Sales Agent tab shown on the navigation
 {.is-info}
 
 ![Sales Agent Tab](/uploads/sales-agent-tab.png "Sales Agent Tab")
