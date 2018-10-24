@@ -66,6 +66,8 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 **Set Agent Prize Payout Limit**
 
+![Agent Prize Payout Limit](/uploads/agent-prize-payout-limit.png "Agent Prize Payout Limit")
+
 **Ensure they have a withdrawl float**
 
 **Enable agent to payout from Sales Receipt**
