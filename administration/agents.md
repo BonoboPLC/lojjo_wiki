@@ -42,7 +42,7 @@ Make sure that the personal details such as birthdate are accurate so that you c
 
 ## Set Store address
 
-If your agent operates out of a different physical addres than your location, please enter it here.
+If your agent operates out of a different physical address than your location, please enter it here.
 
 This store address will be listed on the web site and used for referrals by other Sales Agents.
 
