@@ -179,7 +179,7 @@ This account increases each time a payment is made to the Sales Agent and only d
 
 ![Sales Receipts Collec 2 T](/uploads/sales-receipts-collec-2-t.png "Sales Receipts Collec 2 T")
 
-Typically at the end of the day you would ask the Agent to remitt all Sales Receipts for the Day and record the transaction. 
+Typically at the end of the day you would ask the Agent to remit all Sales Receipts for the Day and record the transaction. 
 
 ![Collect Sales Receipts](/uploads/collect-sales-receipts.png "Collect Sales Receipts")
 
@@ -191,13 +191,17 @@ This account increases each time a payment is made to the Sales Agent and only d
 
 ![Deposit Receipts Collect 2](/uploads/deposit-receipts-collect-2.png "Deposit Receipts Collect 2")
 
-Typically at the end of the day you would ask the Agent to remitt all Deposit Receipts for the Day and record the transaction. 
+Typically at the end of the day you would ask the Agent to remit all Deposit Receipts for the Day and record the transaction. 
 
 ![Collect Deposit Receipts](/uploads/collect-deposit-receipts.png "Collect Deposit Receipts")
 
 
 ## Paying Agent Commissions
 
+
+
 ![Pay Agent Comm 3](/uploads/pay-agent-comm-3.png "Pay Agent Comm 3")
+
+
 
 ![Pay Agent Commissions](/uploads/pay-agent-commissions.png "Pay Agent Commissions")
