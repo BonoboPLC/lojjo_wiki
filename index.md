@@ -2,8 +2,7 @@
 <!-- SUBTITLE: A quick summary of Index -->
 
 # Header
-::: warning
 *here be dragons*
-:::
+{.warning}
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
