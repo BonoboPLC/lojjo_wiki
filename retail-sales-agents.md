@@ -164,7 +164,7 @@ This **account is decreased** when you use the funds to pay Player prizes or rem
 >If you do not have funds to pay prizes, please inform the player to come back at a later date and attempt to contact your manager and request funds for your Withdrawal Float account.
 {.is-warning}
 
->If you are not able to prizes your manager will be alerted. You will be provided with a list of alternatives to give to present to the player as a means for retrieving their prize.
+>If you are not able to prizes your manager will be alerted. You will  be provided with a list of alternatives to present to the player for prize retrieval.
 {.is-danger}
 
 ## How to Check tickets
