@@ -5,3 +5,5 @@
 ::: warning
 *here be dragons*
 :::
+
+### [Custom containers](https://github.com/markdown-it/markdown-it-container)
