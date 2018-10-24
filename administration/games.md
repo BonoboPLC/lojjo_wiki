@@ -13,6 +13,7 @@ There are 3 different type of games currently offered on the Platform.
 
 
 # Managing Game Templates
+# Updating Game Schedules
 # Viewing Past Game Instances
 # Starting & Stopping Games
 # Games Report
