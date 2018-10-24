@@ -89,7 +89,7 @@ By default all Sales Agents are not able to process payouts.
 
 This helps you avoid mishaps and designate which Sales Agents can process payouts, and their respective limitations. 
 
-To enable a Sales Agent to pay prizes, please follow the 3 easy steps shown bleow.
+To enable a Sales Agent to pay prizes, please follow the 3 easy steps shown below.
 
 
 > Set Agent Prize Payout Limit
@@ -107,7 +107,11 @@ You can use this to allow most agents to make small payouts, but reserve larger 
 > Ensure they have sufficient Withdrawl Float
 {.is-info}
 
+Ensure the player has sufficient balance in the [Withdrawal Float](/administration/agents#managing-withdrawal-float)
 
+
+
+![Withdrawal Float Agent 2](/uploads/withdrawal-float-agent-2.png "Withdrawal Float Agent 2")
 
 
 > Enable agent to payout from Sales Receipt
