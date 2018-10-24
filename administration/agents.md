@@ -72,11 +72,15 @@ This is the maximum amount that this Agent can payout in prizes to players
 
 ![Set Commissions](/uploads/set-commissions.png "Set Commissions")
 ## Setting Agent Commissions
-You can set  a specific **Commission Percentage** for each sales agent.
+You can set  a  **Commission Percentage** for each Sales Agent.
 
-This is the Percentage that the Agent earns from each Ticket Sale, calculated as a % of the Rake (Gross Profits) of each ticket sold. I.e. 
+This is the Percentage that the Sales Agent earns from each Ticket Sale, calculated as a % of the Rake (Gross Profits) of each ticket sold. I.e. 
 
 Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a 10% commission to the agent would net the Sales Agent a $5 Commission.
+
+The Sales Agent can see how much they would earn for each ticket, in the game selection menu of the Sales Agent App as shown below.
+
+![Select A Game](/uploads/select-a-game.png "Select A Game")
 
 
 ## Enabling Agents to Pay Prizes
