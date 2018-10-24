@@ -20,10 +20,10 @@ Follow the 2 easy steps shown below to create an account for a Sales Agent
 
 ![Create Agent](/uploads/create-agent.png "Create Agent")
 
-You will now be taken to the Sales Agent Create Wizard
+You will now be taken to the **Sales Agent Create Wizard**
 
 ## Set username/pw
- In the first step of the Sales Agent Create Wizard you'll need to set a username and temporary password for your Sales Agent.
+ In the first step of the **Sales Agent Create Wizard** you'll need to set a username and temporary password for your Sales Agent.
  
  The agent will receive the credentials via email and will be prompted to change their password on their first log in.
 
