@@ -243,7 +243,7 @@ Payout is now successfully complete. Please provide the receipt to the Player.
 
 
 
-# Managing Player Accounts
+# Managing Players
 ## Registering a Player
 
 You can easily create accounts for players.
