@@ -241,7 +241,7 @@ Payout is now successfully complete. Please provide the receipt to the Player.
 
 ![Payout Success](/uploads/payout-success.png "Payout Success")
 
-## Two Factor Authentication
+
 
 # Managing Player Accounts
 ## Registering a Player
