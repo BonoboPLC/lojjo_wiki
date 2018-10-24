@@ -198,10 +198,15 @@ Typically at the end of the day you would ask the Agent to remit all Deposit Rec
 
 ## Paying Agent Commissions
 
+Every Sales Agent has a Commission Account in the system which tracks the oustanding Commissions payable. 
+
+If you have set a commission rate for your Sales Agent, then payable commissions will be reflected after each Ticket Sale.
+
+This account increases each time a commission is earned on Ticket Sales and only decreases when the agents payment is recorded here.
 
 
 ![Pay Agent Comm 3](/uploads/pay-agent-comm-3.png "Pay Agent Comm 3")
 
-
+When payment is made at each pay period, record the transaction here.
 
 ![Pay Agent Commissions](/uploads/pay-agent-commissions.png "Pay Agent Commissions")
