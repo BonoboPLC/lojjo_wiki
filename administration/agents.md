@@ -173,13 +173,25 @@ This **account is decreased** when the Sales Agent uses the funds to pay Player 
 
 ## Collecting Sales Receipts
 
+Every Sales Agent has a Sales Receipt Account in the system which tracks the money from Ticket Sales.
+
+This account increases each time a payment is made to the Sales Agent and only decreases when the Sales Receipts are remitted to the Sales Manager.
+
 ![Sales Receipts Collec 2 T](/uploads/sales-receipts-collec-2-t.png "Sales Receipts Collec 2 T")
+
+Typically at the end of the day you would ask the Agent to remitt all Sales Receipts for the Day and record the transaction. 
 
 ![Collect Sales Receipts](/uploads/collect-sales-receipts.png "Collect Sales Receipts")
 
 ## Collecting Deposit Receipts
 
+Every Sales Agent has a Deposit Receipt Account in the system which tracks the money from Player Account Deposits. 
+
+This account increases each time a payment is made to the Sales Agent and only decreases when the Deposit Receipts are remitted to the Sales Manager.
+
 ![Deposit Receipts Collect 2](/uploads/deposit-receipts-collect-2.png "Deposit Receipts Collect 2")
+
+Typically at the end of the day you would ask the Agent to remitt all Deposit Receipts for the Day and record the transaction. 
 
 ![Collect Deposit Receipts](/uploads/collect-deposit-receipts.png "Collect Deposit Receipts")
 
