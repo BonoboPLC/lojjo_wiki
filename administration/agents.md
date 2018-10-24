@@ -64,13 +64,19 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 ## Enabling Agents to Pay Prizes
 
+**Set Agent Prize Payout Limit**
+
+**Ensure they have a withdrawl float**
+
+**Enable agent to payout from Sales Receipt**
+
+![Can Agent Pay From Sales](/uploads/can-agent-pay-from-sales.png "Can Agent Pay From Sales")
+
 # Managing Agents day to day
 
 ## Viewing Agent Activity
 
 ![Agent Activity Tracker](/uploads/agent-activity-tracker.png "Agent Activity Tracker")
-
-## Enabling Agents to Pay prizes
 
 
 ## Managing Withdrawal Float
