@@ -1,7 +1,7 @@
 <!-- TITLE: Games -->
 <!-- SUBTITLE: A quick summary of Games -->
 
-# Manage Games
+# Available Game Types
 
 There are 3 different type of games currently offered on the Platform.
 
