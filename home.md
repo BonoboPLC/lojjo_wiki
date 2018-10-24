@@ -19,6 +19,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 # Retail Sales Agent User Guide
 Read this if you are Selling Tickets
+
 [Sales Agent User Guide](retail-sales-agents/ "title text!")
 
 # System Integration Guide
