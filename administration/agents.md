@@ -6,7 +6,7 @@
 
 Sales Agents can be anyone of your staff, an external sales representative or volunteer. 
 
-Sales Agents can use any device, like a smartphone, to sell tickets, pay winnings and much more.
+Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets, pay winnings and much more.
 
 > Step 1.  Navigate to the Sales Agent shown on the navigation
 {.is-info}
