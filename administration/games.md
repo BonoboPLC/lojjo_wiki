@@ -11,8 +11,8 @@ There are 3 different type of games currently offered on the Platform.
 
 ## Prize Raffles
 
-
-# Managing Game Templates
+# Pre-loaded Games
+# Creating Game Templates
 # Updating Game Schedules
 # Viewing Past Game Instances
 # Starting & Stopping Games
