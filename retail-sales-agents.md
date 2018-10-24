@@ -210,8 +210,8 @@ You will need to enter the following:
 >**Step 1.** Check for a winning ticket
 {.is-info}
 
-If a ticket is indeed a winner, you'll see the following and hear a winners sound.
-Please keep your devices volume turned up so that players can easily distinguish between winning and loosing tickets, by listening. 
+If a ticket is indeed a winner, you'll see the following and hear a distinct sound.
+Please keep your volume turned up so that players can easily distinguish between winning and loosing tickets, by listening. 
 
 Inform the Player that they have won and ask them if they want to receive their prize.
 
