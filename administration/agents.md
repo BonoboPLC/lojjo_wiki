@@ -95,4 +95,7 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 
 
 ## Paying Agent Commissions
+
+![Pay Agent Comm 2](/uploads/pay-agent-comm-2.png "Pay Agent Comm 2")
+
 ![Pay Agent Commissions](/uploads/pay-agent-commissions.png "Pay Agent Commissions")
