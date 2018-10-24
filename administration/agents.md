@@ -202,7 +202,7 @@ Every Sales Agent has a Commission Account in the system which tracks the oustan
 
 If you have set a commission rate for your Sales Agent, then payable commissions will be reflected after each Ticket Sale.
 
-This account increases each time a commission is earned on Ticket Sales and only decreases when the agents payment is recorded here.
+This account increases each time a commission is earned on Ticket Sales and only decreases when the Sales Agent is paid.
 
 
 ![Pay Agent Comm 3](/uploads/pay-agent-comm-3.png "Pay Agent Comm 3")
