@@ -1,10 +1,12 @@
 <!-- TITLE: Managing Sales Agents -->
 <!-- SUBTITLE: A quick summary of Agents -->
 
-# Creating Agents
+# Creating Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
 
+Sales Agents can be anyone of your staff, an external sales representative or volunteer. 
 
+Sales Agents can use any device, like a smartphone, to sell tickets, pay winnings and much more.
 
 > Step 1.  Navigate to the Sales Agent shown on the navigation
 {.is-info}
@@ -77,6 +79,19 @@ Assuming a $100 entry into a 50/50 game, where $50 is the Rake on each ticket, a
 # Managing Agents day to day
 
 ## Viewing Agent Activity
+
+The system tracks all activities by your Sales Reps in real time.
+
+You can view the Agent activity per Agent by going to the Agents profile, or by aggregate in the Agent Activity Feed
+
+This includes the following and more
+
+* Tickets Sales
+* Deposits
+* Payouts
+* Account Registrations
+* Failed Transactions 
+
 
 ![Agent Activity Tracker](/uploads/agent-activity-tracker.png "Agent Activity Tracker")
 
