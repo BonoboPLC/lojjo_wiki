@@ -85,13 +85,29 @@ The Sales Agent can see how much they would earn for each ticket, in the game se
 
 ## Enabling Agents to Pay Prizes
 
+By default all Sales Agents are not able to process payouts.  
+
+This helps you designate which Sales Agents can process payouts, and their respective limitations. 
+
+To enable a Sales Agent to pay prizes, please follow the 3 easy steps shown bleow.
+
+
 **Set Agent Prize Payout Limit**
+
+This **Prize Payout Limit** is  the maximum value that can be paid by this Sales Agent. 
+
+An agent cannot pay an amount exceeding this limit on any prize payouts.  To disable payouts entirely for this agent, leave this limit at zero.
+
+You can use this to allow most agents to make small payouts, but reserve larger payouts for a select few trust Sales Agents.
+
 
 ![Agent Prize Payout Limit](/uploads/agent-prize-payout-limit.png "Agent Prize Payout Limit")
 
 **Ensure they have a withdrawl float**
 
 **Enable agent to payout from Sales Receipt**
+
+This step is optional, but very useful in helping
 
 ![Can Agent Pay From Sales](/uploads/can-agent-pay-from-sales.png "Can Agent Pay From Sales")
 
