@@ -8,6 +8,8 @@ Sales Agents can be anyone of your staff, an external sales representative or vo
 
 Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets, pay winnings and much more.
 
+Follow the 2 easy steps shown below to create an account for a Sales Agent
+
 > Step 1.  Navigate to the Sales Agent shown on the navigation
 {.is-info}
 
@@ -18,9 +20,12 @@ Sales Agents can use any device, like a smartphone, tablet or PC to sell tickets
 
 ![Create Agent](/uploads/create-agent.png "Create Agent")
 
-
+You will now be taken to the Sales Agent Create Wizard
 
 ## Set username/pw
+ In the first step of the Sales Agent Create Wizard you'll need to set a username and temporary password for your Sales Agent.
+ 
+ The agent will receive the credentials via email and will be prompted to change their password on their first log in.
 
 ![Agent Wizard Cred](/uploads/agent-wizard-cred.png "Agent Wizard Cred")
 
