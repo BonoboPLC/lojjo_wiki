@@ -33,28 +33,32 @@ You will now be taken to the Sales Agent Create Wizard
 
 ## Set Agent details
 
-Make sure that the information provided is accurate to comply with record keeping regulations.
+You well then be asked to complete a few personal detais such as Name, and Birthdate.
+
+Make sure that the personal details such as birthdate are accurate so that you can be sure your Sales Agents are of legal age.
 
 ![Agent Personal Info](/uploads/agent-personal-info.png "Agent Personal Info")
 
 
 ## Set Store address
 
-The store address will be listed on the Web site and used for referrals by other Sales Agents.
+If your agent operates out of a different physical addres than your location, please enter it here.
 
+This store address will be listed on the web site and used for referrals by other Sales Agents.
 
 ![Agent Store Location](/uploads/agent-store-location.png "Agent Store Location")
 
 ## Setting Sales & Deposit Limits
 
-
 You can impose limits on how much in sales or deposit receipts an agent can have on hand. 
 
+This limit helps protect you and the sales agent against any losses due to theft or mistakes.
+
 **Sales Receipt Limit**
-This is the maximum amount in Sales Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to come back and remit the Sales Receipts to you, before being able to sell again.
+This is the maximum amount of Sales Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to [remit the Sales Receipts](/administration/agents#collecting-sales-receipts) to their manager, before being able to sell again.
 
 **Deposit Receipt Limit**
-This is the maximum amount in Deposit Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to come back and remit the Deposit Receipts to you, before being able to accept Deposits again.
+This is the maximum amount of Deposit Receipts your agent can have on hand. Once this limit is reached the Sales Agent will need to [remit the Deposit Receipts](/administration/agents#collecting-deposit-receipts) to their manager, before being able to accept Deposits again.
 
 You can limit the prizes that agent is able to pay.
 **Prize Payout Limit**
