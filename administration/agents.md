@@ -156,7 +156,7 @@ This **account is increased** when the Sales manager funds the account to pay fo
 
 This **account is decreased** when the Sales Agent uses the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
 
->If allowed to Pay Prizes from Sales Receipts and the Agent doesn't have sufficient funds in the Withdrawal Float to pay a winning ticket, but has enough cash from the days sales receipt, the Agent will be prompted to use the sales receipt funds, if accessible to you, to payout the Prize.
+>If allowed to Pay Prizes from Sales Receipts and the Agent doesn't have sufficient funds in the Withdrawal Float to pay a winning ticket, but has enough cash from the days sales receipt, the Agent can use [Sales Reciepts to Pay Prizes](/retail-sales-agents#paying-prizes).
 {.is-warning}
 
 >If the Agent cannot pay prizes, they will ask the player to return and attempt to contact the Manager for more funds for their Withdrawal Float account in order to pay the player. 
