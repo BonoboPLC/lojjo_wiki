@@ -11,11 +11,33 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Setting basic Configuration
 
+#### Pick Size 
+#### Bonus Pick 
+#### Max Tickets per player
+#### Allow Subscriptions
+
+
+
+
+
+
 ### Setting Buy-in, Prizes & Odds
 
 ### Setting Progressive Jackpot
 
 ### Free Entry Sweepstake Games
+
+### Advanced Settings
+
+Ball Speed
+Draw Speed
+Game Narrator
+Client Sort Order
+
+FOR LOTTORACE TOURNAMENTS ONLY
+#### Fail Strategy 
+
+
 
 ## Lottery Games
 
