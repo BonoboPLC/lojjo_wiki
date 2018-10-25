@@ -15,7 +15,7 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Setting Progressive Jackpot
 
-### Sweepstake Games
+### Free Entry Sweepstake Games
 
 ## Lottery Games
 
@@ -28,7 +28,7 @@ There are 3 different type of games currently offered on the Platform.
 ## Traditional Prize Raffles
 
 ### Ticket Price
-### Sweepstake Games
+### Free Entry Sweepstake Games
 
 # Pre-loaded Games
 # Creating Game Templates
