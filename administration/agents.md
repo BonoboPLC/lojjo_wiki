@@ -187,7 +187,7 @@ Typically at the end of the day you would ask the Agent to remit all Sales Recei
 
 Every Sales Agent has a Deposit Receipt Account in the system which tracks the money from Player Account Deposits. 
 
-This account increases each time a payment is made to the Sales Agent and only decreases when the Deposit Receipts are remitted to the Sales Manager.
+This account increases each time a payment is made to the Sales Agent by the Player and only decreases when the Deposit Receipts are remitted to the Sales Manager.
 
 ![Deposit Receipts Collect 2](/uploads/deposit-receipts-collect-2.png "Deposit Receipts Collect 2")
 
