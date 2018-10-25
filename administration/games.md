@@ -59,6 +59,7 @@ FOR LOTTORACE TOURNAMENTS ONLY
 # Setting Game Schedules
 # Setting Game Logo/Branding
 # Starting & Stopping Games
+# Payout Simulator
 # Viewing Past Game Instances
 # Games Report
 
