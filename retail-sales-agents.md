@@ -144,7 +144,7 @@ You are responsible for handling all cash provided to you safely and securely.
 ![Collect Cash](/uploads/collect-cash.png "Collect Cash")
 
 >Note: When you reach your Sales Limit, you will no longer be able to sell tickets. 
-At that point you'll need to remit your sales receipts to your Sales Manager. Upon successful receipt of funds, your Sales manager will remove the limitation on your account.
+At that point you'll need to remit your sales receipts to your Sales Manager. Upon successful receipt of funds, your Sales manager will settle the outstanding balance and enable you sell additional tickets.
 {.is-danger}
 # Paying Prizes
 
