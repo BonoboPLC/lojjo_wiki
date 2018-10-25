@@ -154,7 +154,7 @@ This account tracks any funds which are provided to the Agent, by head office, f
 
 This **account is increased** when the Sales manager funds the account to pay for expected prize payouts.
 
-This **account is decreased** when the Sales Agent uses the funds to pay Player prizes or remmit the remaining amount back to the Sales Manager.
+This **account is decreased** when the Sales Agent uses the funds to pay Player prizes or remits the remaining amount back to the Sales Manager.
 
 >If allowed to Pay Prizes from Sales Receipts and the Agent doesn't have sufficient funds in the Withdrawal Float to pay a winning ticket, but has enough cash from the days sales receipt, the Agent can use [Sales Reciepts to Pay Prizes](/retail-sales-agents#paying-prizes).
 {.is-warning}
