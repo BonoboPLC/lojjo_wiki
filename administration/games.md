@@ -28,8 +28,8 @@ There are 3 different type of games currently offered on the Platform.
 # Creating Game Templates
 # Setting Game Schedules
 # Setting Game Logo/Branding
-# Viewing Past Game Instances
 # Starting & Stopping Games
+# Viewing Past Game Instances
 # Games Report
 
 
