@@ -54,9 +54,9 @@ This store address will be listed on the web site and used for referrals by othe
 
 You can set limits on how much sales or deposit receipts an agent can have on hand. 
 
-This limit helps you avoid mishaps protect you and the sales agent against any losses.
+This limit helps you avoid mishaps and protect you and the sales agent against any losses.
 
-Once the limits are reached the Sales Agent will need to remit the balances due before selling additional Tickets.
+Once the limits are reached the Sales Agent must remit any sales and deposit limits to their Manager before selling additional Tickets.
 
 **Sales Receipt Limit**
 This is the maximum amount of Sales Receipts your agent can have on hand. 
