@@ -19,6 +19,11 @@ There are 3 different type of games currently offered on the Platform.
 
 ## Lottery Games
 
+### Pick Range
+### Bonus Balls
+### Ticket Price & Rollover
+### Payout Table
+
 ## Prize Raffles
 
 # Pre-loaded Games
