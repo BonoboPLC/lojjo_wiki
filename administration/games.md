@@ -15,16 +15,20 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Setting Progressive Jackpot
 
-
+### Sweepstake Games
 
 ## Lottery Games
 
-### Pick Range
-### Bonus Balls
-### Ticket Price & Rollover
+### Scheduled Draws vs. Instant Lotto
+### Basic Configuration
+### Pick Range & Bonus Balls
+### Ticket Price & Payout
 ### Payout Table
 
-## Prize Raffles
+## Traditional Prize Raffles
+
+### Ticket Price
+### Sweepstake Games
 
 # Pre-loaded Games
 # Creating Game Templates
