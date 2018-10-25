@@ -28,7 +28,8 @@ There are 3 different type of games currently offered on the Platform.
 ## Traditional Prize Raffles
 
 ### Tickets & Price
-### How set Prizes (i.e. Win a Car!)
+### How to set Prizes 
+### "Win a Car" Use Case
 ### Free Entry Sweepstake Games
 
 # Pre-loaded Games
