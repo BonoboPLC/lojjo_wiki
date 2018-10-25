@@ -99,7 +99,7 @@ This **Prize Payout Limit** is  the maximum value that can be paid by this Sales
 
 An agent cannot pay an amount exceeding this limit on any prize payouts.  To disable payouts entirely for this agent, leave this limit at zero.
 
-You can use this to allow most agents to make small payouts, but reserve larger payouts for a select few trust Sales Agents.
+You can use this to allow most agents to make small payouts, but reserve larger payouts for a select few trusted Sales Agents.
 
 
 ![Agent Prize Payout Limit](/uploads/agent-prize-payout-limit.png "Agent Prize Payout Limit")
