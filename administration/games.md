@@ -54,11 +54,11 @@ FOR LOTTORACE TOURNAMENTS ONLY
 ### "Win a Car" Use Case
 
 # Pre-loaded Games
+# Free Entry Sweepstake Games
 # Creating Game Templates
 # Setting Game Schedules
 # Setting Game Logo/Branding
 # Starting & Stopping Games
-# Free Entry Sweepstake Games
 # Payout Simulator
 # Viewing Past Game Instances
 # Games Report
