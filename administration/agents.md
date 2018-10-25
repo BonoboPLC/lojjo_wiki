@@ -35,7 +35,7 @@ You will now be taken to the **Sales Agent Create Wizard**
 
 ## Set Agent details
 
-You well then be asked to complete a few personal detais such as Name, and Birthdate.
+You will then be asked to complete a few personal details such as Name, and Birthdate.
 
 Make sure that the personal details such as birthdate are accurate so that you can be sure your Sales Agents are of legal age.
 
