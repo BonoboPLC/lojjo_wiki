@@ -211,7 +211,7 @@ You will need to enter the following:
 {.is-info}
 
 If a ticket is indeed a winner, you'll see the following and hear a distinct sound.
-Please keep your volume turned up so that players can easily distinguish between winning and loosing tickets, by listening. 
+Please keep your volume turned up so that players can easily distinguish between winning and losing tickets, by listening. 
 
 Inform the Player that they have won and ask them if they want to receive their prize.
 
