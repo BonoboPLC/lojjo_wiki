@@ -59,11 +59,11 @@ This limit helps you avoid mishaps and protect you and the sales agent against a
 Once the limits are reached the Sales Agent must remit any sales and deposit limits to their Manager before selling additional Tickets.
 
 **Sales Receipt Limit**
-This is the maximum amount of Sales Receipts your agent can have on hand. 
+This is the maximum amount of Sales Receipts your agent can have on hand; effectively how much Tickets they can sell.
 Once this limit is reached the Sales Agent will need to [remit the Sales Receipts](/administration/agents#collecting-sales-receipts) to their manager, before being able to sell again.
 
 **Deposit Receipt Limit**
-This is the maximum amount of Deposit Receipts your agent can have on hand. 
+This is the maximum amount of Deposit Receipts your agent can have on hand. This is used by players to simply add money to their account and is not due to a Ticket purchase.
 Once this limit is reached the Sales Agent will need to [remit the Deposit Receipts](/administration/agents#collecting-deposit-receipts) to their manager, before being able to accept Deposits again.
 
 You can limit the prizes that agent is able to pay.
