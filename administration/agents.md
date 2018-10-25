@@ -121,7 +121,7 @@ This step is optional, but very useful in helping an agent recycle the funds fro
 
 For example if  the Sales Agent has $1,000  in Ticket Sales for the day, but you did not provide them with a Withdrawal Float in the beginning of the day, the Agent can use money from Ticket Sales to pay prizes.
 
-You can disable or enable this setting based o your requirement.
+You can disable or enable this setting based on your requirements.
 
 
 ![Can Agent Pay From Sales](/uploads/can-agent-pay-from-sales.png "Can Agent Pay From Sales")
