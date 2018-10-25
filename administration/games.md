@@ -25,7 +25,7 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Setting Progressive Jackpot
 
-### Free Entry Sweepstake Games
+
 
 ### Advanced Settings
 
@@ -52,13 +52,13 @@ FOR LOTTORACE TOURNAMENTS ONLY
 ### Tickets & Price
 ### How to set Prizes 
 ### "Win a Car" Use Case
-### Free Entry Sweepstake Games
 
 # Pre-loaded Games
 # Creating Game Templates
 # Setting Game Schedules
 # Setting Game Logo/Branding
 # Starting & Stopping Games
+# Free Entry Sweepstake Games
 # Payout Simulator
 # Viewing Past Game Instances
 # Games Report
