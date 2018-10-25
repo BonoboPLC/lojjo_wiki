@@ -29,10 +29,10 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Advanced Settings
 
-Ball Speed
-Draw Speed
-Game Narrator
-Client Sort Order
+#### Ball Speed
+#### Draw Speed
+#### Game Narrator
+#### Client Sort Order
 
 FOR LOTTORACE TOURNAMENTS ONLY
 #### Fail Strategy 
