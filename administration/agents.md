@@ -179,7 +179,7 @@ This account increases each time a payment is made to the Sales Agent and only d
 
 ![Sales Receipts Collec 2 T](/uploads/sales-receipts-collec-2-t.png "Sales Receipts Collec 2 T")
 
-Typically at the end of the day you would ask the Agent to remit all Sales Receipts for the Day and record the transaction. 
+Typically at the end of the day you would ask the Agent to remit all Sales Receipts for the Day and record the transaction as shown below.
 
 ![Collect Sales Receipts](/uploads/collect-sales-receipts.png "Collect Sales Receipts")
 
