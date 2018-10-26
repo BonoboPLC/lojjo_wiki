@@ -4,7 +4,7 @@
 
 
 
-# Admin Guide
+# Administrator Guide
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
 * [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
