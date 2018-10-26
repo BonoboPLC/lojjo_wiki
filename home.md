@@ -4,7 +4,7 @@
 
 
 
-# Administrator Guide
+# A guide for Administrator
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
 * [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
@@ -17,7 +17,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 * [Managing Players](/administration/players "Managing Players")
 * [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 * [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
-# Retail Sales Agent User Guide
+# A guide for Retail Sales/Shops
 Read this if you are Selling Tickets
 
 [Sales Agent User Guide](retail-sales-agents/ "title text!")
