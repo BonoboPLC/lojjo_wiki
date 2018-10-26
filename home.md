@@ -17,7 +17,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 * [Managing Players](/administration/players "Managing Players")
 * [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 * [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
-# A guide for Retail Sales/Shop Operators
+# A guide for Retail Shop Operators
 Read this if you are Selling Tickets
 
 [Sales Agent User Guide](retail-sales-agents/ "title text!")
