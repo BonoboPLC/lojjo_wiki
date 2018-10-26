@@ -13,17 +13,10 @@ There are 3 different type of games currently offered on the Platform.
 
 ## Lottery Games
 
-### Scheduled Draws vs. Instant Lotto
-### Basic Configuration
-### Pick Range & Bonus Balls
-### Ticket Price & Payout
-### Payout Table
 
 ## Traditional Prize Raffles
 
-### Tickets & Price
-### How to set Prizes 
-### "Win a Car" Use Case
+
 
 # Pre-loaded Games
 # Free Entry Sweepstake Games
