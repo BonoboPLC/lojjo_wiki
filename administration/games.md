@@ -7,18 +7,18 @@ There are 3 different type of games currently offered on the Platform.
 
 ## LottoRace Raffles
 
-### [LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
+ [LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 
 
 
 
 ## Lottery Games
 
-### [Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
+ [Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
 
 ## Traditional Prize Raffles
 
-### [Raffle Games](/administration/games/raffle "Managing your Raffle Games ")
+[Raffle Games](/administration/games/raffle "Managing your Raffle Games ")
 
 # Pre-loaded Games
 # Free Entry Sweepstake Games
