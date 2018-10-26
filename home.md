@@ -4,7 +4,7 @@
 
 
 
-# A guide for Administrators
+# A guide for Platform Manager
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
 * [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
@@ -22,7 +22,7 @@ Read this if you are Selling Tickets
 
 [Sales Agent User Guide](retail-sales-agents/ "title text!")
 
-# System Integration Guide
+# Integration guide for Developers
 You know who you are.
 [System Integration Guide](http://docs.bonoboplc.com:4567/)
 
