@@ -17,10 +17,10 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 | Min/Max Plays Per Player | Min/Max Plays | Subscription | 
 | Schedule | Repeat Count | Available Hours |
 | Max Games  | Registration Delay | Closeout Period | 
-| Languages | HTML Description | Rules |
+| Multilingual | HTML Description | Rules text |
 | Ball & Draw Speed | Narrator Voice | Live Sorting  |
-| Game Logo | Game Background | Playout BG | 
-|Tile Color  | ||
+| Game Logo | Game Background | Playout Background | 
+|Tile Image  | Tile Color ||
 
 Some of the key configurations include:
 
