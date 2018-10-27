@@ -84,10 +84,13 @@ You do not need to adjust the default configurations and should only do so with 
 # Revenue Model 
 Revenue is earned by charging a Fee on every entry.
 
+### Entry Fee
 The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
+### Buy-in 
 The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
 
+### Rake Fee
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
 
 This total entry fee is displayed to the player on all pages, except the confirmation page which breaks down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
