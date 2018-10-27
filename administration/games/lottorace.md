@@ -16,7 +16,7 @@ Here are some of the pre-configured games that are included in your Games Librar
 
 
 
-## Key Configuration
+## Common Settings
 
 Some of the key configurations include:
 
@@ -33,7 +33,7 @@ Usage notes:
 Usage notes:
 
 
-## **Game Configuration**
+## **Advanced Settings**
 
 Here are the rest of the available configuration parameters.
 
