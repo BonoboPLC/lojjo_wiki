@@ -4,7 +4,7 @@
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
-| Game Configuration |||
+| |||
 | ------ | ------ | ------ | 
 | ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
 
