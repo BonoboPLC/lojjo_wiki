@@ -74,7 +74,7 @@ The following sets of information are displayed for each game. Some of the confi
 |- style="text-align: left;"
 | Pick ||Defines the number of balls which are to be picked and the set of numbers from which they are picked. For example in a 6/49 game you would pick 6 numbers between 1 and 49  || N/A
 |- style="text-align: left;"
-| Draw Limit || Used to guard against excessive number of draws in a game. Once the game reaches this number of draws, it will randomly select a winner for each subsequent draw until all the prizes are paid out.|| Should be greater than 3 and lower than the Jackpot threshold.
+
 |- style="text-align: left;"
 | Manual Bet || If true, it enables the player to manually pick numbers for the game|| Can be true or false
 |- style="text-align: left;"
