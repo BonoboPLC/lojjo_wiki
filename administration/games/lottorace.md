@@ -33,8 +33,9 @@ Usage notes:
 
 ## **Additional Configuration Paramaters**
 
-Here is the rest of the configuration parameters available. 
+Here are the rest of the available configuration parameters.
 
+You do not need to adjust the default configurations and should only do so with care.
 
 | Game Configuration |||
 | ------ | ------ | ------ | 
@@ -50,6 +51,7 @@ Here is the rest of the configuration parameters available.
 | Ball & Draw Speed | Narrator Voice | Live Sorting  |
 | Game Logo | Game Background | Playout Background | 
 |Tile Image  | Tile Color ||
+
 
 | Progressive Jackpot |||
 | ------ | ------ | ------ | 
