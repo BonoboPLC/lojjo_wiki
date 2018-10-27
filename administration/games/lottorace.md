@@ -4,7 +4,7 @@
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
-LottoRace games offer can be configured in the following ways
+LottoRace games can be 
 
 Pick Size
 
