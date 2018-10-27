@@ -37,6 +37,8 @@ Here are the rest of the available configuration parameters.
 
 You do not need to adjust the default configurations and should only do so with care.
 
+### Game Related Configuration
+
 | Game Configuration |||
 | ------ | ------ | ------ | 
 | Odds of winning | Buy-in | Rake |
@@ -52,12 +54,15 @@ You do not need to adjust the default configurations and should only do so with 
 | Game Logo | Game Background | Playout Background | 
 |Tile Image  | Tile Color ||
 
+### Progressive Jackpot
 
 | Progressive Jackpot |||
 | ------ | ------ | ------ | 
 | Initial Balance | Matches Required | Eligible Draws | 
 | Progressive Fee |  Reserve Fee | Reserve Multiplier |  
 
+
+### Loyalty Points & Rewards
 
 | Loyalty Points & Rewards |||
 | ------ | ------ | ------ | 
