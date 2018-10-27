@@ -4,6 +4,8 @@
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
+You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
+
 Here are some of the pre-configured games that are included in your Games Library.
 
 | |||
@@ -12,7 +14,7 @@ Here are some of the pre-configured games that are included in your Games Librar
 | ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
-You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
+
 
 ## Key Configuration
 
