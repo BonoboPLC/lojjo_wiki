@@ -32,7 +32,7 @@ The multi-draw game continues until all the prizes in the pool are paid out and 
 # Revenue Model 
 Revenue is earned by charing a Fee on every entry.
 
-The **Entry Fee **paid by the player for each LottoRace entry consists of  the **Buy-in **and **Rake Fee**.
+The **Entry Fee** paid by the player for each LottoRace entry consists of  the **Buy-in ** and **Rake Fee**.
 
 The **Buy-in** portion is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
 
