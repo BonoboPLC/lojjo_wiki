@@ -75,9 +75,9 @@ You do not need to adjust the default configurations and should only do so with 
 
 | Loyalty Points & Rewards |||
 | ------ | ------ | ------ | 
-| Loyalty Currency | Earned Per Entry |  In Game Rewards |
-| LuckyBall Reward | Multi-Win Reward|  Bonobo Reward | 
-| Perfect Game Reward | Number of Lucky Balls | Active Status |
+| [Loyalty Currency](/administration/games/lottorace#loyalty-currency) | [Earned Per Entry](/administration/games/lottorace#points-per-entry) 
+| [LuckyBall Reward](/administration/games/lottorace#lucky-ball-reward) | [Multi-Win Reward](/administration/games/lottorace#multi-win-reward)|  [Bonobo Reward](/administration/games/lottorace#bonobo-reward) | 
+| [Perfect Game Reward](/administration/games/lottorace#perfect-game-reward) | [Number of Lucky Balls](/administration/games/lottorace#number-of-lucky-balls) | [Active Status](/administration/games/lottorace#active-status) |
 
 
 
