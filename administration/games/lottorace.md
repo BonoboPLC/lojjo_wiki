@@ -120,7 +120,8 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ### Pick Size 
 ### Bonus Pick 
-### Max Tickets per player
+### Min/Max Entries Per Game
+### Min/Max Entries Per Player
 ### Allow Subscriptions
 
 
