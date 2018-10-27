@@ -13,8 +13,8 @@ You can use pre-configured games, or create your own unique games by tweaking an
 | Pick Size | Bonus Pick |  Tournament vs. Instant | 
 | Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
 | Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
-| Prize Roll Over | Failover Handling | Shared Games |   
 | Min/Max Plays Per Player | Min/Max Plays | Subscription | 
+| Prize Roll Over | Failover Handling | Shared Games |   
 | Schedule | Repeat Count | Available Hours |
 | Max Games  | Registration Delay | Closeout Period | 
 | Multilingual | HTML Description | Rules text |
