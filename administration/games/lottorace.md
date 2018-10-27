@@ -20,6 +20,10 @@ Here are some of the pre-configured games that are included in your Games Librar
 
 Some of the key configurations include:
 
+
+### **Entry Fee & Rake**
+Usage notes:
+
 ### **Odds of Winning a prize**
 Usage notes:
 ### **Payout distribution**
