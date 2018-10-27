@@ -73,11 +73,6 @@ You do not need to adjust the default configurations and should only do so with 
 
 
 
-
-
-
-(i.e. 1 in 3 , 1 in 5 wins) , conpick ranges (i.e. 6/49, 7/35) and guaranteed winners in every game.
-
 ![Games](/uploads/games.png "Games"){:height="200px" width="200px"}
 
 ![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto"){:height="200px" width="200px"}
