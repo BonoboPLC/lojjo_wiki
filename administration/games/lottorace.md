@@ -11,7 +11,7 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 | ------ | ------ | ------ | ------ |
 | Odds of winning | Payout Formula | Pick Size | Bonus Pick |
 | Bonus Pick | Subscription | Min Players | Max Players | 
-| Schedule | Repeat Count | Available Hours |  |
+| Schedule | Repeat Count | Available Hours | Max Games  |
 | Prize Roll Over | Payout | Pick Size |  |
 | Ball Speed | Draw Speed | Narrator |   |
 
