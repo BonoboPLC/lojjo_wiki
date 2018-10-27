@@ -1,4 +1,4 @@
-<!-- TITLE: Lottorace -->
+<!-- TITLE: LottoRace -->
 <!-- SUBTITLE: A quick summary of Lottorace -->
 
 
