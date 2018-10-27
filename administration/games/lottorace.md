@@ -159,7 +159,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 ### Min/Max Entries Per Player
 ### Allow Subscriptions
 # Progressive Jackpot
-
+## Jackpot Settings
 ### Initial Balance
 ### Required Matches 
 ### Eligible Draws
@@ -167,6 +167,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 ### Reserve Fee
 ### Reserve Multiplier
 
+## Odds & Math
 
 # Advanced Settings Only
 
