@@ -49,8 +49,8 @@ You do not need to adjust the default configurations and should only do so with 
 | ------ | ------ | ------ | 
 | [Odds of winning](/administration/games/lottorace#set-odds) | [Buy-in](/administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake-fee) |
 | [Pick Size](/administration/games/lottorace#pick-size-2) | [Bonus Pick](/administration/games/lottorace#bonus-pick) |  [Tournament vs. Instant](/administration/games/lottorace#tournaments-vs-instant-games) | 
-| Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
-| Guaranteed Prize Pool | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
+| Number of Plays in Game | Payout Formula |  [Estimated  Prize Pool](/administration/games/lottorace#estimated-prize-pool) | 
+| [Guaranteed Prize Pool](/administration/games/lottorace#guaranteed-prize-pool) | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
 | [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) | [Min/Max Plays](/administration/games/lottorace#min-max-entries-per-game) | Subscription | 
 | Prize Roll Over | Failover Handling | Shared Games |   
 | [Schedule](/administration/games#setting-game-schedules) | [Repeat Count](/administration/games#repeat-count) | [Available Hours](/administration/games#available-hours) |
@@ -125,7 +125,8 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ### Pick Size 
 ### Bonus Pick 
-### Max Tickets per player
+### Min/Max Entries Per Game
+### Min/Max Entries Per Player
 ### Allow Subscriptions
 
 
