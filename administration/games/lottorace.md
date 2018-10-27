@@ -47,10 +47,10 @@ You do not need to adjust the default configurations and should only do so with 
 
 | Game Configuration |||
 | ------ | ------ | ------ | 
-| Odds of winning | Buy-in | Rake |
+| [Odds of winning](administration/games/lottorace#set-odds-of-winning) | [Buy-in](administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake) |
 | [Pick Size](/administration/games/lottorace#pick-size-2) | Bonus Pick |  Tournament vs. Instant | 
 | Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
-| Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
+| Guaranteed Prize Pool | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
 | Min/Max Plays Per Player | Min/Max Plays | Subscription | 
 | Prize Roll Over | Failover Handling | Shared Games |   
 | Schedule | Repeat Count | Available Hours |
@@ -129,20 +129,6 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 
 # Setting Buy-in, Prizes & Odds
-
-### Game Currency 
-
-### Set Buy-in 
-
-### Set Rake
-
-### Secondary Buy-in Currency
-
-### Set Odds of Winning
-
-
-
-
 
 # Setting Progressive Jackpot
 
