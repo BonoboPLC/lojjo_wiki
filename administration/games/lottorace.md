@@ -8,7 +8,7 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 
 
 | Configuration Paramaters |  |  |
-| ------ | ------ | ------ |
+| ------ | ------------ | ------------ |
 | Odds | Payout | Pick Size | 
 | Odds | Payout | Pick Size | 
 | Odds | Payout | Pick Size | 
