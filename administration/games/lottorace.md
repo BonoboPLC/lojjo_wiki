@@ -40,7 +40,7 @@ This total entry fee is displayed to the player on all pages, except the confirm
 
 
 
-on every line played on LottoRace®. This fee is calculated as a percentage of the wager per line
+
 # Tournaments vs. Instant Games
 
 LottoRace games can be configured as either Instant Games, or Tournaments.
