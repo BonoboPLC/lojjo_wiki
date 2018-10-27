@@ -33,7 +33,7 @@ The multi-draw game continues until all the prizes in the pool are paid out and 
 
 ![Game Stream Copy](/uploads/game-stream-copy.png "Game Stream Copy")
 # Revenue Model 
-Revenue is earned by charing a Fee on every entry.
+Revenue is earned by charging a Fee on every entry.
 
 The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
