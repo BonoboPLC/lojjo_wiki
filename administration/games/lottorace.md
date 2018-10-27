@@ -11,21 +11,21 @@ The LottoRace platform allows you to use preconfigured games, or create your own
 
 
 
-LottoRace games can be 
+Some of the key configurations include:
 
-Pick Size
-
-Usage notes:
-
-Number of Plays in the game
+**Pick Size**
 
 Usage notes:
 
-Odds of Winning a prize
+**Number of Plays in the game**
 
 Usage notes:
 
-Payout distribution
+**Odds of Winning a prize**
+
+Usage notes:
+
+**Payout distribution**
 
 (i.e. 1 in 3 , 1 in 5 wins) , conpick ranges (i.e. 6/49, 7/35) and guaranteed winners in every game.
 
