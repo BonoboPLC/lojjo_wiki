@@ -139,13 +139,15 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 ### Set Rake-Fee
 ### Set Odds
 
-### Guaranteed Prize Pool
 
-### Estimated Prize Pool
 
 ### Estimated Players
 
 # Payout Tables
+
+### Guaranteed Prize Pool
+
+### Estimated Prize Pool
 # Progressive Jackpot
 
 
