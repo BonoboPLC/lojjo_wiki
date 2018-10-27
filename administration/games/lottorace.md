@@ -14,6 +14,8 @@ Here are some of the pre-configured games that are included in your Games Librar
 
 You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
 
+## Key Configuration
+
 Some of the key configurations include:
 
 ### **Odds of Winning a prize**
@@ -28,6 +30,8 @@ Usage notes:
 
 Usage notes:
 
+
+### **Additional Configuration Paramaters**
 
 Here is the rest of the configuration parameters available. 
 
