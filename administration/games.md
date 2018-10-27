@@ -8,11 +8,13 @@ There are 3 different type of games currently offered on the Platform.
 ## LottoRace Raffles
 
 |||||
+| ------ | ------ | ------ | 
 |LottoRace| Lottery | Raffle ||
 
  [LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 
 
+| ------ | ------ | ------ | 
 
 
 ## Lottery Games
