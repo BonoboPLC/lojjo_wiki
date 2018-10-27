@@ -33,7 +33,7 @@ The **Buy-in** portion is contributed entirely to the Prize Pool and is guarante
 
 The Rake portion, less any **Jackpot fees**, is taken out as Earnings for the operator.
 
-This total entry fee is displayed to the player on all pages, except the confirmation page which additionally breaks down the fees showing any Jackpot contributions.
+This total entry fee is displayed to the player on all pages, except the confirmation page which breaks down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
