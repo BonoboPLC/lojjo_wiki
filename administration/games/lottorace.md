@@ -138,6 +138,8 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ### Secondary Buy-in Currency
 
+### Set Odds of Winning
+
 
 
 
