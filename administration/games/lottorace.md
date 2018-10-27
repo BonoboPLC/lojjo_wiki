@@ -50,13 +50,15 @@ This total entry fee is displayed to the player on all pages, except the confirm
 
 LottoRace games can be configured as either Instant Games, or Tournaments.
 
+![Tourney Insta](/uploads/tourney-insta.png "Tourney Insta")
+
 Tournaments start at a specific date and time and can have any number of entries.
 
-![Tournaments](/uploads/tournaments.png "Tournaments")
+
 
 Intant Games Starts only when they are full 
 
-![Instant Lobby](/uploads/instant-lobby.png "Instant Lobby")
+
 
 Number of bets:  Has to be full , Can be any
 
