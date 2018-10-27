@@ -14,7 +14,7 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 | Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
 | Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
 | Prize Roll Over | Failover Handling | Shared Games |   
-| Min/Max Plays Per Player | Min/Max Plays Per Game | Subscription | 
+| Min/Max Plays Per Player | Min/Max Plays | Subscription | 
 | Schedule | Repeat Count | Available Hours |
 | Max Games  | Registration Delay | Closeout Period | 
 | Languages | HTML Description | Rules |
