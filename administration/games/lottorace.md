@@ -6,7 +6,7 @@ LottoRace is a multi-draw, multi-player Raffle game which can be played in many 
 
 | Game Configuration |||
 | ------ | ------ | ------ | 
-| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | Buy-in | Rake |
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
 
 You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
 
