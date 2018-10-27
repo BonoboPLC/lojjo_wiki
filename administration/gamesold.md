@@ -130,10 +130,7 @@ The following sets of information are displayed for each game. Some of the confi
 |- style="text-align: left;"
 | Eligible Draws|| The number of draws in which the Jackpot can be won. || For example, if set to 2, the Jackpot can only be won in the first 2 draws.
 |- style="text-align: left;"
-| Trigger Threshold || The amount after which the Jackpot is randomly triggered for a random bet. || Expressed in the primary currency of the game. Should always be higher than the initial balance.
-|- style="text-align: left;"
-| Trigger Odds|| The randomization factor for a Jackpot. || Expressed as in integer. For example, If Trigger odds is set to 25 and if Jackpot trigger is at $100 and the Jackpot is now at $101, then there is a 1 in 25 chance on each draw, that the jackpot will be won by a random bet.
-|- style="text-align: left;"
+
 | Reserve Multiplier|| The multiple of the Initial Balance that must accumulate in the Reserve Balance before the reserve fee is no longer taken from the Bet Fee || Expressed as an integer. Should typically be  be between 3 and 5
 |- style="text-align: left;"
 | Progressive Fee|| The amount which is taken from each Bet fee that contributes to the Jackpot Progressive of that game.  || Expressed in the primary currency of the game, in nominal terms. Typically equal to 2.5% of the bet value (5 cents in a $2 game, expressed as 0.05)
