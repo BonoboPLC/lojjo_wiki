@@ -14,7 +14,17 @@ Here are some of the pre-configured games that are included in your Games Librar
 | ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![1 In 4 Wins](/uploads/1-in-4-wins.png "1 In 4 Wins"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
+## Tournaments vs. Instant Games
 
+LottoRace games can be configured as either InstaPlay instant Games, or Tournaments.
+
+
+**Tournaments start at a specific date and time**  and can have any number of entries.
+
+**InstaPlay instant Games Starts as soon as the game is full.**
+
+
+![Tourney Insta](/uploads/tourney-insta.png "Tourney Insta")
 
 ## Common Settings
 
@@ -107,17 +117,7 @@ The **Return to Player (RTP)** of each LottoRace game can be calculated as  ***B
 For example a game with $11 Entry Fee where the Buy-in is $10 and the Rake is $1 has an RTP of  10/(10+1) = 90.9% 
 
 
-# Tournaments vs. Instant Games
 
-LottoRace games can be configured as either InstaPlay instant Games, or Tournaments.
-
-
-**Tournaments start at a specific date and time**  and can have any number of entries.
-
-**InstaPlay instant Games Starts as soon as the game is full.**
-
-
-![Tourney Insta](/uploads/tourney-insta.png "Tourney Insta")
 
 
 
