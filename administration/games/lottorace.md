@@ -48,15 +48,15 @@ You do not need to adjust the default configurations and should only do so with 
 | Game Configuration |||
 | ------ | ------ | ------ | 
 | [Odds of winning](administration/games/lottorace#set-odds-of-winning) | [Buy-in](administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake) |
-| [Pick Size](/administration/games/lottorace#pick-size-2) | Bonus Pick |  Tournament vs. Instant | 
+| [Pick Size](/administration/games/lottorace#pick-size-2) | [Bonus Pick](/administration/games/lottorace#bonus-pick) |  [Tournament vs. Instant](/administration/games/lottorace#tournaments-vs-instant-games) | 
 | Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
 | Guaranteed Prize Pool | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
-| Min/Max Plays Per Player | Min/Max Plays | Subscription | 
+| [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) | [Min/Max Plays](/administration/games/lottorace#min-max-entries-per-game) | Subscription | 
 | Prize Roll Over | Failover Handling | Shared Games |   
-| Schedule | Repeat Count | Available Hours |
+| [Schedule](/administration/games#setting-game-schedules) | Repeat Count | Available Hours |
 | Max Games  | Registration Delay | Closeout Period | 
 | Multilingual | HTML Description | Rules text |
-| Ball & Draw Speed | Narrator Voice | Live Sorting  |
+| [Ball & Draw Speed](/administration/games/lottorace#ball-speed) | [Narrator Voice](/administration/games/lottorace#game-narrator) | [Live Sorting](/administration/games/lottorace#client-sort-order)  |
 | Game Logo | Game Background | Playout Background | 
 |Tile Image  | Tile Color ||
 
@@ -120,8 +120,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ### Pick Size 
 ### Bonus Pick 
-### Min/Max Entries Per Game
-### Min/Max Entries Per Player
+### Max Tickets per player
 ### Allow Subscriptions
 
 
