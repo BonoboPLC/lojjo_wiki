@@ -62,7 +62,7 @@ You do not need to adjust the default configurations and should only do so with 
 
 
 
-### Progressive Jackpot
+### Progressive Jackpot Settings
 
 | Progressive Jackpot |||
 | ------ | ------ | ------ | 
@@ -160,6 +160,12 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 ### Allow Subscriptions
 # Progressive Jackpot
 
+### Initial Balance
+### Required Matches 
+### Eligible Draws
+### Progressive Fee 
+### Reserve Fee
+### Reserve Multiplier
 
 
 # Advanced Settings Only
