@@ -33,7 +33,7 @@ Usage notes:
 Usage notes:
 
 
-## **All Configuration settings**
+## **Game Configuration**
 
 Here are the rest of the available configuration parameters.
 
