@@ -4,6 +4,8 @@
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
+![Online Lottery Platform 2 550 X 200](/uploads/online-lottery-platform-2-550-x-200.png "Online Lottery Platform 2 550 X 200")
+
 LottoRace games can be 
 
 Pick Size
@@ -25,6 +27,7 @@ Payout distribution
 
 
 The multi-draw game continues until all the prizes in the pool are paid out and lasts  3-5 minutes.
+
 ![Game Stream Copy](/uploads/game-stream-copy.png "Game Stream Copy")
 # Revenue Model 
 Revenue is earned by charing a Fee on every entry.
