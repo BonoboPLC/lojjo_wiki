@@ -45,7 +45,7 @@ This total entry fee is displayed to the player on all pages, except the confirm
 
 ## Return to Player
 
-**Return to Player (RTP) ** of each LottoRace game can be calculated as  ***Buy-in/(Buy-in + Rake)***
+The **Return to Player (RTP)** of each LottoRace game can be calculated as  ***Buy-in/(Buy-in + Rake)***
 
 For example a game with $11 Entry Fee where the Buy-in is $10 and Rake is $1 has an RTP of  10/(10+1) = 90.9% 
 
