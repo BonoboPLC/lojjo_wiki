@@ -53,8 +53,8 @@ You do not need to adjust the default configurations and should only do so with 
 | Guaranteed Prize Pool | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
 | [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) | [Min/Max Plays](/administration/games/lottorace#min-max-entries-per-game) | Subscription | 
 | Prize Roll Over | Failover Handling | Shared Games |   
-| [Schedule](/administration/games#setting-game-schedules) | Repeat Count | Available Hours |
-| Max Games  | Registration Delay | Closeout Period | 
+| [Schedule](/administration/games#setting-game-schedules) | [Repeat Count](/administration/games#repeat-count) | [Available Hours](/administration/games#available-hours) |
+|  | Registration Delay | [Closeout Period](/administration/games#closeout-period) | 
 | Multilingual | HTML Description | Rules text |
 | [Ball & Draw Speed](/administration/games/lottorace#ball-speed) | [Narrator Voice](/administration/games/lottorace#game-narrator) | [Live Sorting](/administration/games/lottorace#client-sort-order)  |
 | Game Logo | Game Background | Playout Background | 
