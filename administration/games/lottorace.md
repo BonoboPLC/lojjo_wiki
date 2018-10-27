@@ -57,8 +57,8 @@ You do not need to adjust the default configurations and should only do so with 
 |  | [Registration Delay](/administration/games#registration-delay) | [Closeout Period](/administration/games#closeout-period) | 
 | Multilingual | HTML Description | Rules text |
 | [Ball & Draw Speed](/administration/games/lottorace#ball-speed) | [Narrator Voice](/administration/games/lottorace#game-narrator) | [Live Sorting](/administration/games/lottorace#client-sort-order)  |
-| Game Logo | Game Background | Playout Background | 
-|Tile Image  | Tile Color ||
+| [Game Logo](/administration/games#game-logo) | [Game Background](/administration/games#game-background) | [Playout Background](/administration/games#playout-background) | 
+| [Tile Image](/administration/games#tile-image)  | [Tile Color](/administration/games#tile-color) ||
 
 
 
