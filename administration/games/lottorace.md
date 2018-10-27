@@ -66,8 +66,8 @@ You do not need to adjust the default configurations and should only do so with 
 
 | Progressive Jackpot |||
 | ------ | ------ | ------ | 
-| Initial Balance | Matches Required | Eligible Draws | 
-| Progressive Fee |  Reserve Fee | Reserve Multiplier |  
+| [Initial Balance](/administration/games/lottorace#initial-balance) | [Matches Required](/administration/games/lottorace#required-matches) | [Eligible Draws](/administration/games/lottorace#eligible-draws) | 
+| [Progressive Fee](/administration/games/lottorace#progressive-fee) |  [Reserve Fee](/administration/games/lottorace#reserve-fee) | [Reserve Multiplier](/administration/games/lottorace#reserve-multiplier) |  
 
 
 
