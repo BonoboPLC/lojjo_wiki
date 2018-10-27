@@ -60,9 +60,9 @@ For example a game with $11 Entry Fee where the Buy-in is $10 and the Rake is $1
 LottoRace games can be configured as either InstaPlay instant Games, or Tournaments.
 
 
-**Tournaments** start at a specific date and time and can have any number of entries.
+**Tournaments start at a specific date and time**  and can have any number of entries.
 
-**InstaPlay** instant Games Starts as soon as the game is full.
+**InstaPlay instant Games Starts as soon as the game is full.**
 
 
 ![Tourney Insta](/uploads/tourney-insta.png "Tourney Insta")
