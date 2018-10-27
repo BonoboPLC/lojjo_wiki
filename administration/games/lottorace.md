@@ -26,7 +26,21 @@ Payout distribution
 
 The multi-draw game continues until all the prizes in the pool are paid out and lasts  3-5 minutes.
 
+# Revenue Model 
+The **Entry Fee **paid by the player for each LottoRace entry consists of **Buy-in **and **Rake Fee**.
 
+The **Buy-in** portion is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
+
+The Rake portion, less any **Jackpot fees**, is taken out as Earnings for the operator.
+
+This total entry fee is displayed to the player on all pages, except the confirmation page which additionally breaks down the fees showing any Jackpot contributions.
+
+![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
+
+
+
+
+on every line played on LottoRace®. This fee is calculated as a percentage of the wager per line
 # Tournaments vs. Instant Games
 
 LottoRace games can be configured as either Instant Games, or Tournaments.
