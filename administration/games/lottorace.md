@@ -10,7 +10,8 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 | ||| |
 | ------ | ------ | ------ | ------ |
 | Odds of winning | Payout Formula | Pick Size | Bonus Pick |
-| Estimated & Guaranteed Prize Pool | Subscription | Min Players | Max Players | 
+| Estimated  Prize Pool | Guaranteed Prize Pool | Min/Max Players | Min/Max Bets Per Player | 
+| Min/Max Bets Per Player | Subscription | Min Players | Max Players | 
 | Bonus Pick | Subscription | Min Players | Max Players | 
 | Schedule | Repeat Count | Available Hours | Max Games  |
 | Prize Roll Over | Payout | Pick Size |  |
