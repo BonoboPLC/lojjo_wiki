@@ -7,8 +7,8 @@ LottoRace is a multi-draw, multi-player Raffle game which can be played in many 
 The LottoRace platform allows you to use pre-configured games, or create your own unique games by tweaking any one, of the many configuration paramaters available to you.
 
 
-| Configuration |  | Usage notes |
-| ------ | ----------- | ----------- |
+| Configuration Paramaters |  |  |
+| ------ | ------ | ------ |
 | Odds | Payout | Pick Size | 
 | Odds | Payout | Pick Size | 
 | Odds | Payout | Pick Size | 
