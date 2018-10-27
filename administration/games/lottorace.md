@@ -47,7 +47,7 @@ You do not need to adjust the default configurations and should only do so with 
 
 | Game Configuration |||
 | ------ | ------ | ------ | 
-| [Odds of winning](/administration/games/lottorace#set-odds) | [Buy-in](/administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake-fee) |
+| [Odds of winning](/administration/games/lottorace#set-odds-of-winning) | [Buy-in](/administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake-fee) |
 | [Pick Size](/administration/games/lottorace#pick-size-2) | [Bonus Pick](/administration/games/lottorace#bonus-pick) |  [Tournament vs. Instant](/administration/games/lottorace#tournaments-vs-instant-games) | 
 | Number of Plays in Game | Payout Formula |  [Estimated  Prize Pool](/administration/games/lottorace#estimated-prize-pool) | 
 | [Guaranteed Prize Pool](/administration/games/lottorace#guaranteed-prize-pool) | [Multi-Currency](/administration/games/lottorace#game-currency) | Seed Prize Pool | 
