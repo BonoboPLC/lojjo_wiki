@@ -169,6 +169,8 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Odds & Math
 
+
+
 # Advanced Settings Only
 
 ### Ball Speed
@@ -178,4 +180,17 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 FOR LOTTORACE TOURNAMENTS ONLY
 ### Fail Strategy 
+
+# Loyalty Points & Rewards
+## Reward Points
+### Active Status 
+### Loyalty Currency 
+### Points Per Entry 
+
+##  In Game Rewards 
+### LuckyBall Reward 
+### Multi-Win Reward
+### Bonobo Reward  
+### Perfect Game Reward 
+### Number of Lucky Balls 
 
