@@ -1,7 +1,9 @@
 <!-- TITLE: Lottorace -->
 <!-- SUBTITLE: A quick summary of Lottorace -->
-
+![Game Stream Copy](/uploads/game-stream-copy.png "Game Stream Copy")
 # LottoRace Raffles
+
+
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
 LottoRace games offer can be configured in the following ways
