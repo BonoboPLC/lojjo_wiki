@@ -182,7 +182,7 @@ FOR LOTTORACE TOURNAMENTS ONLY
 ### Fail Strategy 
 
 # Loyalty Points & Rewards
-## Reward Points
+## Loyalty Points
 ### Active Status 
 ### Loyalty Currency 
 ### Points Per Entry 
