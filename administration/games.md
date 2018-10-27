@@ -22,6 +22,9 @@ There are 3 different type of games currently offered on the Platform.
 # Free Entry Sweepstake Games
 # Creating Game Templates
 # Setting Game Schedules
+## Repeat Count
+
+### Available Hourse
 # Setting Game Logo/Branding
 # Starting & Stopping Games
 # Payout Simulator
