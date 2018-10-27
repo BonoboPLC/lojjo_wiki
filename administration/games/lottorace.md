@@ -8,14 +8,15 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 
 
 | ||| |
-| ------ | ------ | ------ | ------ |
-| Odds of winning | Entry Fee | Pick Size | Bonus Pick |
-| Tournament vs. Instant | Number of Plays in Game | Payout Formula |  |
-| Estimated  Prize Pool | Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
-| Prize Roll Over | Failover Handling | Shared Games |  | 
-| Min/Max Plays Per Player | Min/Max Plays Per Game | Subscription |  | 
-| Schedule | Repeat Count | Available Hours | Max Games  |
-| Registration Delay | Closeout Period | Languages |  |
+| ------ | ------ | ------ | 
+| Odds of winning | Buy-in | Rake |
+| Pick Size | Bonus Pick |  Tournament vs. Instant | 
+| Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
+| Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
+| Prize Roll Over | Failover Handling | Shared Games |   
+| Min/Max Plays Per Player | Min/Max Plays Per Game | Subscription | 
+| Schedule | Repeat Count | Available Hours |
+| Max Games  | Registration Delay | Closeout Period | Languages |
 | Ball Speed | Draw Speed | Narrator Voice | Live Sorting  |
 | Game Logo | Game Background | Playout BG | Tile Color  |
 
