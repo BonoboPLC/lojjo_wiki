@@ -142,7 +142,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 
 
-## Payout Tables
+## Payout Tables & Odds
 
 ### Set Odds of Winning
 
