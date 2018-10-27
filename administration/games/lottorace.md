@@ -48,19 +48,16 @@ This total entry fee is displayed to the player on all pages, except the confirm
 
 # Tournaments vs. Instant Games
 
-LottoRace games can be configured as either Instant Games, or Tournaments.
+LottoRace games can be configured as either InstaPlay instant Games, or Tournaments.
+
+
+**Tournaments** start at a specific date and time and can have any number of entries.
+
+**InstaPlay** instant Games Starts as soon as the game is full.
+
 
 ![Tourney Insta](/uploads/tourney-insta.png "Tourney Insta")
 
-Tournaments start at a specific date and time and can have any number of entries.
-
-
-
-Intant Games Starts only when they are full 
-
-
-
-Number of bets:  Has to be full , Can be any
 
 
 # Setting basic Configuration
