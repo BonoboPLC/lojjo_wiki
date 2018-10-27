@@ -132,9 +132,14 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Buy-in & Rake
 
+### Set Currency
+
 ### Set Buy-in
 
 ### Set Rake Fee
+
+### Secondary Currency
+
 
 
 ## Payout Tables
