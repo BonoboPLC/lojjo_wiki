@@ -6,7 +6,7 @@
 There are 3 different type of games currently offered on the Platform.
 | Available Games | | |
 | ------ | ------ | ------ | 
-| ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} [LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games") | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto") [Lottery Games](/administration/games/lottery  "Managing your Lottery Games"){:height="100px" width="100px"} | ![Daily Raffle](/uploads/daily-raffle.png "Daily Raffle")[Raffle Games](/administration/games/raffle "Managing your Raffle Games "){:height="100px" width="100px"} |
+|[ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games") | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto") [Lottery Games](/administration/games/lottery  "Managing your Lottery Games"){:height="100px" width="100px"} | ![Daily Raffle](/uploads/daily-raffle.png "Daily Raffle")[Raffle Games](/administration/games/raffle "Managing your Raffle Games "){:height="100px" width="100px"} |
 
 
 
