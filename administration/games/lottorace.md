@@ -24,8 +24,8 @@ You can use pre-configured games, or create your own unique games by tweaking an
 
 | Progressive Jackpot |||
 | ------ | ------ | ------ | 
-| Odds of winning | Buy-in | Rake |
-| Pick Size | Bonus Pick |  Tournament vs. Instant | 
+| Initial Balance | Matches Required | Eligible Draws | 
+| Progressive Fee |  Reserve Fee | Reserve Multiplier |  
 
 
 | Loyalty Points & Rewards |||
