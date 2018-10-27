@@ -4,6 +4,8 @@
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
+Here are some of the pre-configured games that are included in your Games Library.
+
 | |||
 | ------ | ------ | ------ | 
 | ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
@@ -11,6 +13,23 @@ LottoRace is a multi-draw, multi-player Raffle game which can be played in many 
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
 You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
+
+Some of the key configurations include:
+
+### **Odds of Winning a prize**
+Usage notes:
+### **Payout distribution**
+Usage notes:
+### **Pick Size**
+
+Usage notes:
+
+### **Number of Plays in the game**
+
+Usage notes:
+
+
+Here is the rest of the configuration parameters available. 
 
 
 | Game Configuration |||
@@ -40,19 +59,6 @@ You can use pre-configured games, or create your own unique games by tweaking an
 | LuckyBall Reward | Multi-Win Reward|  Bonobo Reward | 
 | Perfect Game Reward | Number of Lucky Balls | Active Status |
 
-Some of the key configurations include:
-
-### **Odds of Winning a prize**
-Usage notes:
-### **Payout distribution**
-Usage notes:
-### **Pick Size**
-
-Usage notes:
-
-### **Number of Plays in the game**
-
-Usage notes:
 
 
 
