@@ -5,19 +5,14 @@
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
 The LottoRace platform allows you to use preconfigured games, or create your own unique games by tweaking any one, of the many configuration paramaters available to you.
-![Games](/uploads/games.png "Games"){:height="200px" width="200px"}
-
-![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto"){:height="200px" width="200px"}
-
-
 
 Some of the key configurations include:
 
-**Pick Size**
+### **Pick Size**
 
 Usage notes:
 
-**Number of Plays in the game**
+### **Number of Plays in the game**
 
 Usage notes:
 
@@ -29,7 +24,9 @@ Usage notes:
 
 (i.e. 1 in 3 , 1 in 5 wins) , conpick ranges (i.e. 6/49, 7/35) and guaranteed winners in every game.
 
+![Games](/uploads/games.png "Games"){:height="200px" width="200px"}
 
+![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto"){:height="200px" width="200px"}
 
 The multi-draw game continues until all the prizes in the pool are paid out and lasts  3-5 minutes.
 
