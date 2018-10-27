@@ -6,7 +6,7 @@ LottoRace is a multi-draw, multi-player Raffle game which can be played in many 
 
 The LottoRace platform allows you to use preconfigured games, or create your own unique games by tweaking any one, of the many configuration paramaters available to you.
 
-![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto")
+![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto"){:height="200px" width="200px"}
 
 
 LottoRace games can be 
