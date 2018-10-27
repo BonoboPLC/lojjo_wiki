@@ -144,7 +144,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 
 
-# Advanced Settings
+# Advanced Settings Only
 
 ### Ball Speed
 ### Draw Speed
