@@ -34,8 +34,11 @@ There are 3 different type of games currently offered on the Platform.
 
 # Setting Game Logo/Branding
 
-### Game Logo ### Game Background | Playout Background | 
-|Tile Image  | Tile Color ||
+### Game Logo 
+### Game Background 
+### Playout Background 
+### Tile Image  
+### Tile Color 
 # Starting & Stopping Games
 # Payout Simulator
 # Viewing Past Game Instances
