@@ -7,7 +7,7 @@ LottoRace is a multi-draw, multi-player Raffle game which can be played in many 
 You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
 
 
-| |||
+| Game Configuration |||
 | ------ | ------ | ------ | 
 | Odds of winning | Buy-in | Rake |
 | Pick Size | Bonus Pick |  Tournament vs. Instant | 
@@ -21,6 +21,17 @@ You can use pre-configured games, or create your own unique games by tweaking an
 | Ball & Draw Speed | Narrator Voice | Live Sorting  |
 | Game Logo | Game Background | Playout Background | 
 |Tile Image  | Tile Color ||
+
+| Progressive Jackpot |||
+| ------ | ------ | ------ | 
+| Odds of winning | Buy-in | Rake |
+| Pick Size | Bonus Pick |  Tournament vs. Instant | 
+
+
+| Loyalty Points & Rewards |||
+| ------ | ------ | ------ | 
+| Odds of winning | Buy-in | Rake |
+| Pick Size | Bonus Pick |  Tournament vs. Instant | 
 
 Some of the key configurations include:
 
