@@ -16,9 +16,11 @@ The LottoRace platform allows you to use pre-configured games, or create your ow
 | Prize Roll Over | Failover Handling | Shared Games |   
 | Min/Max Plays Per Player | Min/Max Plays Per Game | Subscription | 
 | Schedule | Repeat Count | Available Hours |
-| Max Games  | Registration Delay | Closeout Period | Languages |
-| Ball Speed | Draw Speed | Narrator Voice | Live Sorting  |
-| Game Logo | Game Background | Playout BG | Tile Color  |
+| Max Games  | Registration Delay | Closeout Period | 
+| Languages | HTML Description | Rules |
+| Ball & Draw Speed | Narrator Voice | Live Sorting  |
+| Game Logo | Game Background | Playout BG | 
+|Tile Color  | ||
 
 Some of the key configurations include:
 
