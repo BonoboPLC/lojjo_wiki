@@ -31,7 +31,7 @@ Usage notes:
 Usage notes:
 
 
-### **Additional Configuration Paramaters**
+## **Additional Configuration Paramaters**
 
 Here is the rest of the configuration parameters available. 
 
