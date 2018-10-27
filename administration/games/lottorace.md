@@ -33,7 +33,7 @@ LottoRace games can be configured as either Instant Games, or Tournaments.
 
 Tournaments start at a specific date and time and can have any number of entries.
 
-Tournaments
+![Tournaments](/uploads/tournaments.png "Tournaments")
 
 Intant Games Starts only when they are full 
 
