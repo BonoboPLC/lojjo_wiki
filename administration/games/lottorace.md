@@ -33,7 +33,7 @@ Usage notes:
 Usage notes:
 
 
-## **Additional Configuration Paramaters**
+## **All Configuration settings**
 
 Here are the rest of the available configuration parameters.
 
