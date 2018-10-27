@@ -48,7 +48,7 @@ You do not need to adjust the default configurations and should only do so with 
 | Game Configuration |||
 | ------ | ------ | ------ | 
 | Odds of winning | Buy-in | Rake |
-| Pick Size | Bonus Pick |  Tournament vs. Instant | 
+| [Pick Size](/administration/games/lottorace#pick-size-2) | Bonus Pick |  Tournament vs. Instant | 
 | Number of Plays in Game | Payout Formula |  Estimated  Prize Pool | 
 | Guaranteed Prize Pool | Multi-Currency | Seed Prize Pool | 
 | Min/Max Plays Per Player | Min/Max Plays | Subscription | 
