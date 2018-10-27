@@ -32,9 +32,12 @@ The multi-draw game continues until all the prizes in the pool are paid out and 
 LottoRace games can be configured as either Instant Games, or Tournaments.
 
 Tournaments start at a specific date and time and can have any number of entries.
+
 Tournaments
 
 Intant Games Starts only when they are full 
+
+![Instant Lobby](/uploads/instant-lobby.png "Instant Lobby")
 
 Number of bets:  Has to be full , Can be any
 
