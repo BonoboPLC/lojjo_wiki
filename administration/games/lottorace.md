@@ -75,14 +75,6 @@ You do not need to adjust the default configurations and should only do so with 
 
 
 
-
-![Games](/uploads/games.png "Games"){:height="200px" width="200px"}
-
-![Lojjo Lotto](/uploads/lojjo-lotto.png "Lojjo Lotto"){:height="200px" width="200px"}
-
-The multi-draw game continues until all the prizes in the pool are paid out and lasts  3-5 minutes.
-
-![Game Stream Copy](/uploads/game-stream-copy.png "Game Stream Copy")
 # Revenue Model 
 Revenue is earned by charging a Fee on every entry.
 
