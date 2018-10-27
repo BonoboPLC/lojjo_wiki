@@ -6,7 +6,8 @@
 There are 3 different type of games currently offered on the Platform.
 | Available Games | | |
 | ------ | ------ | ------ | 
-| ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large")[LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")|  [Lottery Games](/administration/games/lottery  "Managing your Lottery Games") | [Raffle Games](/administration/games/raffle "Managing your Raffle Games ") |
+| ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"}
+[LottoRace Games](/administration/games/lottorace "Managing your Lottery & Raffle Games") |  [Lottery Games](/administration/games/lottery  "Managing your Lottery Games") | [Raffle Games](/administration/games/raffle "Managing your Raffle Games ") |
 
 
 
