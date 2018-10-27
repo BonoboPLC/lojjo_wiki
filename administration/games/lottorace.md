@@ -121,13 +121,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 
 
-# Basic Configuration
 
-### Pick Size 
-### Bonus Pick 
-### Min/Max Entries Per Game
-### Min/Max Entries Per Player
-### Allow Subscriptions
 
 
 
@@ -135,19 +129,30 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 
 # Buy-in, Prizes & Odds
+
+## Buy-in & Rake
+
 ### Set Buy-in
-### Set Rake-Fee
-### Set Odds
+
+### Set Rake Fee
 
 
+## Payout Tables
 
-### Estimated Players
-
-# Payout Tables
+### Set Odds of Winning
 
 ### Guaranteed Prize Pool
 
 ### Estimated Prize Pool
+
+### Estimated Players
+# Basic Configuration
+
+### Pick Size 
+### Bonus Pick 
+### Min/Max Entries Per Game
+### Min/Max Entries Per Player
+### Allow Subscriptions
 # Progressive Jackpot
 
 
