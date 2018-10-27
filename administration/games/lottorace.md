@@ -1,8 +1,6 @@
 <!-- TITLE: Lottorace -->
 <!-- SUBTITLE: A quick summary of Lottorace -->
 ![Game Stream Copy](/uploads/game-stream-copy.png "Game Stream Copy")
-# LottoRace Raffles
-
 
 LottoRace is a multi-draw, multi-player Raffle game which can be played in many different formats.
 
@@ -29,7 +27,7 @@ Payout distribution
 The multi-draw game continues until all the prizes in the pool are paid out and lasts  3-5 minutes.
 
 
-## Tournaments vs. Instant Games
+# Tournaments vs. Instant Games
 
 LottoRace games can be configured as either Instant Games, or Tournaments.
 
@@ -41,7 +39,7 @@ Intant Games Starts only when they are full
 Number of bets:  Has to be full , Can be any
 
 
-## Setting basic Configuration
+# Setting basic Configuration
 
 ### Pick Size 
 ### Bonus Pick 
@@ -53,13 +51,13 @@ Number of bets:  Has to be full , Can be any
 
 
 
-## Setting Buy-in, Prizes & Odds
+# Setting Buy-in, Prizes & Odds
 
-## Setting Progressive Jackpot
+# Setting Progressive Jackpot
 
 
 
-## Advanced Settings
+# Advanced Settings
 
 ### Ball Speed
 ### Draw Speed
