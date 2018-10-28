@@ -124,7 +124,7 @@ The **Return to Player (RTP)** is an important measure of how much is actually p
 
 The RTP of each LottoRace game can be calculated as  ***Buy-in/(Buy-in + Rake)***
 
-For example a game with $11 Entry Fee where the Buy-in is $10 and the Rake is $1 has an RTP of  10/(10+1) = 90.9% 
+For example a game  where the Buy-in is $10 and the Rake is $1 has an RTP of  10/(10+1) = 90.9% 
 
 
 > **Use Case:** Highlighting the higher than average RTP  of LottoRace games. 
