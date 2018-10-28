@@ -141,8 +141,14 @@ The primary Buy-in currency must be the same as this Currency.
 
 
 ### Set Buy-in
+ 
+The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
+
 
 ### Set Rake Fee
+
+The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
+
 
 ### Secondary Currency
 
@@ -156,9 +162,25 @@ The secondary currency of the game which can be used for Buy-ins.
 
 ### Payout Formula
 
+#### Tournament Payout Formula
+
+#### Fixed Winners
+
+#### Instant Games Payout Formulas
+
 ### Guaranteed Prize Pool
 
+Choose this setting if you wish to Guarantee a minimum value for the prize pool.
+If the sum of all the Buy-ins do not equal or exceed this value before the start of the game, the prize pool will be supplemented by the difference.
+
+If the sum of all the Buy-ins exceed this value before the start of the game, no additional supplements are made to the prize pool.
+
+> **Use Case:**  If the Guaranteed prize pool is $1000 and only $900 in buy-ins have been contributed, then an additional $100 is contributed from Guaranteed Games Expense account to the prize pool of the game.
+{.is-success}
+
 ### Estimated Prize Pool
+
+
 
 ### Prize Pool Seed
 
