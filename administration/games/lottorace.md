@@ -115,7 +115,7 @@ The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** co
 
 You will set the Rake Fee along with the Buy-in, when creating the game.
 
-The final confirmation page provides full transparency to the player by breaking down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
+The Player is able to see the breakdown on the confirmation page which breakdsown the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
