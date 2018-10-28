@@ -97,25 +97,10 @@ You do not need to adjust the default configurations and should only do so with 
 
 Revenue is earned by charging a Fee on every entry.
 
-### Entry Fee
 
-The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
-The total entry fee is displayed on all top level pages to provide clarity with respect to total cost for the player.
 
-![Entry Fee](/uploads/entry-fee.png "Entry Fee")
 
-> **Use Case:**  Shown on top level navigation for each game 
-{.is-success}
-
-### Buy-in 
-
-The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
-
-The Buy-in is critical when determining the target Prize Pool of the game which determines its overall attractiveness.
-
-> **Use Case:** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
-{.is-success}
 
 ### Rake Fee
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
@@ -151,6 +136,20 @@ For example a game with $11 Entry Fee where the Buy-in is $10 and the Rake is $1
 
 # Buy-in, Prizes & Odds
 
+### Entry Fee
+
+
+The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
+
+You must set the Buy-in and Rake Fee.
+
+The total entry fee is displayed on all top level pages to provide clarity with respect to total cost for the player.
+
+![Entry Fee](/uploads/entry-fee.png "Entry Fee")
+
+> **Use Case:**  Shown on top level navigation for each game 
+{.is-success}
+
 ## Buy-in & Rake
 
 ### Set Currency
@@ -164,6 +163,10 @@ The primary Buy-in currency must be the same as this Currency.
  
 The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
 
+The Buy-in is critical when determining the target Prize Pool of the game which determines its overall attractiveness.
+
+> **Use Case:** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
+{.is-success}
 
 ### Set Rake Fee
 
