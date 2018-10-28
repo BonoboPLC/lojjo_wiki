@@ -148,8 +148,8 @@ The primary Buy-in currency must be the same as this Currency.
 
 The secondary currency of the game which can be used for Buy-ins.
 
-Use Case:  Could be used if multiple currencies are used in your jurisdiction or as a secondary Loyalty Currency. I.e.  Enter with $2 or 200 Loyalty Points.
-
+> Use Case:  Could be used if multiple currencies are used in your jurisdiction or as a secondary Loyalty Currency. I.e.  Enter with $2 or 200 Loyalty Points.
+{.is-info}
 ## Payout Tables & Odds
 
 ### Set Odds of Winning
