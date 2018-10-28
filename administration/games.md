@@ -44,7 +44,7 @@ Registration will not be available until
 
 ### Registration End
 
-This value enables us to stop registration a few seconds before the start of the Tournament. Its basically a timer on the last entry that can be purchased.
+This value enables us to disable new Ticket purchases  a few seconds before the start of the Tournament on the player web site. Its basically a timer on the last entry that can be purchased.
 
 This is necessary so that the system can process and settle all pending transaction and close out game ledgers before the start of the Tournament.
 
