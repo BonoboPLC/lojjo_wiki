@@ -40,6 +40,7 @@ You can have a Winner Take All game where there is only one prize in a field of 
 
  [Pick Size](/administration/games/lottorace#pick-size-2)
 
+Defines the number range and the pick size for each game.
 
 
 [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) 
@@ -218,6 +219,10 @@ If the sum of all the Buy-ins exceed this value before the start of the game, no
 # Basic Configuration
 
 ### Pick Size 
+
+
+![Pick Size](/uploads/pick-size.png "Pick Size")
+
 ### Bonus Pick 
 ### Min/Max Entries Per Game
 ### Min/Max Entries Per Player
