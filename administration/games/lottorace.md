@@ -57,7 +57,7 @@ You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) r
 The Minimum and Maximum play limits enables you to create various sized games and can impact tournaments and instant games in different ways.
 
 #### Tournaments
-The minimum size can be used in conjunction with a guaranteed prize pool such that you are assured that the minimum number of tickets are sold.
+The minimum size can be used in conjunction with a guaranteed prize pool, such that you are assured that the minimum number of tickets are sold to cover the Guarantee.
 If the minimum is not met, the game can be set failover by either Rescheduling the game or Cancelling and Refunding the game.
 
 #### Size of Instant Games
