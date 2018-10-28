@@ -28,24 +28,15 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Common Settings
 
-Although there are nearly 50 different configuration parameters at your disposal, you only need to tweak the following most commonly used ones:
+Although there are nearly 50 different configuration parameters at your disposal but in most cases you only need to concern yourself with a few key elements to create a complete unique game.
+
+**Entry Fee & Rake**
+**Odds of Winning a prize**
+**Payout distribution**
+**Pick Size**
+ **Number of Plays in the game**
 
 
-
-### **Entry Fee & Rake**
-Usage notes:
-
-### **Odds of Winning a prize**
-Usage notes:
-### **Payout distribution**
-Usage notes:
-### **Pick Size**
-
-Usage notes:
-
-### **Number of Plays in the game**
-
-Usage notes:
 
 
 ## **Advanced Settings**
