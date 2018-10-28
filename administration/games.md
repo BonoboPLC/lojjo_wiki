@@ -48,7 +48,7 @@ There are 3 different type of games currently offered on the Platform.
 
 Stopping a game will stop any open instances and refund all bets. Should only be used when there are no open instances available and after all games in play have been completed.
 
-< **Usage note:**  Before stopping a game, set the game to Closed first. 
+> **Usage note:**  Before stopping a game, set the game to Closed first. 
 {.is-success}
 
 ### Setting a game to Closed status
@@ -60,7 +60,7 @@ Like an hourly game or an instant game that just filled up.
 
 If a game is set to closed, the current Game Instance will be the last one and no new Game Instances will be created thereafter.  
 
-< **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
+> **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
 {.is-success}
 # Payout Simulator
 # Viewing Past Game Instances
