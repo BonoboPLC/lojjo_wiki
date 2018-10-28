@@ -100,17 +100,22 @@ Revenue is earned by charging a Fee on every entry.
 
 
 
-
-
 ### Rake Fee
 
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
+
+
+You will set the Rake Fee along with the Buy-in, when creating the game.
+
+![Buy In Rake](/uploads/buy-in-rake.png "Buy In Rake")
 
 The final confirmation page provides full transparency to the player by breaking down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
-You will set the Rake Fee along with the Buy-in, when creating the game.
+
+
+
 
 ## Return to Player
 
