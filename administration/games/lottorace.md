@@ -48,9 +48,11 @@ The pick size impacts the speed of the game and the overall experience of player
 If you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
 If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will finish in very few draws and there will be many ties.
 
-If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
+> Usage Note: If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
+{.is-success}
 
-You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
+> You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
+{.is-success}
 
 ### [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
