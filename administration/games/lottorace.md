@@ -127,12 +127,18 @@ This total entry fee is displayed to the player on all pages, except the confirm
 
 ## Return to Player
 
-The **Return to Player (RTP)** of each LottoRace game can be calculated as  ***Buy-in/(Buy-in + Rake)***
+The **Return to Player (RTP)** is an important measure of how much is actually paid back to the players in prizes in an average game.
+
+The RTP of each LottoRace game can be calculated as  ***Buy-in/(Buy-in + Rake)***
 
 For example a game with $11 Entry Fee where the Buy-in is $10 and the Rake is $1 has an RTP of  10/(10+1) = 90.9% 
 
 
+> **Use Case:** Highlighting the higher than average RTP  of LottoRace games. 
+{.is-success}
 
+> **Usage note:** An average LottoRace player buys 20-30 entries in a session, most of them in InstaPlay games. If the Rake is 10%, then on average, the player will loose one Entry fee, every 10 games. Due to this high turn over its important that the Rake is not so high such that the players entire bankroll is taken as fees in few games. To extend the players entertainment value we recommend a Net Rake of no more than 10%.
+{.is-success}
 
 
 
