@@ -185,7 +185,7 @@ The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** co
 
 The secondary currency of the game which can be used for Buy-ins.
 
-> **Use Case:**  Could be used if multiple currencies are used in your jurisdiction or as a secondary Loyalty Currency. I.e.  Enter with $2 or 200 Loyalty Points.
+> **Use Case:**  Loyalty Currency:  "Enter with $2 or 200 Loyalty Points."
 {.is-success}
 ## Payout Tables & Odds
 
