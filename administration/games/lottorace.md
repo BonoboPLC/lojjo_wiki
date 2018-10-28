@@ -106,7 +106,7 @@ The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to b
 ### Rake Fee
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
 
-This total entry fee is displayed to the player on all pages, except the confirmation page which breaks down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
+This total entry fee is displayed to the player on all pages, except the confirmation page which provides full transparency by breaking down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
