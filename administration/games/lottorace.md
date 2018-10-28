@@ -106,7 +106,7 @@ The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to b
 
 The Buy-in is critical when determining the target Prize Pool of the game which determines its overall attractiveness.
 
-> **Use Case: ** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
+> **Use Case:** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
 
 ### Rake Fee
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
