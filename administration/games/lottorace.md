@@ -38,7 +38,7 @@ It is an important factor which determines profitability for you and attractiven
 This determines if the game is risky with big payouts, or less risky with average payouts.  
 You can have a Winner Take All game where there is only one prize in a field of 100 or a 1 in 5 Wins game, where there are 20 prizes. 
 
- [Pick Size](/administration/games/lottorace#pick-size-2)
+ [Pick Size](/administration/games/lottorace#pick-size)
 
 Defines the number range and the pick size for each game.
 
