@@ -32,12 +32,14 @@ Although there are nearly 50 different configuration parameters at your disposal
 
 [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
 This determines how much of the Entry Fee is charged is as Fees, and how much goes into the prize pool to be won by players.
+It is an important factor which determines profitability for you and attractiveness of the prize pool for the player.
 
 [Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
 This determines if the game is Risky with big payouts, or Less risky with average payouts.  
-You can have a Winner Take All game where there is only one prize in a field of 100 or a 1 in 5 Wins game, where there are 20 prizes.
+You can have a Winner Take All game where there is only one prize in a field of 100 or a 1 in 5 Wins game, where there are 20 prizes. 
 
  [Pick Size](/administration/games/lottorace#pick-size-2)
+
 
 
 [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) 
