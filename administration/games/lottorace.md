@@ -49,7 +49,7 @@ If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot)
 
 You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
 
-[Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
+### [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
 This enables you to create large or small games. 
 
