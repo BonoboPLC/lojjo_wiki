@@ -46,6 +46,7 @@ As a Percentage of Plays: 1 in 5
 
 > Instant Game Odds
 {.is-info}
+
 Instant Games can have odds as follows:
 
 1, 3, 5, 10, 30, 50, 100 Winners:
