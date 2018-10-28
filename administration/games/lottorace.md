@@ -38,6 +38,9 @@ It is an important factor which determines profitability for you and attractiven
 This can determines if the game is risky (1 in a million wins)  with large payouts ($1 for a chance at $1M), or less risky with average payouts.  
 You can offer Winner Take All game for the risk loving, offering one prize for a field of 100,  or a 1 in 5 Wins game for the risk averse, where there are 20 prizes for a field of 100. 
 
+The odds can also factor into how many lines a player should be able to purchase. 
+For example if the odds are 1 in 5, you should allow the player to purchase at least 5 lines so that on average there is at least one positive experience for the player. 
+
 ### [Pick Size & Range](/administration/games/lottorace#pick-size)
 Easily create any type of game like 6/49, 5/35, 5/20 or even 2/5!
 The pick size impacts the speed of the game and the overall experience of players.
@@ -53,13 +56,12 @@ You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) r
 
 This enables you to create large or small games. 
 
-####
+#### Size of Instant Games
 
 In Instant Games all entries must be sold before the game starts. Therefore, the bigger the game, the longer players have to wait before the game starts.
 This impacts the overall experience for players and must take into consideration traffic volume and player expectations.
 
-
-
+We recommend having games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
 
 
 ## **Advanced Settings**
