@@ -113,7 +113,7 @@ The final confirmation page provides full transparency to the player by breaking
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
-> **Usage Note:** Any Jackpot Contribution and Jackpot Reserve fees are taken out from the Rake Fee.  For example if the Rake Fee is set to $0.50 and Jackpot Contribution and Reserve are $0.05 and $0.02 respectively, then the actual Net Rake for the operator is $0.43.   
+> **Usage Note:** Any Jackpot Contribution and Jackpot Reserve fees are taken out from the Rake Fee.  For example if the Rake Fee is set to $0.50 and Jackpot Contribution and Reserve are $0.05 and $0.02 respectively, then the actual Net Rake per entry is $0.43.   
 {.is-warning}
 
 
