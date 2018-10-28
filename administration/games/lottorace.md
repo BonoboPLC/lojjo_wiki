@@ -54,7 +54,7 @@ Instant Games can have odds as follows:
 This can determines if the game is risky (1 in a million wins)  with large payouts ($1 for a chance at $1M), or less risky with average payouts.  
 You can offer Winner Take All game for the risk loving, offering one prize for a field of 100,  or a 1 in 5 Wins game for the risk averse, where there are 20 prizes for a field of 100. 
 
-> Usage Note: The odds can also factor into how many lines a player should be able to purchase. 
+> **Usage Note:** The odds can also factor into how many lines a player should be able to purchase. 
 For example if the odds are 1 in 5, you should allow the player to purchase at least 5 lines so that on average there is at least one positive experience for the player. 
 {.is-success}
 
@@ -67,10 +67,10 @@ The pick size impacts the speed of the game and the overall experience of player
 If you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
 If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will finish in very few draws and there will be many ties.
 
-> Usage Note: If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
+> **Usage Note:** If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
 {.is-success}
 
-> You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
+> **Usage Note:** You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
 {.is-success}
 
 ### [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
