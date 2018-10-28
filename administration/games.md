@@ -28,9 +28,28 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Repeat Count
 
-### Registration Delay
+### Registration Start Delay
 
-### Closeout Period
+This value gives you flexibility to display and promote a game, while not permitting registration. 
+
+I.e. New Years game which you want to promote, but not allow players to register yet.
+
+available at  T = Registration Delay minus Start Time
+
+If you want the registration to be available immediately, set registration delay to a very low number 1500 (milliseconds).
+
+If you want to display a game for promotion, but not enable registration for 1 day before the Draw takes place, set the registration delay to 86400000.
+Registration will not be available until 
+
+
+### Registration End
+
+This value enables us to stop registration a few seconds before the start of the Tournament. Its basically a timer on the last entry that can be purchased.
+
+This is necessary so that the system can process and settle all pending transaction and close out game ledgers before the start of the Tournament.
+
+The registration Delay should at least be one second (1000 milliseconds) for most games but should be set to 3 seconds with games with over 20,000 entries or more.
+
 
 # Setting Game Logo/Branding
 
