@@ -30,7 +30,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 Although there are nearly 50 different configuration parameters at your disposal but in most cases you only need to concern yourself with a few key elements to create a complete unique game.
 
-**[Buy-in](/administration/games/lottorace#set-buy-in) & Rake**
+[**Buy-in & Rake**](/administration/games/lottorace#set-buy-in)
 
 This determines how much of the Entry Fee is charged is as Fees, and how much goes into the prize pool to be won by players.
 
