@@ -101,7 +101,12 @@ Revenue is earned by charging a Fee on every entry.
 The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
 ### Buy-in 
+
 The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
+
+The Buy-in is critical when determining the target Prize Pool of the game which determines its overall attractiveness.
+
+> **Use Case: ** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
 
 ### Rake Fee
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
