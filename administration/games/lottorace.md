@@ -49,9 +49,14 @@ If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot)
 
 You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
 
+[Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
+This enables to create large or small games. 
 
-[Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) 
+With respect to tournaments
+
+In Instant Games all entries must be sold before the game starts. Therefore, the bigger the game, the longer players have to wait before the game starts.
+This impacts the overall experience for players and must take into consideration traffic volume.
 
 
 
