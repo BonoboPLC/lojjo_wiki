@@ -40,7 +40,15 @@ You can have a Winner Take All game where there is only one prize in a field of 
 
  [Pick Size](/administration/games/lottorace#pick-size)
 
-Defines the number range and the pick size for each game.
+Easily create any type of game like 6/49, 5/35, 5/20 or even 2/5!
+The pick size impacts the speed of the game and the overall experience of players.
+
+If you have a large range and few entries, like pick 6 between 1-49, the game will take many draws before all the prizes are paid out. 
+If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will take few draws and ther will be many ties.
+
+If you also have a Progressive Jackpot, this range will explicitly impact the Odds of the Jackpot being hit.
+
+You can additionally specify Pick Bonus ranges to increase the odds for Jackpots or Lottery games alike.
 
 
 [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) 
@@ -223,9 +231,14 @@ If the sum of all the Buy-ins exceed this value before the start of the game, no
 ### Pick Size 
 
 
+Defines the number range and the pick size for each game. For example a 5/20 Game is defined as Pick 5 numbers between 1 and 20.
+You can have up to 6 primary numbers, between 1 and 60.
+
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
 ### Bonus Pick 
+
+
 ### Min/Max Entries Per Game
 ### Min/Max Entries Per Player
 ### Allow Subscriptions
