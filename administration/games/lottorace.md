@@ -31,7 +31,9 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 Although there are nearly 50 different configuration parameters at your disposal, in most cases you only need to concern yourself with a few key elements to create a complete unique game.
 
 ### [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
+
 This determines how much of the Entry Fee is charged as Fees, and how much goes into the prize pool to be won by players.
+
 It is an important factor which determines profitability for you and attractiveness of the prize pool for the player.
 
 ### [Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
@@ -146,9 +148,9 @@ Revenue is earned by charging a Fee on every entry.
 The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** contribution if applicable).
 
 
-You will set the Rake Fee along with the Buy-in, when creating the game.
+The Rake Fee is set along with the Buy-in, when creating the game.
 
-The Player is able to see the breakdown on the confirmation page which displays the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
+The Player is able to see the breakdown on the confirmation page which displays the Buy-in, Rake Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
 
@@ -173,14 +175,6 @@ For example a game where the Buy-in is $10 and the Rake is $1 has an RTP of  10/
 {.is-success}
 
 
-
-
-
-
-
-
-
-
 # Buy-in, Prizes & Odds
 
 ### Entry Fee
@@ -188,9 +182,7 @@ For example a game where the Buy-in is $10 and the Rake is $1 has an RTP of  10/
 
 The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
-You must set the Buy-in and Rake Fee.
-
-The total entry fee is displayed on all top level pages to provide clarity with respect to total cost for the player.
+The total Entry Fee (Buy-in + Rake) is displayed on all top level pages to provide clarity with respect to total cost for the player.
 
 ![Entry Fee](/uploads/entry-fee.png "Entry Fee")
 
@@ -198,6 +190,8 @@ The total entry fee is displayed on all top level pages to provide clarity with 
 {.is-success}
 
 ## Buy-in & Rake
+
+
 
 ### Set Currency
 
