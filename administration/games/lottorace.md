@@ -107,8 +107,6 @@ The **Rake Fee**  is earned by the Operator (less any **Progressive Jackpot** co
 
 You will set the Rake Fee along with the Buy-in, when creating the game.
 
-![Buy In Rake](/uploads/buy-in-rake.png "Buy In Rake")
-
 The final confirmation page provides full transparency to the player by breaking down the Entry Fee into Buy-in, Fee and Jackpot Contribution as shown below.
 
 ![Fee Breakdown](/uploads/fee-breakdown.png "Fee Breakdown")
@@ -167,11 +165,15 @@ The Primary currency of the game, in which all prizes and payouts are denominate
 The primary Buy-in currency must be the same as this Currency.
 
 
+
+
 ### Set Buy-in
  
 The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
 
 The Buy-in is critical when determining the target Prize Pool of the game which determines its overall attractiveness.
+
+![Buy In Rake](/uploads/buy-in-rake.png "Buy In Rake")
 
 > **Use Case:** If the Buy-in is set to $10 and your maximum entries are 1000, then your Prize Pool will be a maximum of $10,000
 {.is-success}
