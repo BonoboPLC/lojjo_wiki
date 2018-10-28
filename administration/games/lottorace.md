@@ -54,11 +54,15 @@ You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) r
 
 ### [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
-This enables you to create large or small games. 
+The Minimum and Maximum play limits enables you to create various sized games and can impact tournaments and instant games in different ways.
+
+#### Tournaments
+The minimum size can be used in conjunction with a guaranteed prize pool such that you are assured that the minimum number of tickets are sold.
+If the minimum is not met, the game can be set failover by either Rescheduling the game or Cancelling and Refunding the game.
 
 #### Size of Instant Games
 
-In Instant Games all entries must be sold before the game starts. Therefore, the bigger the game, the longer players have to wait before the game starts.
+In all the entries Instant Games must be sold before the game can start, the bigger the game is, the longer players have to wait before the game starts.
 This impacts the overall experience for players and must take into consideration traffic volume and player expectations.
 
 We recommend having games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
