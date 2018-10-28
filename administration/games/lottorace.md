@@ -46,9 +46,9 @@ The pick size impacts the speed of the game and the overall experience of player
 If you have a large range and few entries, like pick 6 between 1-49, the game will take many draws before all the prizes are paid out. 
 If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will take few draws and ther will be many ties.
 
-If you also have a Progressive Jackpot, this range will explicitly impact the Odds of the Jackpot being hit.
+If you also have a [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot), this range will explicitly impact the Odds of the Jackpot being hit.
 
-You can additionally specify Pick Bonus ranges to increase the odds for Jackpots or Lottery games alike.
+You can additionally specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
 
 
 [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) 
@@ -67,7 +67,7 @@ You do not need to adjust the default configurations and should only do so with 
 | Game Configuration |||
 | ------ | ------ | ------ | 
 | [Odds of winning](/administration/games/lottorace#set-odds-of-winning) | [Buy-in](/administration/games/lottorace#set-buy-in) | [Rake Fee](/administration/games/lottorace#set-rake-fee) |
-| [Pick Size](/administration/games/lottorace#pick-size-2) | [Bonus Pick](/administration/games/lottorace#bonus-pick) |  [Tournament vs. Instant](/administration/games/lottorace#tournaments-vs-instant-games) | 
+| [Pick Size](/administration/games/lottorace#pick-size) | [Bonus Pick](/administration/games/lottorace#bonus-pick) |  [Tournament vs. Instant](/administration/games/lottorace#tournaments-vs-instant-games) | 
 |   | [Payout Formula](/administration/games/lottorace#payout-formula) |  [Estimated  Prize Pool](/administration/games/lottorace#estimated-prize-pool) | 
 | [Guaranteed Prize Pool](/administration/games/lottorace#guaranteed-prize-pool) | [Multi-Currency](/administration/games/lottorace#set-currency) | [Seed Prize Pool](/administration/games/lottorace#seed-prize-pool) | 
 | [Min/Max Plays Per Player](/administration/games/lottorace#min-max-entries-per-player) | [Min/Max Plays](/administration/games/lottorace#min-max-entries-per-game) | Subscription | 
