@@ -43,12 +43,23 @@ There are 3 different type of games currently offered on the Platform.
 
 ### Starting Games
 
+Press the Green Start Button to make the game Live on the site.
+
+> **Usage note:** If there are any missing configurationss, you will see "Incomplete Configuration" instead and get prompts to fix them.
+{.is-success}
 
 ### Stopping Games
 
-Stopping a game will stop any open instances and refund all bets. Should only be used when there are no open instances available and after all games in play have been completed.
+**To stop a game **
 
-> **Usage note:**  Before stopping a game, set the game to Closed first. 
+1. Set the game to Closed and wait for any open instances to finish
+2. Press Stop
+
+Pressing Stop will kill any open instances, cancel and refund all bets to player accounts, and prevent any new Game Instances from being created.
+
+Only press Stop when there are no Game Instances  open for registration.
+
+> **Usage note:**  Before stopping a game, set the game to Closed first and wait for open instances to complete
 {.is-success}
 
 ### Setting a game to Closed status
