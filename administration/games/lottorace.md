@@ -101,7 +101,11 @@ Revenue is earned by charging a Fee on every entry.
 
 The **Entry Fee** paid by the player for each LottoRace entry consists of a **Buy-in** and **Rake Fee**.
 
-> **Use Case:**  Shown on top level navigation for each game ![Entry Fee](/uploads/entry-fee.png "Entry Fee")
+The total entry fee is displayed on all top level pages to provide clarity with respect to total cost for the player.
+
+![Entry Fee](/uploads/entry-fee.png "Entry Fee")
+
+> **Use Case:**  Shown on top level navigation for each game 
 {.is-success}
 
 ### Buy-in 
