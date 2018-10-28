@@ -38,14 +38,14 @@ It is an important factor which determines profitability for you and attractiven
 This determines if the game is risky with big payouts, or less risky with average payouts.  
 You can have a Winner Take All game where there is only one prize in a field of 100 or a 1 in 5 Wins game, where there are 20 prizes. 
 
- [Pick Size](/administration/games/lottorace#pick-size)
+ [Pick Size & Range](/administration/games/lottorace#pick-size)
 Easily create any type of game like 6/49, 5/35, 5/20 or even 2/5!
 The pick size impacts the speed of the game and the overall experience of players.
 
 If you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
 If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will finish in very few draws and there will be many ties.
 
-If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds of being won are closely tied to this range.
+If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will be closely tied to this Pick Size and Range.
 
 You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) ranges to increase the odds for Jackpots or Lottery games alike.
 
