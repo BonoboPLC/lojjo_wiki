@@ -45,7 +45,8 @@ There are 3 different type of games currently offered on the Platform.
 
 Press the Green Start Button to make the game Live on the site.
 
-> **Usage note:** If there are any missing configurationss, you will see "Incomplete Configuration" instead and get prompts to fix them.
+
+> **Usage note:** If there are any missing configurations, you will see "Incomplete Configuration" instead and get prompts to fix them.
 {.is-success}
 
 ### Stopping Games
