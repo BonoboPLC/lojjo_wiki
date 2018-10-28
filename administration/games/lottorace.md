@@ -30,15 +30,15 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 Although there are nearly 50 different configuration parameters at your disposal, in most cases you only need to concern yourself with a few key elements to create a complete unique game.
 
-[Buy-in & Rake](/administration/games/lottorace#set-buy-in)
+### [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
 This determines how much of the Entry Fee is charged as Fees, and how much goes into the prize pool to be won by players.
 It is an important factor which determines profitability for you and attractiveness of the prize pool for the player.
 
-[Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
-This determines if the game is risky with big payouts, or less risky with average payouts.  
-You can have a Winner Take All game where there is only one prize in a field of 100 or a 1 in 5 Wins game, where there are 20 prizes. 
+### [Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
+This can determines if the game is risky (1 in a million wins)  with large payouts ($1 for a chance at $1M), or less risky with average payouts.  
+You can offer Winner Take All game for the risk loving, offering one prize for a field of 100,  or a 1 in 5 Wins game for the risk averse, where there are 20 prizes for a field of 100. 
 
- [Pick Size & Range](/administration/games/lottorace#pick-size)
+### [Pick Size & Range](/administration/games/lottorace#pick-size)
 Easily create any type of game like 6/49, 5/35, 5/20 or even 2/5!
 The pick size impacts the speed of the game and the overall experience of players.
 
@@ -51,12 +51,13 @@ You can also specify  [Bonus Pick](/administration/games/lottorace#bonus-pick) r
 
 [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
-This enables to create large or small games. 
+This enables you to create large or small games. 
 
-With respect to tournaments
+####
 
 In Instant Games all entries must be sold before the game starts. Therefore, the bigger the game, the longer players have to wait before the game starts.
-This impacts the overall experience for players and must take into consideration traffic volume.
+This impacts the overall experience for players and must take into consideration traffic volume and player expectations.
+
 
 
 
