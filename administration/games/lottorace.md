@@ -192,7 +192,7 @@ For example a game where the Buy-in is $10 and the Rake is $1 has an RTP of  10/
 > **Use Case:** Highlighting the higher than average RTP  of LottoRace games. 
 {.is-success}
 
-> **Usage note:** An average LottoRace player buys 20-30 entries spread over 10-15 games in a session, most of them in InstaPlay games. If the Rake is 10%, then on average, the player will loose one Entry fee, every 10 entries. Due to this high turn over its important that the Rake is not so high such that the players entire bankroll is taken as fees in few games. To extend the players entertainment value we recommend a Net Rake of no more than 10%.
+> **Usage note:** An average LottoRace player buys 20-30 entries spread over 10-15 games in a session, most of them in InstaPlay games. If the Rake is 10%, then on average, the player will lose one Entry fee, every 10 entries. Due to this high turn over its important that the Rake is not so high such that the players entire bankroll is taken as fees in few games. To extend the players entertainment value we recommend a Net Rake of no more than 10%.
 {.is-success}
 
 
