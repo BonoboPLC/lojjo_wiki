@@ -35,13 +35,13 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Common Settings
 
-Although there are nearly 50 different configuration parameters at your disposal, in most cases you only need to change a few key elements to create a unique game.
+Although there are nearly [50 different configuration parameters]((/administration/games/lottorace#advanced-settings) at your disposal, in most cases you only need to change a few key elements to create a unique game.
 
 ### [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
 
-This determines how much of the Entry Fee is charged as Fees, and how much goes into the prize pool to be won by players.
+This determines how much of the Entry Fee is charged as Rake Fees, and how much goes into the prize pool to be won by players.
 
-It is an important factor which determines profitability for you and attractiveness of the prize pool for the player.
+It is an important factor which determines profitability for you, and the attractiveness of the prize pool for the player.
 
 ### [Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
 
@@ -50,15 +50,15 @@ Odds can be set in 3 different ways.
 > Tournament Odds
 {.is-info}
 
-Fixed Number of Winners:  1, 3, 5, 10, etc..
-As a Percentage of Plays: 1 in 5
+1) Fixed Number of Winners:  1, 3, 5, 10, etc..
+2) As a Percentage of Plays: 1 in 5
 
 > Instant Game Odds
 {.is-info}
 
 Instant Games can have odds as follows:
 
-1, 3, 5, 10, 30, 50, 100 Winners:
+3) 1, 3, 5, 10, 30, 50, 100 Winners:
 
 This can determines if the game is risky (1 in a million wins)  with large payouts ($1 for a chance at $1M), or less risky with average payouts.  
 You can offer Winner Take All game for the risk loving, offering one prize for a field of 100,  or a 1 in 5 Wins game for the risk averse, where there are 20 prizes for a field of 100. 
