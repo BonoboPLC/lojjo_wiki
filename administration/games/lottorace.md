@@ -301,10 +301,14 @@ Games can have a pick range up to  6 numbers between 1 and 60.
 
 ### Min/Max Entries Per Game
 
-Minimum Entries
-The minimum number of entries that a Tournament must have in order to start.  This is typically tied to the number of prizes available or the Guaranteed prize on offer.
+> Minimum Entries
+{.is-info}
 
-Maximum Entries
+The minimum number of entries that a Tournament must have in order to start.  This value should take into account the number of prizes available or the Guaranteed prizes.
+
+> Maximum Entries
+{.is-info}
+
 The total number of entries avaialble for sale in game.
 In instant games the max and min are the same since Instant Games always start when all entries are sold.
 
