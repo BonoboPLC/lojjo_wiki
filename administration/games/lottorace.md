@@ -243,6 +243,12 @@ The secondary currency of the game which can be used for Buy-ins.
 {.is-success}
 ## Payout Tables & Odds
 
+The minimum number of winning bets in a game. For Tournaments its expressed as 1 in X number of bets. For Instant Games and Fixed Payouts its expressed as the actual number of winners. 
+
+For 1 Draw games its expressed as the number of matches required to win a prize.
+Prize Pool - The prize pool available in the game
+
+
 ### Set Odds of Winning
 
 ### Payout Formula
@@ -288,7 +294,28 @@ You can have up to 6 primary numbers, between 1 and 60.
 
 
 ### Min/Max Entries Per Game
+
+Minimum Entries
+The minimum number of entries that a Tournament must have in order to start.  This is typically tied to the number of prizes available or the Guaranteed prize on offer.
+
+Maximum Entries
+The total number of entries avaialble for sale in game.
+In instant games the max and min are the same since Instant Games always start when all entries are sold.
+
+> **Usage note** You have a tournament where there is a fixed number of prizes, i.e. 5;  then the minimum number of entries must be at least 5. 
+{.is-success}
+
+> **Use Case:**  
+{.is-success}
+
+
+
 ### Min/Max Entries Per Player
+
+
+
+
+
 ### Allow Subscriptions
 # Progressive Jackpot
 ## Jackpot Settings
@@ -306,8 +333,30 @@ You can have up to 6 primary numbers, between 1 and 60.
 # Advanced Settings Only
 
 ### Ball Speed
+
+This setting allows you to control the number of seconds between each ball drawing and consequently the games Pace/speed.
+
+The recommended value for Tournaments  are 3000 and 7000 for ball and draw delay respectively.
+
+The recommended value for Instant games  are 2250 and 5000 for ball and draw delay respectively.
+
+
+> **Use Case:** For an ultra faced paced game combine very fast Ball and Draw Delays (1500/5000) with very small number ranges (Pick 3/10) to product a quick, instant satisfaction game. 
+{.is-success}
+
+
 ### Draw Speed
+
+
 ### Game Narrator
+
+The game narrator which calls out the numbers as they appear.
+
+Male and Female version with an English accent are currently available.
+
+*Custom narrators can be added upon request.*
+
+
 ### Client Sort Order
 
 FOR LOTTORACE TOURNAMENTS ONLY
