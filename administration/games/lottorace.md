@@ -35,7 +35,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Common Settings
 
-Although there are nearly [50 different configuration parameters]((/administration/games/lottorace#advanced-settings) at your disposal, in most cases you only need to change a few key elements to create a unique game.
+Although there are nearly [50 different configuration parameters](/administration/games/lottorace#advanced-settings) at your disposal, in most cases you only need to change a few key elements to create a unique game.
 
 ### [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
 
