@@ -45,7 +45,7 @@ It is an important factor which determines profitability for you, and the attrac
 
 ### [Odds of Winning & Payout distribution](/administration/games/lottorace#set-odds-of-winning)
 
-Odds can be set in 3 different ways.
+Odds can be set in a number of ways for Tournaments and Instant Games.
 
 > Tournament Odds
 {.is-info}
@@ -70,10 +70,13 @@ For example if the odds are 1 in 5, you should allow the player to purchase at l
 
 
 ### [Pick Size & Range](/administration/games/lottorace#pick-size)
-Easily create any type of game like 6/49, 5/35, 5/20 or even 2/5!
-The pick size impacts the speed of the game and the overall experience of players.
 
-If you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
+Easily create any type of game like a 5/35 where the player picks 5 numbers between 1 and 35.
+
+The pick size impacts the speed of the game and the overall gaming experience of players.
+
+For example if you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
+
 If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will finish in very few draws and there will be many ties.
 
 > **Usage Note:** If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
