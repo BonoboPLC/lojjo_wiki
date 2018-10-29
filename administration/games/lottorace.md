@@ -87,7 +87,7 @@ If you have a small range, like pick 5 between 1-10 combined with a  large numbe
 
 ### [Min/Max Plays Per Game](/administration/games/lottorace#min-max-entries-per-game) 
 
-The limits enable you to create games of various sizes.  I.e. a 12 player instant game or a 180 player instant game. A tournament with at least 100 participants, or a tournament with no minimum.
+The Min and Max play limits enable you to create games of various sizes.  I.e. a 12 player instant game or a 180 player instant game. A tournament with at least 100 participants, or a tournament with no minimum.
 
 Aside from the obvious impact on size, this settng can impact tournaments Prize Pools and wait time between games for instant games.
 
