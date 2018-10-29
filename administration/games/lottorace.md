@@ -312,11 +312,10 @@ The minimum number of entries that a Tournament must have in order to start.  Th
 The total number of entries avaialble for sale in game.
 In **Instant Games** the max and min are the same since Instant Games always start when all the available entries are sold.
 
-> **Usage note** You have a tournament where there is a fixed number of prizes, i.e. 5;  then the minimum number of entries must be at least 5. 
+> **Usage Note:** You have a tournament where there is a fixed number of prizes, i.e. 5;  then the minimum number of entries must be at least 5. 
 {.is-success}
 
-> **Use Case:**  
-{.is-success}
+
 
 
 
