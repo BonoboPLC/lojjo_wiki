@@ -328,6 +328,18 @@ In **Instant Games** the max and min are the same since Instant Games always sta
 ### Allow Subscriptions
 # Progressive Jackpot
 
+Progressive Jackpots allows you add another mini game to a standard LottoRace game.
+
+By adding this game you give players a second chance to win.
+
+Here is how it works:
+
+The progressive Jackpot accumulates through small contributions from each Entry Fee.
+
+The jackpot can be won by matching all or some of the numbers in a single draw; you can configure this feature to offer easy jackpots which are hit often, or hard jackpots which are seldom hit but offer large prizes.
+
+By combining Jackpots and the standard LottoRace game, players can enjoy good odds and guaranteed returns on the LottoRace portion, whilst at the same time being able to go for the large Jackpot prize.
+
 
 
 ## Jackpot Settings
