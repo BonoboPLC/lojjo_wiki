@@ -265,7 +265,7 @@ Prize Pool - The prize pool available in the game
 
 ### Guaranteed Prize Pool
 
-Choose this setting if you wish to Guarantee a minimum value for the prize pool.
+This setting is used to guarantee a minimum value for the prize pool.
 
 If the sum of all the Buy-ins do not equal or exceed this value before the start of the game, the prize pool will be supplemented by the difference.
 
