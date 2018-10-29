@@ -332,20 +332,17 @@ In instant games the max and min are the same since Instant Games always start w
 
 # Advanced Settings Only
 
-### Ball Speed
+### Ball & Draw Speed
 
-This setting allows you to control the number of seconds between each ball drawing and consequently the games Pace/speed.
+This setting allows you to control the number of seconds between each ball drawing and consequently the games' pace and speed.
 
-The recommended value for Tournaments  are 3000 and 7000 for ball and draw delay respectively.
+The recommended value for Tournaments  are 3000 ms and 7000 ms for ball and draw delay respectively.
 
-The recommended value for Instant games  are 2250 and 5000 for ball and draw delay respectively.
+The recommended value for Instant games  are 2250 ms and 5000 ms for ball and draw delay respectively.
 
 
 > **Use Case:** For an ultra faced paced game combine very fast Ball and Draw Delays (1500/5000) with very small number ranges (Pick 3/10) to product a quick, instant satisfaction game. 
 {.is-success}
-
-
-### Draw Speed
 
 
 ### Game Narrator
