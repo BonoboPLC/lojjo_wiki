@@ -2,7 +2,7 @@
 <!-- SUBTITLE: How create and manage LottoRace games -->
 
 
-LottoRace is a multi-draw, multi-player Raffle game that offers Guaranteed winners in every game.
+LottoRace is a player vs. player  multi-draw Raffle game that offers Guaranteed winners in every game.
 
 LottoRace games can be played in Tournament, or Instant Game format with any number of entries (100K+).
 
