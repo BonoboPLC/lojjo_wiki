@@ -328,19 +328,19 @@ In **Instant Games** the max and min are the same since Instant Games always sta
 ### Allow Subscriptions
 # Progressive Jackpot
 
-Progressive Jackpots allows you add another mini game to a standard LottoRace game.
+Progressive Jackpots are an add-on to a standard LottoRace game.
 
-By adding a progressive jackpot to Lottorace games you can give players a second chance to win, in every game!
+By adding a Progressive Jackpot to Lottorace games you can give players a second chance to win, in every game!
 
 **Here is how it works:**
 
-The progressive Jackpot accumulates through small contributions made from each Entry Fee.
+The Progressive Jackpot accumulates through small contributions made from each Entry Fee.
 
-The jackpot can be won by matching all or some of the numbers in a single draw. 
+The Jackpot can be won by matching all or some of the numbers in a single draw. 
 
-You can configure this feature to offer easy jackpots which are hit often, or hard jackpots which are seldom hit but offer large prizes.
+You can configure this feature to offer easy Jackpots which are hit often, or hard Jackpots which are seldom hit but offer large prizes.
 
-By combining Jackpots and the standard LottoRace game, players can enjoy good odds and guaranteed returns on the LottoRace portion, whilst at the same time being able to go for the large Jackpot prize.
+By combining Jackpots and the standard LottoRace game, players can enjoy good odds and guaranteed wins on the LottoRace portion, whilst at the same time being able to go for the large Jackpot prize.
 
 
 
@@ -350,11 +350,8 @@ The following settings must be configured when adding a Progressive Jackpot to a
 
 ### Initial Balance
 
-The initial balance of the Jackpot.
+This is the initial balance of the Jackpot and will be funded by debiting the Jackpot Reserve account and crediting the Progressive Jackpot.
 
-This amount is funded by debiting the Jackpot Reserve account
-
-When the game is turned on for the first time, expect the Jackpot Reseve Account to go into the negative by the same amount as the Jackpot Initial Balance.
 
 
 ### Jackpot Balance
@@ -367,16 +364,16 @@ Jackpot Reserve is the account which funds the Initial Balance of the Jackpot wh
 
 When the game is turned on for the first time, expect the Jackpot Reseve Account to go into the negative by the same amount as the Jackpot Initial Balance.
 
-As each entry is placed, an amount equal to the Jackpot Reserve fee is taken from the Rake and credited to the Reserve Account. 
+As each entry is placed, an amount equal to the** Jackpot Reserve Fee** is taken from the Rake Fee and credited to the Reserve Account. 
 
-This process gradually replenishes the Reserve account so that the initial balance can once again be funded when the Jackpot is won.
+This process gradually replenishes the **Jackpot Reserve Account** so that the initial balance can once again be funded when the Jackpot is won.
 
-The amount collected in the Reserve account can be controlled and managed by the Reserve Multiplier setting.
+The amount collected in the Reserve account can be controlled and managed by the** Reserve Multiplier** setting.
 
 
 ### Required Matches 
 
-The number of balls that must be matched in ONE single draw out of the total pick size. 
+The number of balls that must be matched in ONE single draw in order to win the Prize.
 
 6/6 means match all 6 numbers in one draw to win the Jackpot.
 
@@ -399,11 +396,12 @@ The amount which is contributed to the Jackpot Reserve
 
 ### Reserve Multiplier
 
-The Reserve mutliplier lets you decide when to stop collecting the Reserve Fee (and leave it in Rake instead) based on how much is accumulated in the Reserve Account in relation to the Initial Balance.
+The Reserve mutliplier places a cap on how much is collected for the Jackpot Reserve account. 
+It takes into account how much has already accumulated in the Reserve Account with respect to the **Initial Balance** setting..
 
 For example
 
-> **Use Case:**  Setting this to 3 would enforce the collection of the Reserve Fee up to the point where the Reserve Balance is 3x the Initial Balance
+> **Use Case:**  Setting the Reserve Multiplier to 3 would enforce the collection of the Reserve Fee up to the point where the Reserve Balance is 3x the Initial Balance. This ensures that there is always enough money to fund the Jackpot after it has been won.
 {.is-success}
 
 
