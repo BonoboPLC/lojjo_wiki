@@ -75,9 +75,9 @@ Easily create any type of game like a 5/35 where the player picks 5 numbers betw
 
 The pick size impacts the speed of the game and the overall gaming experience of players.
 
-For example if you have a large range and few entries, like pick 6 between 1-49, it will take many draws before all the prizes are paid out. 
+For example if you have a large range and few entries, like pick 6 between 1-49, then it will take many draws before all the prizes are paid out and it could be a long and somewhat boring game.
 
-If you have a small range, like pick 5 from 1-10, and large amount of entries, the game will finish in very few draws and there will be many ties.
+If you have a small range, like pick 5 between 1-10 combined with a  large number of entries, then the game will finish in very few draws and there will be many shared prizes.
 
 > **Usage Note:** If a  [Progressive Jackpot](/administration/games/lottorace#progressive-jackpot) is added to the game, then the Jackpots odds will implicitly mirror the Pick Size and Range.
 {.is-success}
