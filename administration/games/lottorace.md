@@ -6,7 +6,7 @@ LottoRace is a player vs. player  multi-draw Raffle game that offers Guaranteed 
 
 LottoRace games can be played in Tournament, or Instant Game format with any number of entries (100K+).
 
-All LottoRace games offer guaranteed wins since the draws continue until the entire prize pool is paid out to players.
+All LottoRace games offer guaranteed wins; The draws continue until the entire prize pool is paid out to players.
 
 Revenue is earned by charging a small Rake Fee on each entry.
 
@@ -35,7 +35,7 @@ LottoRace games can be configured as either InstaPlay instant Games, or Tourname
 
 ## Common Settings
 
-Although there are nearly 50 different configuration parameters at your disposal, in most cases you only need to concern yourself with a few key elements to create a complete unique game.
+Although there are nearly 50 different configuration parameters at your disposal, in most cases you only need to change a few key elements to create a unique game.
 
 ### [Buy-in & Rake](/administration/games/lottorace#set-buy-in)
 
