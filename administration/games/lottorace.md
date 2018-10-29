@@ -98,7 +98,11 @@ In any Instant Game, all the entries must be sold before the game can start. The
 
 These limits can impact the overall experience for players and should therefore take into account traffic volumes and player expectations.
 
-We recommend having games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
+> **Usage Note:** Less is more. Having less games focuses the player traffic into fewer games which leads to higher prize pools per game and fast starting instant games.
+{.is-success}
+
+> **Usage Note:** We recommend having games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
+{.is-success}
 
 
 ## **Advanced Settings**
