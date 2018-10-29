@@ -271,7 +271,7 @@ If the sum of all the Buy-ins do not equal or exceed this value before the start
 
 If the sum of all the Buy-ins exceed this value before the start of the game, no additional supplements are made to the prize pool.
 
-> **Use Case:**  The Guaranteed prize pool is displayed to players from the moment that the game is turned on . If the actual prize pool exceeds the guaranteed prize pool then the games Prize Pool will increment up by the value of the Buy-in for each entry thereafter
+> **Use Case:**  The Guaranteed prize pool is displayed to players from the moment that the game is turned on . If the actual prize pool exceeds the guaranteed prize pool then the Prize Pool which is displayed to players will increment up by the value of the Buy-in for each entry thereafter.
 {.is-success}
 
 > **Usage Note:**  If the Guaranteed prize pool is $1000 and only $900 in buy-ins have been contributed, then an additional $100 is contributed from Guaranteed Games Expense account to the prize pool of the game.
