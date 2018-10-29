@@ -210,7 +210,7 @@ The total Entry Fee (Buy-in + Rake) is displayed on all top level pages to provi
 > **Use Case:**  Shown on top level navigation for each game 
 {.is-success}
 
-## Buy-in & Rake
+## Setting Buy-in & Rake
 
 
 
