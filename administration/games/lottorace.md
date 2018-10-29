@@ -93,7 +93,8 @@ Aside from the obvious impact on size, this settng can impact tournaments Prize 
 
 #### Tournaments
 The minimum ticket limit can be used in conjunction with a guaranteed prize pool in order to ensure that the minimum number of tickets are sold to cover the Guarantee.
-If the minimum is not met, the game can be set failover by either Rescheduling the game or Cancelling and Refunding the game.
+If the minimum number of entries is not sold, the game can either be set to automatically rescheduled or be cancelled and all bets refunded.
+
 
 #### Size of Instant Games
 
