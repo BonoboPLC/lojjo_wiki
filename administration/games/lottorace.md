@@ -1,5 +1,5 @@
-<!-- TITLE: LottoRace -->
-<!-- SUBTITLE: A quick summary of Lottorace -->
+<!-- TITLE: LottoRace Admin Guide-->
+<!-- SUBTITLE: How create and manage LottoRace games -->
 
 
 LottoRace is a multi-draw, multi-player Raffle game that offers Guaranteed winners in every game.
