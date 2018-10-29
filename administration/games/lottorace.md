@@ -92,7 +92,7 @@ The Min and Max play limits enable you to create games of various sizes.  I.e. a
 Aside from the obvious impact on size, this settng can impact tournaments Prize Pools and wait time between games for instant games.
 
 #### Tournaments
-The minimum ticket limit can be used in conjunction with a guaranteed prize pool, such that you are assured that the minimum number of tickets are sold to cover the Guarantee.
+The minimum ticket limit can be used in conjunction with a guaranteed prize pool in order to ensure that the minimum number of tickets are sold to cover the Guarantee.
 If the minimum is not met, the game can be set failover by either Rescheduling the game or Cancelling and Refunding the game.
 
 #### Size of Instant Games
