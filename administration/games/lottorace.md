@@ -318,13 +318,71 @@ In instant games the max and min are the same since Instant Games always start w
 
 ### Allow Subscriptions
 # Progressive Jackpot
+
+
+
 ## Jackpot Settings
+
+
 ### Initial Balance
+
+The initial balance of the Jackpot.
+
+This amount is funded by debiting the Jackpot Reserve account
+
+When the game is turned on for the first time, expect the Jackpot Reseve Account to go into the negative by the same amount as the Jackpot Initial Balance.
+
+
+### Jackpot Balance
+
+Balance of the Jackpot at this moment in time. 
+
+### Jackpot Reserve
+
+Jackpot Reserve is the account which funds the Initial Balance of the Jackpot when its first started or after it has been won.
+
+When the game is turned on for the first time, expect the Jackpot Reseve Account to go into the negative by the same amount as the Jackpot Initial Balance.
+
+As each entry is placed, an amount equal to the Jackpot Reserve fee is taken from the Rake and credited to the Reserve Account. 
+
+This process gradually replenishes the Reserve account so that the initial balance can once again be funded when the Jackpot is won.
+
+The amount collected in the Reserve account can be controlled and managed by the Reserve Multiplier setting.
+
+
 ### Required Matches 
+
+The number of balls that must be matched in ONE single draw out of the total pick size. 
+
+6/6 means match all 6 numbers in one draw to win the Jackpot.
+
+
+> **Use Case:**  You can make the jackpot easier or harder to hit by adjusting this setting. For example match only 3 out of 6 to win the Jackpot is much easier than matching all 6 to win.
+{.is-success}
+
+
+
 ### Eligible Draws
+
+ The number of draws in which the Jackpot can be won. For example if set to 2, the bet must match the required number of matches in the first 2 draws to be eligible to win
+Fee (Reserve) - The amount which is contributed to the Jackpot.  The amount which is contributed to the Jackpot Reserve
+
 ### Progressive Fee 
 ### Reserve Fee
+
+The amount which is contributed to the Jackpot Reserve
+
+
 ### Reserve Multiplier
+
+The Reserve mutliplier lets you decide when to stop collecting the Reserve Fee (and leave it in Rake instead) based on how much is accumulated in the Reserve Account in relation to the Initial Balance.
+
+For example
+
+> **Use Case:**  Setting this to 3 would enforce the collection of the Reserve Fee up to the point where the Reserve Balance is 3x the Initial Balance
+{.is-success}
+
+
 
 ## Odds & Math
 
@@ -356,7 +414,8 @@ Male and Female version with an English accent are currently available.
 
 ### Client Sort Order
 
-FOR LOTTORACE TOURNAMENTS ONLY
+The order in which the game is displayed on the client
+
 ### Fail Strategy 
 
 # Loyalty Points & Rewards
