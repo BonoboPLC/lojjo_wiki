@@ -157,7 +157,7 @@ You do not need to adjust the default configurations and should only do so with 
 
 
 # Revenue Model 
-## How to Earn Fees
+## How to Earn Fees (Rake)
 
 Revenue is earned by charging a Fee on every entry.
 
