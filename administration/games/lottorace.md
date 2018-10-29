@@ -101,7 +101,10 @@ These limits can impact the overall experience for players and should therefore 
 > **Usage Note:** Less is more. Having less games focuses the player traffic into fewer games which leads to higher prize pools per game and fast starting instant games.
 {.is-success}
 
-> **Usage Note:** We recommend having games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
+> **Usage Note:** We recommend having Instant Games with 2, 6, 9, 12, 20, 50, 180, 360 Entries, based on traffic volume.
+{.is-success}
+
+> **Usage Note:** Have fewer tournaments, and schedule them for peak times.
 {.is-success}
 
 
