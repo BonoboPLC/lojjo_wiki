@@ -289,8 +289,10 @@ If the sum of all the Buy-ins exceed this value before the start of the game, no
 ### Pick Size 
 
 
-Defines the number range and the pick size for each game. For example a 5/20 Game is defined as Pick 5 numbers between 1 and 20.
-You can have up to 6 primary numbers, between 1 and 60.
+Defines the number range and the pick size for each game. 
+
+For example a 5/20 Game is defined as Pick 5 numbers between 1 and 20.
+Games can have a pick range up to  6 numbers between 1 and 60.
 
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
