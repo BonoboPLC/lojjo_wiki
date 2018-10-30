@@ -89,13 +89,11 @@ The account which holds the earned commissions from all games
 
 The process starts when Player pays the total Cost of the ticket which consists of the Buy-in and the Rake.
 
-The Buy-in portion is transferred to the Game Trust account upon sale. This amount should be caliberated to cover the prizes as defined in your payout table. (Not to worry if it doesn't)
+The Buy-in  is transferred to the Game Trust account upon sale. This amount should be caliberated to cover the prizes as defined in your payout table. (Not to worry if it doesn't)
 
-The Rake portion is transferred to the Game Commission account after the game ends.
+The Rake is transferred to the Game Commission account.
 
 At the end of the game, the prizes are paid from the Game Trust account to the Player's Trust Account
-
-The Rake portion is transferred to the Game Commission account after the game ends.
 
 >  If there isn't enough funds in the Game Trust account 
 {.is-warning}
@@ -108,7 +106,7 @@ The Rake portion is transferred to the Game Commission account after the game en
 **If Prize Roll over is enabled**, then the funds are left in the Game Trust account and allowed to build.
 This lets you have an ever increasing Jackpot until it's won.
 
-**If Prize Roll over is not enabled,** then any excess funds are recovered back in to the Commissions Earned account.
+**If Prize Roll over is disabled,** then any excess funds are recovered back in to the Commissions Earned account.
 
 
 
