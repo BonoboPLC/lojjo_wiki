@@ -21,15 +21,17 @@ A traditional scheduled Draw which accepts many entries,  or an Instant Lottery 
 
 ## Pick Range & Bonus Balls
 
-You have complete flexbility over your number ranges.
+You have complete flexbility over the number combinations in your game.
 
 You can have up to 6 numbers between 1 and 70 for your primary range.
 
 You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 
+
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
-> **Usage Note:** Create any type of game like the Powerball or create your own custom game: 6/49 , 6/49 + 2/11,  5/35, 5/20 + 2/11, etc..
+
+> **Usage Note:** if you are using custom pick sizes, then you custom payout tables must be loaded before first use. Please contact us to do so.
 > {.is-info}
 
 ## Ticket Price
