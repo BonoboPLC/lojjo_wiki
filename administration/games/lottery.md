@@ -5,7 +5,7 @@
 
 ## Random Number Generator
 
-All Lottery games use our Random Number Generator. 
+All Lottery games use our Random Number Generator which is indepently tested and certified by a third party.
 
 You can alternatively setup feeds to use your own RNG, manual draws or other sources.
 
