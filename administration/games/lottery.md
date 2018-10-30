@@ -17,7 +17,7 @@ There are 2 different types of Lotteries you can have.
 A traditional scheduled Draw or an Instant Lottery which starts as soon as a player enters the game.
 
 
-| Traditional vs. Instant Lotto | | 
+| Traditional Lotto  |   Instant Lotto | 
 | ------ | ------ | 
 | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="100px" width="100px"} |
 
