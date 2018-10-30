@@ -10,9 +10,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 | Traditional Lotto  |   Instant Lotto | 
 | ------ | ------ | 
-|* [Managing Games](/administration/games "Managing your Lottery & Raffle Games")  	
-* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
-* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")  | asdfasd|
+|* [Managing Games](/administration/games "Managing your Lottery & Raffle Games")  * [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")  | asdfasd|
 | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="100px" width="100px"} |
 
 
