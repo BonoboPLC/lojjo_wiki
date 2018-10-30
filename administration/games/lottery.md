@@ -22,29 +22,9 @@ A traditional scheduled Draw which accepts many entries,  or an Instant Lottery 
 | ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="100px" width="100px"} |
 
 
-## Basic Configuration
-
-
-
-
-
-
-### Prize Rollover
-
-Enabling Prize Rollover on a game allows the Jackpot  to continue increasing with each entry by an amount equal to the Buy-in.
-
-If this is not enabled, any monies left in the Game Trust account after prizes are paid are reclaimed and moved to the Commissions Earned account.
-
-
-> **Usage Note:** Note that the Jackpot will only increment beyond the Jackpot show in the payout table if the actual net proceeds are greater.
-{.is-success}
-
-If there 
-
-> **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
-{.is-success}
 
 ## Pick Range & Bonus Balls
+
 ## Ticket Price
 
 ### Buy-in
@@ -68,6 +48,21 @@ There are 3 different type of games currently offered on the Platform.
 | Match 4 | Win $1,000 |
 | Match 3 | Win $100 |
 | Match 2 | Win $2|
+
+## Prize Rollover
+
+Enabling Prize Rollover on a game allows the Jackpot  to continue increasing with each entry by an amount equal to the Buy-in.
+
+If this is not enabled, any monies left in the Game Trust account after prizes are paid are reclaimed and moved to the Commissions Earned account.
+
+
+> **Usage Note:** Note that the Jackpot will only increment beyond the Jackpot show in the payout table if the actual net proceeds are greater.
+{.is-success}
+
+If there 
+
+> **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
+{.is-success}
 
 
 ## Accounting Workflow
