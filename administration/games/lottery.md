@@ -31,7 +31,7 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
 
-> **Usage Note:** if you are using custom pick sizes, then you custom payout tables must be loaded before first use. Please contact us to do so.
+> **Usage Note:** if you are using custom pick sizes, then your custom payout tables must be manually configured by us before first use. Please contact us to do so.
 > {.is-info}
 
 ## Ticket Price
