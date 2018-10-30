@@ -5,6 +5,26 @@
 
 ## Scheduled Draws vs. Instant Lotto
 ## Basic Configuration
+
+
+
+
+
+
+### Prize Rollover
+
+Enabling Prize Rollover on a game allows the Jackpot  to continue increasing with each entry by an amount equal to the Buy-in.
+
+If this is not enabled, any monies left in the Game Trust account after prizes are paid are reclaimed and moved to the Commissions Earned account.
+
+
+> **Usage Note:** Note that the Jackpot will only increment beyond the Jackpot show in the payout table if the actual net proceeds are greater.
+{is-success}
+
+If there 
+> **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
+{is-success}
+
 ## Pick Range & Bonus Balls
 ## Ticket Price
 
@@ -16,6 +36,7 @@
 Example payout table for a 6/49 + 2/11 Powerball game
 Pick 6 numbers between 1 and 49  + 2 Numbers between 1 and 11.
 
+### Guaranteed Pays
 
 There are 3 different type of games currently offered on the Platform.
 | Sample Payout Table | | 
@@ -31,16 +52,47 @@ There are 3 different type of games currently offered on the Platform.
 
 ## Accounting Workflow
 
-The following is a describtion of the movement of funds within the player and system accounts for Lottery games.
+The following is a description of the movement of funds within the player and system accounts for Lottery games.
+
+The following System Accounts are used in the process:
+
+**Player Trust account**
+The account which hold the players/tickets balance
+
+**Game Trust account**
+The account which holds the prize pool funds
+
+**Commissions Earned account**
+The account which holds the earned commissions from all games
+
+
 
 The process starts when Player pays the total Cost of the ticket which consists of the Buy-in and the Rake.
 
-The Buy-in portion is transferred to the Game Trust account upon sale. This amount should be caliberated to cover the prizes as defined in your payout table.
+The Buy-in portion is transferred to the Game Trust account upon sale. This amount should be caliberated to cover the prizes as defined in your payout table. (Not to worry if it doesn't)
 
-The Rake portion is transferred to the Commission Earned account upon sale.  
+The Rake portion is transferred to the Game Commission account after the game ends.
 
-At the end of the game, the prizes are paid from the Game Trust account.
-If  there is less funds than were originally estimated to pay prizes, then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
+At the end of the game, the prizes are paid from the Game Trust account to the Player's Trust Account
+
+The Rake portion is transferred to the Game Commission account after the game ends.
+
+> > If there isn't enough funds in the Game Trust account 
+{is-alert}
+
+,Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
+
+> If there are is excess funds in the Game Trust account
+{is-info}
+
+**If Prize Roll over is enabled**, then the funds are left in the Game Trust account and allowed to build.
+This lets you have an ever increasing Jackpot until it's won.
+
+**If Prize Roll over is not enabled,** then any excess funds are recovered back in to the Game Commission Account.
+
+
+
+
 
 
 
