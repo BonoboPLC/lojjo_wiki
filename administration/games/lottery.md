@@ -25,7 +25,7 @@ You have complete flexbility over your number ranges.
 
 You can have up to 6 numbers between 1 and 70 for your primary range.
 
-You can also have up to 2 numbers between 1 and 70 for your secondary range.
+You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
