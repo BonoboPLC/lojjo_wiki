@@ -41,11 +41,11 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 
 ## Payout Table
 
-Sample payout table for a 6/49 + 2/11 Powerball game
+You can create custom payout tables for each number range/ticket price combination.
 
-Pick 6 numbers between 1 and 49  + 2 Numbers between 1 and 11.
+For example you can have Payout table A a 6/49 game with a $2 buy-in and Payout Table B for a 6/49 game with a $1 buy-in.
 
-There are 3 different type of games currently offered on the Platform.
+Sample payout table for a 6/49 + 2/11 Bonus pick game are shown below.
 
 | Sample Payout Table | | 
 | ------ | ------ | ------ | 
@@ -57,8 +57,14 @@ There are 3 different type of games currently offered on the Platform.
 | Match 3 | Win $100 |
 | Match 2 | Win $2|
 
+
 ### Guaranteed Pays
 
+The amount shown in the payout table are guaranteed to be paid out to the ticket holder in the event of a win. 
+
+This is irrespective of how many tickets are actually sold and if there adequte funds to cover the prizes.
+
+Please take care to have sufficient funds to pay prizes, no matter how unlikely the odds.
 
 
 ## Prize Rollover
