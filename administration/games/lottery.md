@@ -3,7 +3,25 @@
 
 # Lottery Games
 
+## Random Number Generator
+
+All Lottery games use our Random Number Generator. 
+
+You can alternatively setup feeds to use your own RNG, manual draws or other sources.
+
+
 ## Scheduled Draws vs. Instant Lotto
+
+There are 2 different types of Lotteries you can have.
+
+A traditional scheduled Draw or an Instant Lottery which starts as soon as a player enters the game.
+
+
+| Traditional vs. Instant Lotto | | 
+| ------ | ------ | 
+| ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"} | ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="100px" width="100px"} |
+
+
 ## Basic Configuration
 
 
@@ -40,6 +58,7 @@ Pick 6 numbers between 1 and 49  + 2 Numbers between 1 and 11.
 ### Guaranteed Pays
 
 There are 3 different type of games currently offered on the Platform.
+
 | Sample Payout Table | | 
 | ------ | ------ | ------ | 
 | Match 6 + 2 Powerballs | Win $1M |
