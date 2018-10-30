@@ -41,10 +41,9 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 
 ## Payout Table
 
-Example payout table for a 6/49 + 2/11 Powerball game
-Pick 6 numbers between 1 and 49  + 2 Numbers between 1 and 11.
+Sample payout table for a 6/49 + 2/11 Powerball game
 
-### Guaranteed Pays
+Pick 6 numbers between 1 and 49  + 2 Numbers between 1 and 11.
 
 There are 3 different type of games currently offered on the Platform.
 
@@ -57,6 +56,10 @@ There are 3 different type of games currently offered on the Platform.
 | Match 4 | Win $1,000 |
 | Match 3 | Win $100 |
 | Match 2 | Win $2|
+
+### Guaranteed Pays
+
+
 
 ## Prize Rollover
 
