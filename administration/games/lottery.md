@@ -89,7 +89,7 @@ The Rake portion is transferred to the Game Commission account after the game en
 **If Prize Roll over is enabled**, then the funds are left in the Game Trust account and allowed to build.
 This lets you have an ever increasing Jackpot until it's won.
 
-**If Prize Roll over is not enabled,** then any excess funds are recovered back in to the Game Commission Account.
+**If Prize Roll over is not enabled,** then any excess funds are recovered back in to the Commissions Earned account.
 
 
 
