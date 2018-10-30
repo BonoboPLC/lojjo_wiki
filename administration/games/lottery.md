@@ -37,7 +37,16 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 ## Ticket Price
 
 ### Buy-in
-### Rake
+
+The Buy-in is the portion of the Ticket Price that is reserved to pay for prizes and is added to the Game Trust account.
+
+
+### Rake Fee
+
+The Rake Fee is the portion of the Ticket Price that is set aside as commissions and is added to the Game Commissions account.
+
+> **Usage Note:** If there isn't enough funds in the Game Trust account the deficit will be taken from the Commissions account to pay player prizes. In this case the Commissions account can go into the negative.
+> {.is-info}
 
 ## Payout Table
 
