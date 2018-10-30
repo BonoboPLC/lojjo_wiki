@@ -31,7 +31,7 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
 
-> **Usage Note:** if you are using custom pick sizes, then your custom payout tables must be manually configured by us before first use. Please contact us to do so.
+> **Usage Note:** if you are using custom [pick size + Buy-in]  combinations, then your custom payout tables must be manually configured by us before first use. Please contact us to do so.
 > {.is-info}
 
 ## Ticket Price
@@ -39,6 +39,10 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 ### Buy-in
 
 The Buy-in is the portion of the Ticket Price that is reserved to pay for prizes and is added to the Game Trust account.
+
+
+> **Usage Note:** if you are using custom [pick size + Buy-in]  combinations, then your custom payout tables must be manually configured by us before first use. Please contact us to do so.
+> {.is-info}
 
 
 ### Rake Fee
