@@ -3,11 +3,7 @@
 
 # Lottery Games
 
-## Random Number Generator
 
-All Lottery games use our Random Number Generator which is indepently tested and certified by a third party.
-
-You can alternatively setup feeds to use your own RNG, manual draws or other sources.
 
 
 ## Scheduled Draws vs. Instant Lotto
@@ -24,6 +20,14 @@ A traditional scheduled Draw which accepts many entries,  or an Instant Lottery 
 
 
 ## Pick Range & Bonus Balls
+
+You have complete flexbility over your number ranges.
+
+You can have up to 6 numbers between 1 and 70 for your primary range.
+
+You can also have up to 2 numbers between 1 and 70 for your secondary range.
+
+> Usage Note: Create any type of game like the Powerball or create your own custom game: 6/49 , 6/49 + 2/11,  5/35, 5/20 + 2/11, etc..
 
 ## Ticket Price
 
@@ -102,6 +106,13 @@ At the end of the game, the prizes are paid from the Game Trust account to the P
 This lets you have an ever increasing Jackpot until it's won.
 
 **If Prize Roll over is disabled,** then any excess funds are recovered back in to the Commissions Earned account.
+
+
+## Random Number Generator
+
+All Lottery games use our Random Number Generator which is indepently tested and certified by a third party.
+
+You can alternatively setup feeds to use your own RNG, manual draws or other sources.
 
 
 
