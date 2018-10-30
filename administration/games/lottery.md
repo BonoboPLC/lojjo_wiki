@@ -19,12 +19,12 @@ If this is not enabled, any monies left in the Game Trust account after prizes a
 
 
 > **Usage Note:** Note that the Jackpot will only increment beyond the Jackpot show in the payout table if the actual net proceeds are greater.
-{is-success}
+{.is-success}
 
 If there 
 
 > **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
-{is-success}
+{.is-success}
 
 ## Pick Range & Bonus Balls
 ## Ticket Price
@@ -79,12 +79,12 @@ At the end of the game, the prizes are paid from the Game Trust account to the P
 The Rake portion is transferred to the Game Commission account after the game ends.
 
 >  If there isn't enough funds in the Game Trust account 
-{is-warning}
+{.is-warning}
 
 ,Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
 
 > If there are is excess funds in the Game Trust account
-{is-info}
+{.is-info}
 
 **If Prize Roll over is enabled**, then the funds are left in the Game Trust account and allowed to build.
 This lets you have an ever increasing Jackpot until it's won.
