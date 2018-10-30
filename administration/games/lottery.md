@@ -83,7 +83,7 @@ The Rake portion is transferred to the Game Commission account after the game en
 
 ,Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
 
-> If there are is excess funds in the Game Trust account
+> If there are excess funds in the Game Trust account
 {.is-info}
 
 **If Prize Roll over is enabled**, then the funds are left in the Game Trust account and allowed to build.
