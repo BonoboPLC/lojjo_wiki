@@ -7,6 +7,16 @@
 # A guide for Platform Managers
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
+
+| Traditional Lotto  |   Instant Lotto | 
+| ------ | ------ | 
+| ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"} 
+| ![Instant Lotto](/uploads/instant-lotto.png "Instant Lotto"){:height="100px" width="100px"} |
+
+
+
+
+
 * [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
 	* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
