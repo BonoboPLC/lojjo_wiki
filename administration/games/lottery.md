@@ -22,6 +22,7 @@ If this is not enabled, any monies left in the Game Trust account after prizes a
 {is-success}
 
 If there 
+
 > **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
 {is-success}
 
@@ -77,7 +78,7 @@ At the end of the game, the prizes are paid from the Game Trust account to the P
 
 The Rake portion is transferred to the Game Commission account after the game ends.
 
-> > If there isn't enough funds in the Game Trust account 
+>  If there isn't enough funds in the Game Trust account 
 {is-alert}
 
 ,Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
