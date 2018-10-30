@@ -40,7 +40,7 @@ The Buy-in portion is transferred to the Game Trust account upon sale. This amou
 The Rake portion is transferred to the Commission Earned account upon sale.  
 
 At the end of the game, the prizes are paid from the Game Trust account.
-If  there is less funds than were originally estiamted to pay prizes, then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
+If  there is less funds than were originally estimated to pay prizes, then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
 
 
 
