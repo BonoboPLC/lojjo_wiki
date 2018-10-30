@@ -36,6 +36,13 @@ You can also have up to 2 numbers between 1 and 70 for your Bonus balls.
 
 ## Ticket Price
 
+The Ticket Price paid by the player consists of the Buy-in and the Rake.
+
+You can easily set the Buy-in and Rake when creating your game.
+
+![Change Buy In](/uploads/change-buy-in.png "Change Buy In")
+
+
 ### Buy-in
 
 The Buy-in is the portion of the Ticket Price that is reserved to pay for prizes and is added to the Game Trust account.
