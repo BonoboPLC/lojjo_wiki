@@ -28,6 +28,7 @@ You can have up to 6 numbers between 1 and 70 for your primary range.
 You can also have up to 2 numbers between 1 and 70 for your secondary range.
 
 > Usage Note: Create any type of game like the Powerball or create your own custom game: 6/49 , 6/49 + 2/11,  5/35, 5/20 + 2/11, etc..
+> {.is-info}
 
 ## Ticket Price
 
