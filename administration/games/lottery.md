@@ -49,7 +49,7 @@ The Buy-in is the portion of the Ticket Price that is reserved to pay for prizes
 
 
 > **Usage Note:** if you are using custom [pick size + Buy-in]  combinations, then your custom  [Payout Table](/administration/games/lottery#payout-table) must be manually configured by us before first use. Please contact us to do so.
-> {.is-info}
+{.is-success}
 
 
 ### Rake Fee
@@ -57,7 +57,7 @@ The Buy-in is the portion of the Ticket Price that is reserved to pay for prizes
 The Rake Fee is the portion of the Ticket Price that is set aside as commissions and is added to the Game Commissions account.
 
 > **Usage Note:** If there isn't enough funds in the Game Trust account the deficit will be taken from the Commissions account to pay player prizes. In this case the Commissions account can go into the negative.
-> {.is-info}
+{.is-success}
 
 ## Payout Table
 
