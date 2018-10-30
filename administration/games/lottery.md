@@ -14,7 +14,7 @@ You can alternatively setup feeds to use your own RNG, manual draws or other sou
 
 There are 2 different types of Lotteries you can have.
 
-A traditional scheduled Draw or an Instant Lottery which starts as soon as a player enters the game.
+A traditional scheduled Draw which accepts many entries,  or an Instant Lottery which starts as soon as a single player enters the game.
 
 
 | Traditional Lotto  |   Instant Lotto | 
