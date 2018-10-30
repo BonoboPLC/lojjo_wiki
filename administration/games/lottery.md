@@ -99,7 +99,7 @@ If this is not enabled, any monies left in the Game Trust account after prizes a
 
 If there 
 
-> **Usage Note: ** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
+> **Usage Note:** Enable Prize Roll over if you want the jackpots to indefinitely increase until someone has won it.
 {.is-success}
 
 
