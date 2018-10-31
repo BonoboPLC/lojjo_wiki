@@ -21,7 +21,7 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 This is the maximum tickets available in this game. This number cannot be altered once the first ticket has been sold.
 
-The maximum available tickets is displayed on all tickets.
+The maximum available tickets is displayed on all tickets and is used for calculating odds for players.
 
 ![Tickets 2](/uploads/tickets-2.png "Tickets 2")
 
