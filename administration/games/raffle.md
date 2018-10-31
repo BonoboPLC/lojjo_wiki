@@ -22,11 +22,15 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 ## How to set Prizes 
 
+
+
 ### Setting Cash Prizes
 
 ### Setting Non-Cash Prizes
 
 ### Creating & Editing Prizes
+
+![Create Prize](/uploads/create-prize.png "Create Prize")
 
 ### Setting Prize for a single Rank
 
