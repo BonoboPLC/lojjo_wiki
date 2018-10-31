@@ -88,8 +88,8 @@ This feature saves you time in editing and assigning ranks.
 # Raffle Rules
 
 
-## Sequential Tickets
+### Sequential Tickets
 
-## 1 Winner Per Draw
+### 1 Winner Per Draw
 
 # "Win a Car" Use Case
