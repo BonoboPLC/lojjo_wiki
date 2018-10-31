@@ -59,9 +59,10 @@ Therefore $12,000 would available to be spent on prizes and $8,000 would be earn
 Total fee collected from player. Any agent commissions will be deducted from this fee. 
 
 
-## Setting Cash Prizes
+# Setting Prizes
+## Cash Prizes
 
-## Setting Non-Cash Prizes
+## Non-Cash Prizes
 
 ## Creating & Editing Prizes
 
