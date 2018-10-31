@@ -28,7 +28,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 # A guide for Retail Shop Operators
 Read this if you are Selling Tickets
 
-[Sales Agent User Guide](retail-sales-agents/ "title text!")
+* [Sales Agent User Guide](retail-sales-agents/ "title text!")
 
 # Integration guide for Developers
 You know who you are.
