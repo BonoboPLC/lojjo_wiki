@@ -87,7 +87,10 @@ You'll be able to easily see if you are selling enough tickets to cover the cost
 
 You must ensure that your prize budget is equal to the prize value in the game.
 
-> **Usage Note:** 
+
+![Raffle Prize Budget](/uploads/raffle-prize-budget.png "Raffle Prize Budget")
+
+> **Usage Note:**  You can increase your Prize Budget by increasing the number of tickets, or the portion contributing to the prize pool from each ticket.
 > {.is-success}
 
 
