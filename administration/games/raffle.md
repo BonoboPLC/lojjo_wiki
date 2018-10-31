@@ -92,4 +92,4 @@ This feature saves you time in editing and assigning ranks.
 
 ### 1 Winner Per Draw
 
-# "Win a Car" Use Case
+# "Win a Car" Raffle Use Case
