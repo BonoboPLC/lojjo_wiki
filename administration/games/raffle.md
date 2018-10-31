@@ -43,13 +43,15 @@ The full cost of the ticket to be paid by player.
 
 Using the slider, you can easily  determine how much should be available for the prize pool budget and how much will be charges as Gross Fees.
 
-**The Estimated Prize pool Budget:**  Shows you how much you would have for prizes, if all the avaiable tickets were sold
-**The Estimated Gross Profit:**  Shows you how much you would have for prizes, if all the avaiable tickets were sold.
+In the example above 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
+
+Therefore $12,000 would available to be spent on prizes and $8,000 would be earned as Gross Profit if all 1,000 tickets were sold.
 
 ![Ticket Split](/uploads/ticket-split.png "Ticket Split")
 
-In the example above 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
-Therefore $12,000 would available to be spent on prizes and $8,000 would be earned as Gross Profit if all 1,000 tickets were sold.
+**The Estimated Prize pool Budget:**  Shows you how much you would have for prizes, if all the avaiable tickets were sold
+
+**The Estimated Gross Profit:**  Shows you how much you would have for prizes, if all the avaiable tickets were sold.
 
 
 #### Gross Fees
