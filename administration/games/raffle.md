@@ -41,7 +41,7 @@ The full cost of the ticket to be paid by player.
 
 ## Split of Proceeds
 
-Using the slider, you can easily  determine how much should be available for the prize pool budget and how much will be charges as Gross Fees.
+Using the slider, you can easily  determine how much of the Ticket Price goes to the prize pool budget and how much will be charges as Gross Fees.
 
 In the example below only 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
 
