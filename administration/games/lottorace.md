@@ -12,6 +12,9 @@ Revenue is earned by charging a small Rake Fee on each entry.
 
 You can use pre-configured games, or create your own unique games by tweaking any one of the many configuration paramaters available to you.
 
+# LottoRace Rules
+
+
 # Games
 Here are some of the pre-configured games that are included in your Games Library.
 
