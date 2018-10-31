@@ -32,9 +32,16 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 ![Create Prize](/uploads/create-prize.png "Create Prize")
 
-### Setting Prize for a single Rank
+### Assigning Prizes to Ranks
 
-### Setting Prize for multiple Ranks
+You can either assign a single prize for a rank, or you can specify a range if you have many ranks receiving the same prize.
+
+For example you can set Ranks 5 to 25 to recieve the same prize.
+
+This feature saves you time in editing and assigning ranks.
+
+![Set Prize Per Rank](/uploads/set-prize-per-rank.png "Set Prize Per Rank")
+
 
 
 
