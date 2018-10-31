@@ -8,6 +8,8 @@
 
 ## Tickets & Price
 
+![Raffle Tickets](/uploads/raffle-tickets.png "Raffle Tickets")
+
 
 
 ## How to set Prizes 
