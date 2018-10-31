@@ -17,11 +17,37 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 ## Tickets & Price
 
-![Raffle Tickets](/uploads/raffle-tickets.png "Raffle Tickets")
+### Total Tickets available for sale
+
+This is the maximum tickets available in this game. This number cannot be altered once the first ticket has been sold.
+
+The maximum available tickets is displayed on all tickets.
+
+![Tickets 2](/uploads/tickets-2.png "Tickets 2")
+
+###  Free Entry Sweepstake
+
+Use this setting to offer Sweepstakes which are free to enter by anyone.
+
+Free entry sweepstakes are a great way for build your client database and promote a product launch.
+
+For more information, please see Free Entry Sweepstakes
 
 
-## How to set Prizes 
 
+### Ticket Price
+
+The full cost of the ticket to be paid by player.
+
+### Split of Proceeds
+
+Using the slider, you can easily  set the split for ticket proceeds and determine how much should be available for the prize pool budget and how much will be charges as Gross Fees.
+
+![Ticket Split](/uploads/ticket-split.png "Ticket Split")
+
+#### Gross Fees
+
+Total fee collected from player. Any agent commissions will be deducted from this fee. 
 
 
 ### Setting Cash Prizes
