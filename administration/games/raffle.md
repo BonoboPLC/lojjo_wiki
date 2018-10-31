@@ -49,9 +49,9 @@ Therefore $12,000 would available to be spent on prizes and $8,000 would be earn
 
 ![Ticket Split](/uploads/ticket-split.png "Ticket Split")
 
-**The Estimated Prize pool Budget:**  Shows you how much you would have for prizes, if all the available tickets were sold
+**The Estimated Prize pool Budget:**  Calculates how much you would have for prizes, if all the available tickets were sold
 
-**The Estimated Gross Profit:**  Shows you how much you would have for prizes, if all the avaiable tickets were sold.
+**The Estimated Gross Profit:** Calculates your total Gross fees, if all the avaiable tickets were sold.
 
 
 #### Gross Fees
