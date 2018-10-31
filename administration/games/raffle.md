@@ -79,6 +79,18 @@ This feature saves you time in editing and assigning ranks.
 ![Set Prize Per Rank](/uploads/set-prize-per-rank.png "Set Prize Per Rank")
 
 
+## Managing Prize Budget
+
+When setting prizes, you'll be able to see the total value of all assigned prizes as compared to your prize budget.
+
+You'll be able to easily see if you are selling enough tickets to cover the cost, or if you have room to give away even more prizes.
+
+You must ensure that your prize budget is equal to the prize value in the game.
+
+> **Usage Note:** 
+> {.is-success}
+
+
 
 
 
