@@ -15,9 +15,9 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 
 
-## Tickets & Price
+# Tickets & Price
 
-### Total Tickets available for sale
+## Total Tickets available for sale
 
 This is the maximum tickets available in this game. This number cannot be altered once the first ticket has been sold.
 
@@ -25,7 +25,7 @@ The maximum available tickets is displayed on all tickets.
 
 ![Tickets 2](/uploads/tickets-2.png "Tickets 2")
 
-###  Free Entry Sweepstake
+##  Free Entry Sweepstake
 
 Use this setting to offer Sweepstakes which are free to enter by anyone.
 
@@ -35,11 +35,11 @@ For more information, please see Free Entry Sweepstakes
 
 
 
-### Ticket Price
+## Ticket Price
 
 The full cost of the ticket to be paid by player.
 
-### Split of Proceeds
+## Split of Proceeds
 
 Using the slider, you can easily  determine how much should be available for the prize pool budget and how much will be charges as Gross Fees.
 
@@ -59,15 +59,15 @@ Therefore $12,000 would available to be spent on prizes and $8,000 would be earn
 Total fee collected from player. Any agent commissions will be deducted from this fee. 
 
 
-### Setting Cash Prizes
+## Setting Cash Prizes
 
-### Setting Non-Cash Prizes
+## Setting Non-Cash Prizes
 
-### Creating & Editing Prizes
+## Creating & Editing Prizes
 
 ![Create Prize](/uploads/create-prize.png "Create Prize")
 
-### Assigning Prizes to Ranks
+## Assigning Prizes to Ranks
 
 You can either assign a single prize for a rank, or you can specify a range if you have many ranks receiving the same prize.
 
@@ -84,12 +84,11 @@ This feature saves you time in editing and assigning ranks.
 
 
 
-## Raffle Rules
+# Raffle Rules
 
 
-### Sequential Tickets
+## Sequential Tickets
 
-### 1 Winner Per Draw
+## 1 Winner Per Draw
 
-
-### "Win a Car" Use Case
+# "Win a Car" Use Case
