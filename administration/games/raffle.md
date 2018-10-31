@@ -3,6 +3,13 @@
 
 
 # Traditional Prize Raffles
+
+Traditional Prize Raffle games allow you to offer any type of prize, as well as cash in your games.
+
+You can offer as many prizes as you'd like with as few or as many entries as are needed.
+
+Tickets are sequentially numbered and a winning ticket will be randomly selected during each draw.
+
 ![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
 
 
