@@ -43,7 +43,7 @@ The full cost of the ticket to be paid by player.
 
 Using the slider, you can easily  determine how much should be available for the prize pool budget and how much will be charges as Gross Fees.
 
-In the example above 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
+In the example below only 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
 
 Therefore $12,000 would available to be spent on prizes and $8,000 would be earned as Gross Profit if all 1,000 tickets were sold.
 
