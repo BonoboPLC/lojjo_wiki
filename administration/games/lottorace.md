@@ -286,7 +286,7 @@ This is your estimated prize pool based on the number of entries you expect to h
 
 This is the displayed prize pool as soon as the game is turned on. It helps you show a non-zero prize pool in order to make the game attractive to the first few entrants.
 
-Once the actual prize pool exceeds the Estimated Prize Pool, then the actual prize pool will be displayed and the text "Estimated Prize Pool" will change to "Guaranteed Prize Pool"
+Once the actual prize pool exceeds the Estimated Prize Pool or the Estimated no. of Players is reached, then the actual prize pool will be displayed and the text "Estimated Prize Pool" will change to "Guaranteed Prize Pool"
 
 ### Prize Pool Seed
 
@@ -297,6 +297,10 @@ This amount is guaranteed to be added to the prize pool regardless of number of 
 This is different from setting a  Guaranteed Prize pool which only adds the difference between the Guaranteed amount and the actual prize pool once registration is closed.
 
 ### Estimated Players
+
+The estimated number of players in the game.  See Estimated Prize Pool for usage.
+
+
 # Basic Configuration
 
 ### Pick Size 
@@ -344,6 +348,15 @@ The minimum and maximum number of entires/tickets which can be sold to a single 
 
 
 ### Allow Subscriptions
+
+If enabled, registered players can repeat their picks in future games.
+
+> **Usage Note:** A player can choose their lucky numbers, and then pre-pay for the next 5 draws.
+{.is-success}
+
+> **Usage Note:** Subscriptions cannot be sold to anonymous bearer tickets, they can only be sold to Registered players.
+{.is-warning}
+
 # Progressive Jackpot
 
 Progressive Jackpots are an add-on to a standard LottoRace game.
