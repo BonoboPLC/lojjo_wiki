@@ -305,12 +305,18 @@ This is different from setting a  Guaranteed Prize pool which only adds the diff
 Defines the number range and the pick size for each game. 
 
 For example a 5/20 Game is defined as Pick 5 numbers between 1 and 20.
-Games can have a pick range up to  6 numbers between 1 and 60.
+Games can have a pick range up to 6 numbers between 1 and 60.
 
 ![Pick Size](/uploads/pick-size.png "Pick Size")
 
 ### Bonus Pick 
 
+Defines the secondary number range and pick size for each game.
+
+For example; pick 2 between 1 and 12 for the bonus range.
+
+> **Usage Note:** You can create a game like Euromillions by  setting a 5/50 Pick Size and 2/12 Bonus Pick
+{.is-success}
 
 ### Min/Max Entries Per Game
 
@@ -334,8 +340,7 @@ In **Instant Games** the max and min are the same since Instant Games always sta
 
 ### Min/Max Entries Per Player
 
-
-
+The minimum and maximum number of entires/tickets which can be sold to a single player.
 
 
 ### Allow Subscriptions
