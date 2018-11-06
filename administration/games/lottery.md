@@ -124,7 +124,7 @@ The process starts when Player pays the total Cost of the ticket which consists 
 
 The Buy-in  is transferred to the Game Trust account upon sale. This amount should be caliberated to cover the prizes as defined in your payout table. (Not to worry if it doesn't)
 
-The Rake is transferred to the Game Commission account.
+The Rake is transferred to the Commissions Earned account.
 
 At the end of the game, the prizes are paid from the Game Trust account to the Player's Trust Account
 
