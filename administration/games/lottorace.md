@@ -282,9 +282,19 @@ If the sum of all the Buy-ins exceed this value before the start of the game, no
 
 ### Estimated Prize Pool
 
+This is your estimated prize pool based on the number of entries you expect to have in each game.
 
+This is the displayed prize pool as soon as the game is turned on. It helps you show a non-zero prize pool in order to make the game attractive to the first few entrants.
+
+Once the actual prize pool exceeds the Estimated Prize Pool, then the actual prize pool will be displayed and the text "Estimated Prize Pool" will change to "Guaranteed Prize Pool"
 
 ### Prize Pool Seed
+
+This enables you to seed the prize pool by starting it a specific amount. 
+
+This amount is guaranteed to be added to the prize pool regardless of number of entries and is done so as soon as the game is turned on. 
+
+This is different from setting a  Guaranteed Prize pool which only adds the difference between the Guaranteed amount and the actual prize pool once registration is closed.
 
 ### Estimated Players
 # Basic Configuration
