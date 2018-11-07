@@ -452,7 +452,7 @@ The recommended value for Tournaments  are 3000 ms and 7000 ms for ball and draw
 The recommended value for Instant games  are 2250 ms and 5000 ms for ball and draw delay respectively.
 
 
-> **Use Case:** For an ultra faced paced game combine very fast Ball and Draw Delays (1500/5000) with very small number ranges (Pick 3/10) to product a quick, instant satisfaction game. 
+> **Use Case:** For an ultra faced paced game combine very fast Ball and Draw Delays (1500/5000) with very small number ranges (Pick 3/10) to create a quick, instant satisfaction game. 
 {.is-success}
 
 
