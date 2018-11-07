@@ -365,7 +365,7 @@ By adding a Progressive Jackpot to Lottorace games you can give players a second
 
 **Here is how it works:**
 
-The Progressive Jackpot accumulates through small contributions made from each Entry Fee.
+The Progressive Jackpot accumulates through small contributions made from each entries Rake Fee.
 
 The Jackpot can be won by matching all or some of the numbers in a single draw. 
 
