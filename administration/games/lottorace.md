@@ -420,6 +420,8 @@ The number of balls that must be matched in ONE single draw in order to win the 
 Fee (Reserve) - The amount which is contributed to the Jackpot.  The amount which is contributed to the Jackpot Reserve
 
 ### Progressive Fee 
+
+
 ### Reserve Fee
 
 The amount which is contributed to the Jackpot Reserve
@@ -473,14 +475,51 @@ The order in which the game is displayed on the client
 
 # Loyalty Points & Rewards
 ## Loyalty Points
+
+Players can earn Loyalty Points for each entry they purchase. 
+
 ### Active Status 
+
+You can enable or disable Loyalty points for each Game Template.
+
 ### Loyalty Currency 
+
+This is the currency for your loyalty points.
+
+This could be a real currency, or your own custom currency - i.e. Frequent Player Points.
+
+> **Use Case:**  You can configure games to accept Frequent Player Points for entry. For example enter with $2 or 200 FPP points.
+{.is-success}
+
+
+
+
 ### Points Per Entry 
 
+The amount of Loyalty points earned for each entry purchased.
+
+> **Use Case:**  For example if this is set to 10 and the loyalty currency is FPP, then the player will earn 10 FPP for each entry they purchase.
+{.is-success}
+
 ##  In Game Rewards 
+
+A collection of interactive bonuses available during the game playout.
+
+The player must be watching the game live, and collecting the bonuses as they are unlocked.
+
 ### LuckyBall Reward 
+
+Some numbers are randomly designated as lucky balls. If a player has selected this number as one of their picks, they get the bonus.
+
+Visually, drawn lucky balls are Red.
+ 
+
 ### Multi-Win Reward
+
 ### Bonobo Reward  
+
 ### Perfect Game Reward 
+
+
 ### Number of Lucky Balls 
 
