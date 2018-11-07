@@ -528,14 +528,25 @@ The player must act fast to collect them as they occurr.
 {.is-success}
 
 
-### Multi-Win Reward
+### Multi-Win Bonus
+ 
+MutliWin Bonus is awarded when the player wins on Multiple entries.
+
+This is designed to encourage players to have multiple entries in each game.
 
 
+### Bonobo Bonus
 
-### Bonobo Reward  
+Bonobo Bonus is awarded when the player gets a Bonobo.
+
+A Bonobo is defined as winning 1st place, without any ties; meaning a single winner winning first place.
 
 ### Perfect Game Reward 
 
+A Perfect Game bonus is awarded when the player wins the entire prize pool. 
+This can happen if there are few prizes to be won, i.e. 3, and the player plays 3 entries which win 1st, 2nd and 3rd. 
 
+> **Usage Note:**  Cannot be in a winner take all game as there is only one prize
+{.is-info}
 
 
