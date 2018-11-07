@@ -421,10 +421,12 @@ Fee (Reserve) - The amount which is contributed to the Jackpot.  The amount whic
 
 ### Progressive Fee 
 
+The amount which is taken from the Rake portion of each entry fee and contributed to the Progressive Jackpot.
+
 
 ### Reserve Fee
 
-The amount which is contributed to the Jackpot Reserve
+The amount which is taken from the Rake portion of each entry fee and contributed to the Progressive Jackpot Reserve.
 
 
 ### Reserve Multiplier
@@ -441,6 +443,19 @@ For example
 
 ## Odds & Math
 
+Configuring the Jackpot requires understanding of odds with respect to the Pick Size.
+
+For example, in a 5/20 game the odds of matching all 5 numbers on the 1st draw are 1 in 15,504
+
+Therefore, you should expect 15,504 entries, on average, before the Jackpot is won.
+
+Before you can set the Initial Balance of the Jackpot, you must decide how much from entries Rake will go to the Reserve and Jackpot accounts respectively.
+
+The Initial Balance and Reserve Fee, should be configured so that   IB = Reserve Fee X Odds
+
+For example, if in a 5/20 game, you decide to contribute 5 cents from each entry to the Reserve, then your Initial Balance should be  set to  ($0.05 x 15,504) = **$775.20**
+
+This is easy to understand because on average, you can only set aside and reserve $775 to fund the Jackpot, before the Jackpot is actually won, and must be funded again with the Initial Balance.
 
 
 # Advanced Settings Only
