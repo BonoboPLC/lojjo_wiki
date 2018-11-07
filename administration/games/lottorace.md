@@ -507,19 +507,35 @@ A collection of interactive bonuses available during the game playout.
 
 The player must be watching the game live, and collecting the bonuses as they are unlocked.
 
-### LuckyBall Reward 
+### Lucky Ball Bonus
 
 Some numbers are randomly designated as lucky balls. If a player has selected this number as one of their picks, they get the bonus.
 
 Visually, drawn lucky balls are Red.
+
+When a match is made, the player needs to collect the bonus. The "Collect" button will disappear within 10 seconds or when the draw is over, whichever comes first. 
+
+The player must act fast to collect them as they occurr.
+
+### Number of Lucky Balls 
+
+ You need to set the number of balls which are "lucky balls".
  
+ You should consider the total size of your Pick Range when configuring this value and be carefull not to have a disproportionately high number of Lucky Balls.
+ 
+ 
+> **Use Case:**  If you have 10 Lucky balls, with a Pick Range of 30, then 1 in 3 balls will be Lucky Balls and allow players to collect a Lucky Ball Bonus.
+{.is-success}
+
 
 ### Multi-Win Reward
+
+
 
 ### Bonobo Reward  
 
 ### Perfect Game Reward 
 
 
-### Number of Lucky Balls 
+
 
