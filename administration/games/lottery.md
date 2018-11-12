@@ -82,7 +82,7 @@ Sample payout table for a 6/49 + 2/11 Bonus pick game are shown below.
 
 The amount shown in the payout table are guaranteed to be paid out to the ticket holder in the event of a win. 
 
-This is irrespective of how many tickets are actually sold and if there adequte funds to cover the prizes.
+This is irrespective of how many tickets are actually sold and if there are adequte funds to cover the prizes.
 
 Please take care to have sufficient funds to pay prizes, no matter how unlikely the odds.
 
