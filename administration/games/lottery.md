@@ -131,7 +131,7 @@ At the end of the game, the prizes are paid from the Game Trust account to the P
 >  If there isn't enough funds in the Game Trust account 
 {.is-warning}
 
-,Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
+Then money is transferred back from the Commissions Earned account to the Game Trust account to cover the deficit.
 
 > If there are excess funds in the Game Trust account
 {.is-info}
