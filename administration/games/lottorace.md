@@ -530,7 +530,7 @@ Visually, drawn lucky balls are Red.
 
 When a match is made, the player needs to collect the bonus. The "Collect" button will disappear within 10 seconds or when the draw is over, whichever comes first. 
 
-The player must act fast to collect them as they occurr.
+The player must act fast to collect them as they occur.
 
 ### Number of Lucky Balls 
 
@@ -545,7 +545,7 @@ The player must act fast to collect them as they occurr.
 
 ### Multi-Win Bonus
  
-MutliWin Bonus is awarded when the player wins on Multiple entries.
+Mutli-Win Bonus is awarded when the player wins on Multiple entries.
 
 This is designed to encourage players to have multiple entries in each game.
 
