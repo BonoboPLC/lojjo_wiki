@@ -431,7 +431,7 @@ The amount which is taken from the Rake portion of each entry fee and contribute
 
 ### Reserve Multiplier
 
-The Reserve mutliplier places a cap on how much is collected for the Jackpot Reserve account. 
+The Reserve Mutliplier places a cap on how much is collected for the Jackpot Reserve account. 
 It takes into account how much has already accumulated in the Reserve Account with respect to the **Initial Balance** setting..
 
 For example
