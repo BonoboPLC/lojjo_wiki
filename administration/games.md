@@ -189,13 +189,11 @@ Usage:
 ### Tile Color 
 
 
-
-
-
-# Free Entry Sweepstake Games
-
+# Searching Game Instances
 # Payout Simulator
-# Viewing Past Game Instances
+
+
+
 # Games Report
 
 
