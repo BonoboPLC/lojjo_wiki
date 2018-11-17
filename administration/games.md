@@ -207,10 +207,6 @@ Game tiles are used to display games, grouped by Tournaments/Instant Games in th
 
 You can customize the look and feel of each tile by changing the Tile background and tile color.
 
-**Usage:**  Used as background image of the Game Tiles shown on the main lobby
-**Format:** PNG, JPG
-**Size:** 350px x 350px 
-**File Size:** Less than 200kb is recommended
 
 ### Tile Background & Color
 
@@ -220,8 +216,10 @@ The tile color, set to red in this example, can be customized to match your logo
 
 ![Tile Bg](/uploads/tile-bg.png "Tile Bg")
 
-
-
+**Usage:**  Used as background image of the Game Tiles shown on the main lobby
+**Format:** PNG, JPG
+**Size:** 350px x 350px 
+**File Size:** Less than 200kb is recommended
 # Searching Game Instances
 
 
