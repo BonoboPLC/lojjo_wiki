@@ -225,7 +225,6 @@ The primary Buy-in currency must be the same as this Currency.
 
 
 
-
 ### Set Buy-in
  
 The **Buy-in**  is contributed entirely to the Prize Pool and is guaranteed to be won in the game.
@@ -248,23 +247,68 @@ The secondary currency of the game which can be used for Buy-ins.
 
 > **Use Case:**  Loyalty Currency:  "Enter with $2 or 200 Loyalty Points."
 {.is-success}
-## Payout Tables & Odds
+## Payouts & Prizes
+
+There are two components to configuring payouts for a game.  
+
+The first is the **number of winners**, and the second is how that **payout is distributed** amongst those winners.
+
+
+### LottoRace Tournaments
+
+The number of winners/prizes in a LottoRace Tournament payouts can either be fixed, or defined as a percentage of the total entries in the game.
+
+
+#### As a percentage
+
+For example, you can set the number of winners to 1 in 20 , which means that 1 in 20 plays in the game will win a prize, regardless of the number of entries.
+
+Pre-set Prize distribution tables are used to calculate the allocation of prizes to each generated rank.
+Instant Game prize allocation tables can be customized upon request.
+
+![Tournament Winners](/uploads/tournament-winners.png "Tournament Winners")
+
+#### Fixed Winners
+
+Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
+
+Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which will continue to grow as more players join.
+
+
+
+### LottoRace Instant Games
+
+The number of winners/prizes in a LottoRace Instant game is explicitly set and should take into account the total number of players in the game.
+
+
+
+### Distribution of Prizes
+
+Pre-set Prize distribution tables are used to calculate the allocation of prizes to each rank.
+
+These allocation tables can be customized upon request.
+
+
+
+For LottoRaceTournaments, all you need to do is to define the percentage of plays in the game which will win.
+
+
 
 The minimum number of winning bets in a game. For Tournaments its expressed as 1 in X number of bets. For Instant Games and Fixed Payouts its expressed as the actual number of winners. 
 
 For 1 Draw games its expressed as the number of matches required to win a prize.
 Prize Pool - The prize pool available in the game
 
+## InstaPlay Payouts
 
-### Set Odds of Winning
 
-### Payout Formula
 
-#### Tournament Payout Formula
 
 #### Fixed Winners
 
 #### Instant Games Payout Formulas
+
+### Set Odds of Winning
 
 ### Guaranteed Prize Pool
 
