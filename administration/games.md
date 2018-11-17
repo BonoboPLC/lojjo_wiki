@@ -151,6 +151,8 @@ The game container should immediately appear on both the Play and Stream sites.
 
 Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
 
+Once the game has been started, new Game Instances will be created as each Game Instance is filled up and runs.
+
 
 > **Usage note:** If there are any missing configurations, you will see "Incomplete Configuration" instead and get prompts to fix them.
 {.is-success}
@@ -171,7 +173,7 @@ Only press Stop when there are no Game Instances  open for registration.
 
 ### Setting a game to Closed status
 
-This setting is used to gracefully shut down a Game. It prevents new Game Instance from being created. 
+This setting is used to gracefully shut down a Game. It prevents any new Game Instances from being created.
 
 In the normal flow, when one Game Instance gets filled up or starts on a schedule, a new one is automatically created for other players to register in. 
 Like an hourly game or an instant game that just filled up.
