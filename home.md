@@ -10,7 +10,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 ##  Games
 
-* [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
+* [Game Management Overview](/administration/games "Managing your Lottery & Raffle Games")
 	* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
 	* [Prize Draw Raffles](/administration/games/raffle "Managing your Raffle Games ")
