@@ -52,9 +52,11 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 Press the Green Start Button to make the game Live on the site.
 
+The game container should immediately appear on both the Play and Stream sites.
+
 ![Start Stop 2](/uploads/start-stop-2.png "Start Stop 2")
 
-The game container should immediately appear on both the Play and Stream sites.
+
 
 Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
 
@@ -70,6 +72,9 @@ Once the game has been started, new Game Instances will be created as each Game 
 
 1. Set the game to Closed and wait for any open instances to finish
 2. Press Stop
+3. Confirm that you want to stop the game
+
+![Stopping Games](/uploads/stopping-games.png "Stopping Games")
 
 Pressing Stop will kill any open instances, cancel and refund all bets to player accounts, and prevent any new Game Instances from being created.
 
