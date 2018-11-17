@@ -255,9 +255,11 @@ The first is the **number of winners**, and the second is how that **payout is d
 
 The distribution of prizes is already pre-set for a wide of range of combinations in prize distribution tables.
 
-These Pre-set Prize distribution tables are then used to calculate the allocation of prizes for each rank based on the number of winners.
+These pre-set Prize distribution tables are then used to calculate the allocation of prizes for each rank based on the number of winners.
 
-These allocation tables can be customized upon request.
+These allocation tables can be customized upon request. 
+
+Prize allocation example: 
 
 |  | 3 Winners | 4 Winners |
 | ------ | ------ | ------ | 
