@@ -249,9 +249,22 @@ The secondary currency of the game which can be used for Buy-ins.
 {.is-success}
 ## Payouts & Prizes
 
-There are two components to configuring payouts for a game.  
+There are two components to configuring payouts for a LottoRace game.  
 
 The first is the **number of winners**, and the second is how that **payout is distributed** amongst those winners.
+
+The distribution of prizes is already pre-set for a wide of range of combinations in prize distribution tables.
+
+These Pre-set Prize distribution tables are then used to calculate the allocation of prizes for each rank based on the number of winners.
+
+These allocation tables can be customized upon request.
+
+|  | 3 Winners | 4 Winners |
+| ------ | ------ | ------ | 
+| 1st Place | 50% | 40% |
+| 2nd Place |  35% |  25% |
+| 3rd Place |  35% |  20% |
+| 4th  Place |  N/A |  15% |
 
 
 ### LottoRace Tournaments
@@ -282,11 +295,7 @@ The number of winners/prizes in a LottoRace Instant game is explicitly set and s
 
 
 
-### Distribution of Prizes
 
-Pre-set Prize distribution tables are used to calculate the allocation of prizes to each rank.
-
-These allocation tables can be customized upon request.
 
 
 
@@ -300,8 +309,6 @@ For 1 Draw games its expressed as the number of matches required to win a prize.
 Prize Pool - The prize pool available in the game
 
 ## InstaPlay Payouts
-
-
 
 
 #### Fixed Winners
