@@ -87,7 +87,7 @@ Only press Stop when there are no Game Instances  open for registration.
 > **Usage note:**  Before stopping a game, set the game to Closed first and wait for open instances to complete
 {.is-success}
 
-### Setting a game to Closed status
+### Setting a game status to Closed 
 
 This setting is used to gracefully shut down a Game. It prevents any new Game Instances from being created.
 
