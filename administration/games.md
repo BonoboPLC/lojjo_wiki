@@ -188,13 +188,20 @@ Format: PNG, JPG
 Size: 2400 x 1200
 File Size: Less than 200kb is recommended
 
+### Game Tiles
+
+Game tiles are used to display games, grouped by Tournaments/Instant Games in the main lobby.
+
+![Tournament Tiles](/uploads/tournament-tiles.png "Tournament Tiles")
+
+You can customize the look and feel of each tile by changing the Tile background and tile color.
+
+
 ### Tile Background
 
-Usage: 
 
 
-
-### Tile Color 
+### Tile Color
 
 
 # Searching Game Instances
