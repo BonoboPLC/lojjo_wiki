@@ -35,7 +35,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
  
 
-# Setting & Updating Game Schedule
+# Managing Schedule
 
 You can set and update your game schedules at any time, even if the game is already open for registration.
 
