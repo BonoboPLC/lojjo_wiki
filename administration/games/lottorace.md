@@ -285,7 +285,7 @@ Instant Game prize allocation tables can be customized upon request.
 
 ![Tournament Winners](/uploads/tournament-winners.png "Tournament Winners")
 
-> **Usage Note:** If a Tournament pays 1 in 20 and has 2,500 entries, then the prize allocation table corresponding to 250 winners will be used.
+> **Usage Note:** If a Tournament pays 1 in 20 and has 2,500 entries, then the prize allocation table corresponding to 125 winners will be used.
 {.is-success}
 
 
