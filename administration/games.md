@@ -75,7 +75,7 @@ This setting is used to gracefully shut down a Game. It prevents any new Game In
 In the normal flow, when one Game Instance gets filled up or starts on a schedule, a new one is automatically created for other players to register in. 
 Like an hourly game or an instant game that just filled up.
 
-If a game is set to closed, the current Game Instance will be the last one and no new Game Instances will be created thereafter.  
+If a game is set to closed, the current open Game Instance will be the last one and no new Game Instances will be created thereafter.  
 
 > **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
 {.is-success}
