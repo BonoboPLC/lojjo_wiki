@@ -165,18 +165,29 @@ You can customize up to 5 elements to reflect your games branding and image.
 
 These include a Logo, Page and playout backgrounds and color.  
 
-> **Usage Note:** If you are updating any assets for Game Template, which already has an open Game Instance, you must "Reload" the game for the changes to take place.
+> **Usage Note:** If you are updating any assets for a Game Template which already has an open Game Instance, you must "Reload" the game for the changes to take place on the live instance.
 {.is-success}
 
 
 ### Game Logo
 
-Usage:  Shown on 
-Main Lobby, Game Lobby, Tickets, My Games, Completed Games
+Game logos should take into the various placements and sizes in which they will be shown.
 
-Format: Transparent PNG is best
-Size: 300px x 300px
-File Size: Less than 50kb is recommended
+Keep logos simple and clear, and without a lot of details which will be lost when the image size is decreased in certain locations.
+
+Sample Logos
+
+| |||
+| ------ | ------ | ------ | 
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" 
+![Games](/uploads/games.png "Games")
+
+
+**Usage:**  Shown on  Main Lobby, Game Lobby, Tickets, My Games, Completed Games
+
+**Format:** Transparent PNG is best
+**Size:** 300px x 300px
+**File Size:** Less than 50kb is recommended
 
 
 ### Lobby Background 
@@ -185,9 +196,9 @@ Usage:  Used as page background in Game Lobby and game playout pages.
 
 ![Lobby Background](/uploads/lobby-background.png "Lobby Background")
 
-Format: PNG, JPG
-Size: 2400 x 1200
-File Size: Less than 200kb is recommended
+**Format: ** PNG, JPG
+**Size:** 2400 x 1200
+**File Size:** Less than 200kb is recommended
 
 ### Game Tiles
 
