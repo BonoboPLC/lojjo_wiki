@@ -197,14 +197,14 @@ Game tiles are used to display games, grouped by Tournaments/Instant Games in th
 You can customize the look and feel of each tile by changing the Tile background and tile color.
 
 
-### Tile Background
+### Tile Background & Color
 
+The tile background, shown as the checkered pattern is placed behind all elements and fills the entire tile.
 
+The tile color, shown Red in this example, can be customized to match your logo and tile.
 
-![Tile Logo](/uploads/tile-logo.png "Tile Logo")
+![Tile Bg](/uploads/tile-bg.png "Tile Bg")
 
-
-### Tile Color
 
 
 # Searching Game Instances
