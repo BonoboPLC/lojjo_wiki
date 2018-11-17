@@ -25,9 +25,6 @@ Each game template is assigned a unique Game Template ID (also called Game Defin
 | ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
 | ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
-# Free Entry Sweepstake Games
-
-
 
 
 # Creating Game Templates
@@ -38,12 +35,38 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
  
 
-# Setting Game Schedules
-### Repeat Count
+# Setting & Updating Game Schedule
 
-### Available Hours
+You can set and update your game schedules at any time, even if the game is already open for registration.
 
-### Repeat Count
+
+
+> **Usage Note:** If you are updating a schedule for a Game Template, which already has an open Game Instance, you must "Reload" the game for the changes to take place.
+{.is-success}
+
+
+### Start Time
+
+The time at which the first game will start.
+
+### End Time
+
+No new games will be created after this date. Used only when the tournament is repeated.
+
+For example, starts on Jan 1, and repeat every week until May 1st. 
+
+### Repeat Setting
+
+You can easily set how often the game will be repeated. 
+
+For example, Every 5 minutes or every 3 weeks.
+
+### Availablity Hours
+
+You can use this setting to control when the game is available during the day to suite your traffic levels.
+
+For example, Available only between the hours of 4PM to 8PM.
+
 
 ### Registration Start Delay
 
@@ -67,14 +90,45 @@ This is necessary so that the system can process and settle all pending transact
 
 The registration Delay should at least be one second (1000 milliseconds) for most games but should be set to 3 seconds with games with over 20,000 entries or more.
 
+### Max Runs
+
+The maximum number of Game Instances that can be created by this game template.
+
 
 # Setting Game Logo/Branding
 
-### Game Logo 
+You can customize up to 5 elements to reflect your games branding and image.
+
+These include a Logo, Page and playout backgrounds and color.  
+
+> **Usage Note:** If you are updating any assets for Game Template, which already has an open Game Instance, you must "Reload" the game for the changes to take place.
+{.is-success}
+
+
+### Game Logo
+
+Usage:  Shown on 
+Main Lobby, Game Lobby, Tickets, My Games, Completed Games
+
+Format: Transparent PNG is best
+Size: 300px x 300px
+
+
 ### Game Background 
+
+
 ### Playout Background 
+
+
 ### Tile Image  
+
+
+
 ### Tile Color 
+
+
+
+
 # Starting & Stopping Games
 
 ### Starting Games
@@ -114,6 +168,9 @@ If a game is set to closed, the current Game Instance will be the last one and n
 
 > **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
 {.is-success}
+
+# Free Entry Sweepstake Games
+
 # Payout Simulator
 # Viewing Past Game Instances
 # Games Report
