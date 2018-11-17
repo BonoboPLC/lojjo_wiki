@@ -52,7 +52,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 Press the Green Start Button to make the game Live on the site.
 
-![Start Stop Games](/uploads/start-stop-games.png "Start Stop Games")
+![Start Stop 2](/uploads/start-stop-2.png "Start Stop 2")
 
 The game container should immediately appear on both the Play and Stream sites.
 
