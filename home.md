@@ -28,6 +28,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 ## Operations
 * [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 * [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
+
 # A guide for Retail Shop Operators
 Read this if you are Selling Tickets
 
