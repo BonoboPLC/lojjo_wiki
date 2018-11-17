@@ -304,14 +304,14 @@ Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which 
 
 The number of winners/prizes in a LottoRace Instant game is explicitly set and should take into account the total number of entries available in the game.
 
-For example, if you have a 20 players game and want to offer 1 in 5 odds, then you should set the number of winners to 4.
+For example, if you have a 20 line game and want to offer 1 in 5 odds, then you should set the number of winners to 4.
 
 You can choose from any number of winners in an Instant Game ranging from just 1 winner up to 60 winners.
 
 
 ![Instant Winners](/uploads/instant-winners.png "Instant Winners")
 
-> **Usage Note:** If a Instant Game pays 10 plays and there is 360 entries, then the prize allocation table corresponding to 5 winners will be used.
+> **Usage Note:** If a Instant Game pays 10 plays and there is 360 entries, then the prize allocation table corresponding to 10 winners will be used.
 {.is-success}
 
 ### Guaranteed Prize Pool
