@@ -32,6 +32,54 @@ Each game template is assigned a unique Game Template ID (also called Game Defin
 To create any type of Game Templates, navigate to that game type (Raffle/LottoRace/Lottery) and look for the Create button on the top right corner.
 
  ![Create Lottery](/uploads/create-lottery.png "Create Lottery")
+ 
+ # Editing Games
+
+The Game Template must be stopped first, before editing any of the games configuration values, with the exception game branding and schedule which can be edited live.
+
+
+# Starting & Stopping Games
+
+### Starting Games
+
+Press the Green Start Button to make the game Live on the site.
+
+The game container should immediately appear on both the Play and Stream sites.
+
+Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
+
+Once the game has been started, new Game Instances will be created as each Game Instance is filled up and runs.
+
+
+> **Usage note:** If there are any missing configurations, you will see "Incomplete Configuration" instead and get prompts to fix them.
+{.is-success}
+
+### Stopping Games
+
+**To stop a game **
+
+1. Set the game to Closed and wait for any open instances to finish
+2. Press Stop
+
+Pressing Stop will kill any open instances, cancel and refund all bets to player accounts, and prevent any new Game Instances from being created.
+
+Only press Stop when there are no Game Instances  open for registration.
+
+> **Usage note:**  Before stopping a game, set the game to Closed first and wait for open instances to complete
+{.is-success}
+
+### Setting a game to Closed status
+
+This setting is used to gracefully shut down a Game. It prevents any new Game Instances from being created.
+
+In the normal flow, when one Game Instance gets filled up or starts on a schedule, a new one is automatically created for other players to register in. 
+Like an hourly game or an instant game that just filled up.
+
+If a game is set to closed, the current Game Instance will be the last one and no new Game Instances will be created thereafter.  
+
+> **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
+{.is-success}
+
 
  
 
@@ -132,7 +180,9 @@ Format: PNG, JPG
 Size: 2400 x 1200
 File Size: Less than 200kb is recommended
 
-### Tile Image  
+### Tile Background
+
+Usage: 
 
 
 
@@ -141,47 +191,6 @@ File Size: Less than 200kb is recommended
 
 
 
-# Starting & Stopping Games
-
-### Starting Games
-
-Press the Green Start Button to make the game Live on the site.
-
-The game container should immediately appear on both the Play and Stream sites.
-
-Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
-
-Once the game has been started, new Game Instances will be created as each Game Instance is filled up and runs.
-
-
-> **Usage note:** If there are any missing configurations, you will see "Incomplete Configuration" instead and get prompts to fix them.
-{.is-success}
-
-### Stopping Games
-
-**To stop a game **
-
-1. Set the game to Closed and wait for any open instances to finish
-2. Press Stop
-
-Pressing Stop will kill any open instances, cancel and refund all bets to player accounts, and prevent any new Game Instances from being created.
-
-Only press Stop when there are no Game Instances  open for registration.
-
-> **Usage note:**  Before stopping a game, set the game to Closed first and wait for open instances to complete
-{.is-success}
-
-### Setting a game to Closed status
-
-This setting is used to gracefully shut down a Game. It prevents any new Game Instances from being created.
-
-In the normal flow, when one Game Instance gets filled up or starts on a schedule, a new one is automatically created for other players to register in. 
-Like an hourly game or an instant game that just filled up.
-
-If a game is set to closed, the current Game Instance will be the last one and no new Game Instances will be created thereafter.  
-
-> **Usage note:** Set the game to closed if you are planning to turn off the game, or as part of gracefully shutting the system down for maintenance and upgrades. 
-{.is-success}
 
 # Free Entry Sweepstake Games
 
