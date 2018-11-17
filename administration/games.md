@@ -120,7 +120,7 @@ File Size: Less than 50kb is recommended
 
 Usage:  Shown on Game Playout, behind the Hopper
 
-Format: Transparent PNG is best
+Format: PNG, JPG
 Size: 
 
 
@@ -128,7 +128,7 @@ Size:
 
 Usage:  Used as page background in Game Lobby and game playout pages.
 
-Format: Large PNG format
+Format: PNG, JPG
 Size: 2400 x 1200
 File Size: Less than 200kb is recommended
 
