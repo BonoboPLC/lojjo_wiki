@@ -175,12 +175,11 @@ Game logos should take into the various placements and sizes in which they will 
 
 Keep logos simple and clear, and without a lot of details which will be lost when the image size is decreased in certain locations.
 
-Sample Logos
 
-| |||
+
+| Sample Logos |||
 | ------ | ------ | ------ | 
-| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} 
-|
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
 
 
 **Usage:**  Shown on  Main Lobby, Game Lobby, Tickets, My Games, Completed Games
