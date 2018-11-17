@@ -12,7 +12,13 @@ There are 3 different type of games currently offered on the Platform.
 
 
 
-# Pre-loaded Games
+# Pre-loaded Game Templates
+Depending on your installation type, we preload a number of pre-configured games for you.
+
+You can use these pre-configured games, or Clone a copy to use as a starting point for your own custom game.
+
+Each game template is assigned a unique Game Template ID (also called Game Definition ID).  This is differentiated from Game Instance ID which refers to an actual game, available to be played by players.
+
 
 | |||
 | ------ | ------ | ------ | 
@@ -20,7 +26,15 @@ There are 3 different type of games currently offered on the Platform.
 | ![1 In 5 Winsplus](/uploads/1-in-5-winsplus.png "1 In 5 Winsplus"){:height="100px" width="100px"}  | ![1 In 3 Winsplus](/uploads/1-in-3-winsplus.png "1 In 3 Winsplus"){:height="100px" width="100px"} |  ![1 In 2 Wins Plus](/uploads/1-in-2-wins-plus.png "1 In 2 Wins Plus"){:height="100px" width="100px"}  |    
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 # Free Entry Sweepstake Games
+
+
+
+
 # Creating Game Templates
+
+To create any type of Game Templates
+
+
 # Setting Game Schedules
 ### Repeat Count
 
