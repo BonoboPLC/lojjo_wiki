@@ -24,20 +24,13 @@ Read this if you're part of the Admin team and need to do things like creating g
 	* [Creating Sales Agents](/administration/agents#creating-sales-agents)
 	* [Day to Day Operation flow](/administration/agents#managing-agents-day-to-day)
 
-## Player Accounts
-* [Managing Players](/administration/players "Managing Players")
 
-## Operations
-* [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
-* [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
 
 # A guide for Retail Shop Operators
 Read this if you are Selling Tickets
 
 * [Sales Agent User Guide](retail-sales-agents/ "title text!")
 
-# Integration guide for Developers
-You know who you are.
-[System Integration Guide](http://docs.bonoboplc.com:4567/)
+
 
 
