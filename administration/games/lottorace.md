@@ -263,7 +263,7 @@ These allocation tables can be customized upon request.
 | ------ | ------ | ------ | 
 | 1st Place | 50% | 40% |
 | 2nd Place |  35% |  25% |
-| 3rd Place |  35% |  20% |
+| 3rd Place |  15% |  20% |
 | 4th  Place |  N/A |  15% |
 
 
