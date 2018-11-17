@@ -172,17 +172,11 @@ Size: 300px x 300px
 File Size: Less than 50kb is recommended
 
 
-### Game Background 
-
-Usage:  Shown on Game Playout, behind the Hopper
-
-Format: PNG, JPG
-Size: 
-
-
 ### Lobby Background 
 
 Usage:  Used as page background in Game Lobby and game playout pages.
+
+![Lobby Background](/uploads/lobby-background.png "Lobby Background")
 
 Format: PNG, JPG
 Size: 2400 x 1200
