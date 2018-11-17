@@ -27,16 +27,16 @@ Each game template is assigned a unique Game Template ID (also called Game Defin
 | ![Top 5 Win](/uploads/top-5-win.png "Top 5 Win"){:height="100px" width="100px"}  |  ![Weekly Lotto](/uploads/weekly-lotto.png "Weekly Lotto"){:height="100px" width="100px"}   | ![The Hourly Plus](/uploads/the-hourly-plus.png "The Hourly Plus"){:height="100px" width="100px"}
 
 
-# Creating Game Templates
+ # Editing & Creating Games
 
 To create any type of Game Templates, navigate to that game type (Raffle/LottoRace/Lottery) and look for the Create button on the top right corner.
 
  ![Create Lottery](/uploads/create-lottery.png "Create Lottery")
  
- # Editing Games
 
-The Game Template must be stopped first, before editing any of the games configuration values, with the exception game branding and schedule which can be edited live.
 
+> **Usage note:**  The Game Template must be stopped first, before editing any of the games configuration values, with the exception game branding and schedule which can be edited live.
+{.is-success}
 
 # Starting & Stopping Games
 
