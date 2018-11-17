@@ -36,6 +36,8 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
  ![Create Lottery](/uploads/create-lottery.png "Create Lottery")
 
+ 
+
 # Setting Game Schedules
 ### Repeat Count
 
