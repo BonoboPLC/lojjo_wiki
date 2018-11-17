@@ -285,11 +285,18 @@ Instant Game prize allocation tables can be customized upon request.
 
 ![Tournament Winners](/uploads/tournament-winners.png "Tournament Winners")
 
+> **Usage Note:** If a Tournament pays 1 in 20 and has 2,500 entries, then the prize allocation table corresponding to 250 winners will be used.
+{.is-success}
+
+
 #### Fixed Winners
 
 Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
 
 Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which will continue to grow as more players join.
+
+> **Usage Note:** If a Tournament pays 5 and has 2,500 entries, then the prize allocation table corresponding to 5 winners will be used.
+{.is-success}
 
 ![Fixed Winners](/uploads/fixed-winners.png "Fixed Winners")
 
@@ -304,6 +311,8 @@ You can choose from any number of winners in an Instant Game ranging from just 1
 
 ![Instant Winners](/uploads/instant-winners.png "Instant Winners")
 
+> **Usage Note:** If a Instant Game pays 10 plays and there is 360 entries, then the prize allocation table corresponding to 5 winners will be used.
+{.is-success}
 
 ### Guaranteed Prize Pool
 
