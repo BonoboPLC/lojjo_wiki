@@ -14,6 +14,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 	* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
 	* [Prize Draw Raffles](/administration/games/raffle "Managing your Raffle Games ")
+	* [Free Entry Sweepstakes](/administration/games/sweepstakes "Managing Free Entry Sweepstakes ")
 
 ## Sales Agents
 
@@ -23,6 +24,8 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 ## Player Accounts
 * [Managing Players](/administration/players "Managing Players")
+
+## Operations
 * [Managing Staff Accounts](/administration/staff "Providing access for Company employees")
 * [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
 # A guide for Retail Shop Operators
