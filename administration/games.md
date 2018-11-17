@@ -39,7 +39,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 You can set and update your game schedules at any time, even if the game is already open for registration.
 
-
+![Scheduler Basic](/uploads/scheduler-basic.png "Scheduler Basic")
 
 > **Usage Note:** If you are updating a schedule for a Game Template, which already has an open Game Instance, you must "Reload" the game for the changes to take place.
 {.is-success}
