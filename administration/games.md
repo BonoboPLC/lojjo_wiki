@@ -220,15 +220,6 @@ The tile color, set to red in this example, can be customized to match your logo
 **Format:** PNG, JPG
 **Size:** 350px x 350px 
 **File Size:** Less than 200kb is recommended
-# Searching Game Instances
-
-
-
-# Payout Simulator
-
-
-
-# Games Report
 
 
 
