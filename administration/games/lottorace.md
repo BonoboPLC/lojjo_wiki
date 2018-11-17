@@ -270,6 +270,7 @@ These allocation tables can be customized upon request.
 ### LottoRace Tournaments
 
 The number of winners/prizes in a LottoRace Tournament payouts can either be fixed, or defined as a percentage of the total entries in the game.
+This helps you configure a prize table, when the number of entries is unknown and can vary, as a tournament can.
 
 
 #### As a percentage
@@ -287,35 +288,20 @@ Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless 
 
 Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which will continue to grow as more players join.
 
-
+![Fixed Winners](/uploads/fixed-winners.png "Fixed Winners")
 
 ### LottoRace Instant Games
 
-The number of winners/prizes in a LottoRace Instant game is explicitly set and should take into account the total number of players in the game.
+The number of winners/prizes in a LottoRace Instant game is explicitly set and should take into account the total number of entries available in the game.
 
+For example, if you have a 20 players game and want to offer 1 in 5 odds, then you should set the number of winners to 4.
 
-
-
-
-
-
-For LottoRaceTournaments, all you need to do is to define the percentage of plays in the game which will win.
-
-
-
-The minimum number of winning bets in a game. For Tournaments its expressed as 1 in X number of bets. For Instant Games and Fixed Payouts its expressed as the actual number of winners. 
-
-For 1 Draw games its expressed as the number of matches required to win a prize.
-Prize Pool - The prize pool available in the game
-
-## InstaPlay Payouts
+You can choose from any number of winners in an Instant Game ranging from just 1 winner up to 60 winners.
 
 
 #### Fixed Winners
 
-#### Instant Games Payout Formulas
 
-### Set Odds of Winning
 
 ### Guaranteed Prize Pool
 
