@@ -16,6 +16,13 @@ Read this if you're part of the Admin team and need to do things like creating g
 	* [Prize Draw Raffles](/administration/games/raffle "Managing your Raffle Games ")
 	* [Free Entry Sweepstakes](/administration/games/sweepstakes "Managing Free Entry Sweepstakes ")
 
+
+* Managing Games
+	* [Viewing Past Games](/administration/games/lottorace/games-instances "Managing your Lottery & Raffle Games")
+	* [Game Reports](/administration/games/lottery  "Managing your Lottery Games")
+	* [Return To Player (RTP) validation](/administration/games/validation "Managing your Raffle Games ")
+	* [Fairness Validation Report](/administration/games/fairness "Managing Free Entry Sweepstakes ")
+
 ## Sales Agents
 
 * [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
