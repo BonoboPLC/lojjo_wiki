@@ -113,13 +113,24 @@ Main Lobby, Game Lobby, Tickets, My Games, Completed Games
 
 Format: Transparent PNG is best
 Size: 300px x 300px
+File Size: Less than 50kb is recommended
 
 
 ### Game Background 
 
+Usage:  Shown on Game Playout, behind the Hopper
 
-### Playout Background 
+Format: Transparent PNG is best
+Size: 
 
+
+### Lobby Background 
+
+Usage:  Used as page background in Game Lobby and game playout pages.
+
+Format: Large PNG format
+Size: 2400 x 1200
+File Size: Less than 200kb is recommended
 
 ### Tile Image  
 
