@@ -201,6 +201,9 @@ You can customize the look and feel of each tile by changing the Tile background
 
 
 
+![Tile Logo](/uploads/tile-logo.png "Tile Logo")
+
+
 ### Tile Color
 
 
