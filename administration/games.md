@@ -10,8 +10,6 @@ There are 3 different type of games currently offered on the Platform.
 
 
 
-
-
 # Pre-loaded Game Templates
 Depending on your installation type, we preload a number of pre-configured games for you.
 
@@ -59,8 +57,6 @@ Press the Green Start Button to make the game Live on the site.
 The game container should immediately appear on both the Play and Stream sites.
 
 ![Start Stop 2](/uploads/start-stop-2.png "Start Stop 2")
-
-
 
 Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
 
