@@ -183,7 +183,6 @@ Keep logos simple and clear, and without a lot of details which will be lost whe
 
 
 **Usage:**  Shown on  Main Lobby, Game Lobby, Tickets, My Games, Completed Games
-
 **Format:** Transparent PNG is best
 **Size:** 300px x 300px
 **File Size:** Less than 50kb is recommended
@@ -195,8 +194,9 @@ Usage:  Used as page background in Game Lobby and game playout pages.
 
 ![Lobby Background](/uploads/lobby-background.png "Lobby Background")
 
-**Format: ** PNG, JPG
-**Size:** 2400 x 1200
+**Usage:**  Used as background image on Game Lobby
+**Format:** PNG, JPG
+**Size:** 2400px x 1200px
 **File Size:** Less than 200kb is recommended
 
 ### Game Tiles
@@ -207,6 +207,10 @@ Game tiles are used to display games, grouped by Tournaments/Instant Games in th
 
 You can customize the look and feel of each tile by changing the Tile background and tile color.
 
+**Usage:**  Used as background image of the Game Tiles shown on the main lobby
+**Format:** PNG, JPG
+**Size:** 350px x 350px 
+**File Size:** Less than 200kb is recommended
 
 ### Tile Background & Color
 
