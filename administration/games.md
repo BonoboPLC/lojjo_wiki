@@ -41,8 +41,9 @@ You can set and update your game schedules at any time, even if the game is alre
 
 ![Scheduler Basic](/uploads/scheduler-basic.png "Scheduler Basic")
 
-> **Usage Note:** If you are updating a schedule for a Game Template, which already has an open Game Instance, you must "Reload" the game for the changes to take place.
+> **Usage Note:** If you are updating a schedule for a Game Template, which already has an open Game Instance then you must "Reload" the game for the changes to take place.
 {.is-success}
+
 
 
 ### Start Time
