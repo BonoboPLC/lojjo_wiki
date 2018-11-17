@@ -48,6 +48,10 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 # Starting & Stopping Games
 
+To manage games, navigate to Games -> LottoRace from the left hand navigation.
+
+![Manage Games](/uploads/manage-games.png "Manage Games")
+
 ### Starting Games
 
 Press the Green Start Button to make the game Live on the site.
