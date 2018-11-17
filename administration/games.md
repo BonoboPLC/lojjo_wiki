@@ -199,9 +199,9 @@ You can customize the look and feel of each tile by changing the Tile background
 
 ### Tile Background & Color
 
-The tile background, shown as the checkered pattern is placed behind all elements and fills the entire tile.
+The tile background, shown as the checkered pattern, is placed behind all elements and fills the entire tile.
 
-The tile color, shown Red in this example, can be customized to match your logo and tile.
+The tile color, set to red in this example, can be customized to match your logo and tile.
 
 ![Tile Bg](/uploads/tile-bg.png "Tile Bg")
 
