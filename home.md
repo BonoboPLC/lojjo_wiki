@@ -21,7 +21,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 * [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
 	* [Creating Sales Agents](/administration/agents#creating-sales-agents)
-	* [Day to Day Operation flow](/administration/agents#managing-agents-day-to-day)
+	* [Day to Day Operation flow](/administration/agents#viewing-agent-activity)
 
 
 
