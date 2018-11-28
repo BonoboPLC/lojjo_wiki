@@ -465,9 +465,10 @@ The number of balls that must be matched in ONE single draw in order to win the 
 ### Eligible Draws
 
  The number of draws in which the Jackpot can be won. For example if set to 2, the bet must match the required number of matches in the first 2 draws to be eligible to win
-Fee (Reserve) - The amount which is contributed to the Jackpot.  The amount which is contributed to the Jackpot Reserve
+
 
 ### Progressive Fee 
+
 
 The amount which is taken from the Rake portion of each entry fee and contributed to the Progressive Jackpot.
 
