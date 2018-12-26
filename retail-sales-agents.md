@@ -108,7 +108,12 @@ Sales Agents are free to accept payment in any way available. This could be simp
 
 ## How to Cancel a Ticket
 
-Follow the easy steps below to cancel a Ticket.
+Follow the easy steps below to cancel a Ticket.  
+
+Players must have in their possession the printed ticket in order to cancel it. 
+
+Registered players may use either the printed ticket receipt they were given on purchase to cancel through an agent for a direct refund.
+They may log in to the web site and cancel their ticket themselves. In the case of self-cancellation, the tickets refund would go directly to the players account and they can request a withdrawal at a later time.
 
 > **Step 1.** Log in and Choose Cancel Ticket
 {.is-info}
@@ -122,7 +127,6 @@ Log in to the Agent Portal with your credentials
 {.is-info}
 
 [You can check the ticket by either scanning it, or by manually entering the ticket details.](/retail-sales-agents#how-to-check-tickets)
-
 
 
 >**Step 3.** Pay the player
