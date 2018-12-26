@@ -3,6 +3,8 @@
 
 
 # Administrator Guide
+
+## Managing Games
 [Managing Games](/administration/games "Managing your Lottery & Raffle Games")
 [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
 [Customise Site Skin](/administration/skinning "Customizing your Player Web site!")
