@@ -106,8 +106,6 @@ Sales Agents are free to accept payment in any way available. This could be simp
 ![Confirm Purchase](/uploads/confirm-purchase.png "Confirm Purchase")
 
 
-
-66666666666666666666666
 ## How to Cancel a Ticket
 
 Follow the easy steps below to cancel a Ticket.
@@ -123,34 +121,18 @@ Log in to the Agent Portal with your credentials
 >**Step 2.** Check the ticket
 {.is-info}
 
->**Scan QR Code**
+[You can check the ticket by either scanning it, or by manually entering the ticket details.](/retail-sales-agents#how-to-check-tickets)
+
+
+
+>**Step 3.** Pay the player
 {.is-info}
 
-If a camera is detected, please scan the QR code on the ticket.
+If the ticket is valid and can still be cancelled, you will be prompted to refund the player. You can pay the player from either your withdrawal float account, or any cash you have on hand from previous sales.
+
+Note if there are no funds available in your withdrawal float, the sufficient amount will be moved from your sales reciept account to your withdrawal float in order to complete the refund for the player.
 
 
->**Check Ticket Manually**
-{.is-info}
-
-If no camera was detected, or the QR code is damaged, you can enter the Ticket information manually.
-
-You will need to enter the following: 
-
-* The Ticket ID (Found to the right of the QR Code)
-	* Will read "Ticket: 1234567"  
-* Securekey(Found on top of the ticket)
-	* Will read "Original Print 232342" if the ticket is the first and original printed ticket
-	* Will read "Reprint 232342" if the ticket was voided and reprinted 
-
-![Select Ticket Type](/uploads/select-ticket-type.png "Select Ticket Type")
-
-
-When selecting Electronic Ticket, you will be prompted to either **search for an existing Account**, or to **create a new Account**.
-Go ahead and select the one you need. You'll be taken back to the ticket selection screen when you've selected the account.
-
-![Search Account](/uploads/search-account.png "Search Account")
-
-666666666666666666666666666666666666666
 
 
 ## Printed Tickets vs Digital Tickets
