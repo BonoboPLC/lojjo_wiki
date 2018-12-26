@@ -134,6 +134,8 @@ Log in to the Agent Portal with your credentials
 
 If the ticket is valid and can still be cancelled, you will be prompted to refund the player. You can pay the player from either your withdrawal float account, or any cash you have on hand from previous sales.
 
+![Cancelling Ticket](/uploads/cancelling-ticket.png "Cancelling Ticket")
+
 Note if there are no funds available in your withdrawal float, the sufficient amount will be moved from your sales reciept account to your withdrawal float in order to complete the refund for the player.
 
 
