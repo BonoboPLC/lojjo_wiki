@@ -128,6 +128,12 @@ Log in to the Agent Portal with your credentials
 
 [You can check the ticket by either scanning it, or by manually entering the ticket details.](/retail-sales-agents#how-to-check-tickets)
 
+![Checking Tickets](/uploads/checking-tickets.png "Checking Tickets")
+
+If the ticket is a valid ticket, it can be cancelled prior to the start of the game.
+
+If the game has already started or ended, the ticket cannot be cancelled.
+
 ![Cancelling Ticket](/uploads/cancelling-ticket.png "Cancelling Ticket")
 
 
