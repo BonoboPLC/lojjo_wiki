@@ -60,11 +60,21 @@ Total fee collected from player. Any agent commissions will be deducted from thi
 
 
 # Setting Prizes
-## Cash Prizes
 
 ## Non-Cash Prizes
 
+You can easily create and assign Prizes to each rank. 
+
+
 ## Creating & Editing Prizes
+
+For each prize, you need to set the following:
+
+Prize Name,
+Prize Value
+Cash Alternative (if you allow players to take cash instead of the prize)
+A brief description
+An Image - For best results use transparent PNG at 600x400 (h/w) at a minimum.
 
 ![Create Prize](/uploads/create-prize.png "Create Prize")
 
@@ -97,14 +107,16 @@ You must ensure that your prize budget is equal to the prize value in the game.
 
 
 
-
-
-
 # Raffle Rules
+
 
 
 ### Sequential Tickets
 
+Each ticket is sequentially numbered, starting with 000001
+
 ### 1 Winner Per Draw
 
-# "Win a Car" Raffle Use Case
+There will be one winner selected, on each draw. The draws continue until all prizes are paid out.
+
+
