@@ -116,6 +116,73 @@ You can have repeating raffles, or one time events.
 > **Usage Note:**  You can modify the game schedule without shutting off the game.
 > {.is-success}
 
+## Logos & Branding
+
+You can easily customize your games branding and Logo.
+
+
+
+![Raffle Logo Images](/uploads/raffle-logo-images.png "Raffle Logo Images")
+
+You can customize up to 5 elements to reflect your games branding and image.
+
+These include a Logo, Page and playout backgrounds and color.  
+
+> **Usage Note:** If you are updating any assets for a Game Template which already has an open Game Instance, you must "Reload" the game for the changes to take place on the live instance.
+{.is-success}
+
+
+### Game Logo
+
+Game logos should take into the various placements and sizes in which they will be shown.
+
+Keep logos simple and clear, and without a lot of details which will be lost when the image size is decreased in certain locations.
+
+
+| Sample Logos |||
+| ------ | ------ | ------ | 
+| ![50 50 Small](/uploads/50-50-small.png "50 50 Small"){:height="100px" width="100px"} | ![The Daily](/uploads/the-daily.png "The Daily"){:height="100px" width="100px"} | ![Winner Take All Plus](/uploads/winner-take-all-plus.png "Winner Take All Plus"){:height="100px" width="100px"} |
+
+
+**Usage:**  Shown on  Main Lobby, Game Lobby, Tickets, My Games, Completed Games
+**Format:** Transparent PNG is best
+**Size:** 300px x 300px
+**File Size:** Less than 50kb is recommended
+
+
+### Lobby Background 
+
+Usage:  Used as page background in Game Lobby and game playout pages.
+
+![Lobby Background](/uploads/lobby-background.png "Lobby Background")
+
+**Usage:**  Used as background image on Game Lobby
+**Format:** PNG, JPG
+**Size:** 2400px x 1200px
+**File Size:** Less than 200kb is recommended
+
+### Game Tiles
+
+Game tiles are used to display games, grouped by Tournaments/Instant Games in the main lobby.
+
+![Tournament Tiles](/uploads/tournament-tiles.png "Tournament Tiles")
+
+You can customize the look and feel of each tile by changing the Tile background and tile color.
+
+
+### Tile Background & Color
+
+The tile background, shown as the checkered pattern, is placed behind all elements and fills the entire tile.
+
+The tile color, set to red in this example, can be customized to match your logo and tile.
+
+![Tile Bg](/uploads/tile-bg.png "Tile Bg")
+
+**Usage:**  Used as background image of the Game Tiles shown on the main lobby
+**Format:** PNG, JPG
+**Size:** 350px x 350px 
+**File Size:** Less than 200kb is recommended
+
 
 # Raffle Rules
 
