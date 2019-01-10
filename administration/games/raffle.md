@@ -184,6 +184,13 @@ The tile color, set to red in this example, can be customized to match your logo
 **File Size:** Less than 200kb is recommended
 
 
+## Advanced Settings
+
+You can easily customize your games branding and Logo.
+
+
+![Raffle Advanced Settings](/uploads/raffle-advanced-settings.png "Raffle Advanced Settings")
+
 # Raffle Rules
 
 
