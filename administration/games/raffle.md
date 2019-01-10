@@ -183,6 +183,14 @@ The tile color, set to red in this example, can be customized to match your logo
 **Size:** 350px x 350px 
 **File Size:** Less than 200kb is recommended
 
+## Game Description
+
+You can easily customize your games Description and Rules here.
+
+
+
+![Raffle Description](/uploads/raffle-description.png "Raffle Description")
+
 
 ## Advanced Settings
 
