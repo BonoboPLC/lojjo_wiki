@@ -104,7 +104,17 @@ You must ensure that your prize budget is equal to the prize value in the game.
 > {.is-success}
 
 
+## Setting the Schedule
 
+You can easily create your game schedule in this tab.
+
+You can have repeating raffles, or one time events.
+
+![Raffle Schedule](/uploads/raffle-schedule.png "Raffle Schedule")
+
+
+> **Usage Note:**  You can modify the game schedule without shutting off the game.
+> {.is-success}
 
 
 # Raffle Rules
