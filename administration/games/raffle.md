@@ -8,7 +8,7 @@ Traditional Prize Raffle games allow you to offer any type of prize, as well as 
 
 You can offer as many prizes as you'd like with as few or as many entries as are needed.
 
-Tickets are sequentially numbered and a winning ticket will be randomly selected during each draw.
+Tickets are sequentially numbered, and a winning ticket will be randomly selected during each draw.
 
 ![Win A Bmw Raffle](/uploads/win-a-bmw-raffle.png "Win A Bmw Raffle")
 
@@ -23,7 +23,7 @@ You will need to configure ticket details including Total No. of Tickets availab
 
 This is the maximum tickets available in this game. This number cannot be altered once the first ticket has been sold.
 
-The maximum available tickets is displayed on all tickets and is used for calculating odds for players.
+The maximum no. of available tickets is displayed on all tickets and is used for calculating odds for players.
 
 ![Tickets 2](/uploads/tickets-2.png "Tickets 2")
 
@@ -43,7 +43,7 @@ The full cost of the ticket to be paid by player.
 
 ## Split of Proceeds
 
-Using the slider, you can easily  determine how much of the Ticket Price goes to the prize pool budget and how much will be charges as Gross Fees.
+Using the slider, you can easily determine how much of the Ticket Price goes to the prize pool budget and how much will be charges as Gross Fees.
 
 In the example below only 1,000 tickets are available for sale @ $20 each with $12 going to the prize pool and $8 being charged as fees.
 
@@ -53,7 +53,7 @@ Therefore $12,000 would available to be spent on prizes and $8,000 would be earn
 
 **The Estimated Prize pool Budget:**  Calculates how much you would have for prizes, if all the available tickets were sold
 
-**The Estimated Gross Profit:** Calculates your total Gross fees, if all the avaiable tickets were sold.
+**The Estimated Gross Profit:** Calculates your total Gross fees, if all the available tickets were sold.
 
 
 #### Gross Fees
@@ -66,7 +66,7 @@ You can choose between Cash Only, and Non-Cash Prizes for your raffle.
 
 The main difference between prizes in Cash Only and Non-Cash games is that Cash Only prizes can grow with the prize pool where Non-Cash prizes are set prior to the start of the game and do not change or grow as more tickets are sold.
 
-> **Usage Note:**  You can also offer a cash prize in Non-Cash games!  i.e 1st Place: BMW 435,  2nd Place: $10,000 Cash, 3rd Place: iPhone
+> **Usage Note:**  You can also offer a cash prize in Non-Cash games!  i.e. 1st Place: BMW 435,  2nd Place: $10,000 Cash, 3rd Place: iPhone
 > {.is-success}
 
 
@@ -93,9 +93,9 @@ Instant Game prize allocation tables can be customized upon request.
 
 ### Fixed No. of Winners
 
-Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
+Alternatively, you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
 
-Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which will continue to grow as more players join.
+Meaning that regardless of the number of entries in the game 10 or 1,000 , there will still be only 5 prizes, each of which will continue to grow as more players join.
 
 > **Usage Note:** If a Tournament pays 5 and has 2,500 entries, then the prize allocation table corresponding to 5 winners will be used.
 {.is-success}
@@ -155,7 +155,7 @@ An Image - For best results use transparent PNG at 600x400 (h/w) at a minimum.
 
 ## Assigning Prizes to Ranks
 
-You can either assign a single prize for a rank, or you can specify a range if you have many ranks receiving the same prize.
+You can either assign a single prize for a rank, or you can specify a range if you have many ranks recieving the same prize.
 
 For example you can set Ranks 5 to 25 to recieve the same prize.
 
