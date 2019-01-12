@@ -17,6 +17,8 @@ Tickets are sequentially numbered and a winning ticket will be randomly selected
 
 # Tickets & Price
 
+You will need to configure ticket details including Total No. of Tickets available, their price and how the proceeds are split (Prize pool vs. Fees)
+
 ## Total Tickets available for sale
 
 This is the maximum tickets available in this game. This number cannot be altered once the first ticket has been sold.
