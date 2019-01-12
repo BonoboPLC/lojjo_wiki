@@ -72,7 +72,7 @@ Alternatively, you can have fixed number of prizes in a Cash Only game. I.e. Onl
 When selecting **“Non-Cash” prizes** , you will need to specify the prize for each rank. Prizes can be arbitrary items such as a “trip for two to Hawaii” or an “iPhone” or “$5,000” in cash.
 Please note that regardless of the number of tickets sold, Non-Cash prizes are set before the game and do not change throughout. 
 
-> **Usage Note:**  You can also offer a Cash prize in Non-Cash games! I.e 1st Place : BMW 435,  2nd Place $10,000 Cash.
+> **Usage Note:**  You can also offer a cash prize in Non-Cash games!  i.e 1st Place: BMW 435,  2nd Place: $10,000 Cash, 3rd Place: iPhone
 > {.is-success}
 
 
