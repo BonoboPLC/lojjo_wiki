@@ -78,6 +78,10 @@ Please note that regardless of the number of tickets sold, Non-Cash prizes are s
 > {.is-success}
 
 
+## Cash Prizes
+
+![Raffle Cash Percentage Payout](/uploads/raffle-cash-percentage-payout.png "Raffle Cash Percentage Payout")
+
 
 ## Non-Cash Prizes
 
