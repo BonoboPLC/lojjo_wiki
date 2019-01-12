@@ -80,7 +80,7 @@ Please note that regardless of the number of tickets sold, Non-Cash prizes are s
 
 ## Cash Prizes
 
-#### As a percentage
+### Winners As a percentage of Ticket Sold
 
 For example, you can set the number of winners to 1 in 20 , which means that 1 in 20 plays in the game will win a prize, regardless of the number of entries.
 
@@ -95,7 +95,7 @@ Instant Game prize allocation tables can be customized upon request.
 {.is-success}
 
 
-#### Fixed Winners
+### Fixed No. of Winners
 
 Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
 
