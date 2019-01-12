@@ -60,6 +60,19 @@ Total fee collected from player. Any agent commissions will be deducted from thi
 
 
 # Setting Prizes
+You can choose between Cash Only, and Non-Cash Prizes for your raffle. 
+
+The main difference between prizes in Cash Only and Non-Cash games is that Cash Only prizes can grow with the prize pool where Non-Cash prizes are set prior to the start of the game and do not change or grow as more tickets are sold.
+
+When selecting **“Cash Only” prizes**, you have the freedom of dynamically increasing or adding more prizes as more tickets are sold. 
+For example, you can set the number of winners to be 1 in 25, so that for every 25 tickets which are sold, one more prize will be offered.
+Alternatively, you can have fixed number of prizes in a Cash Only game. I.e. Only 1 winner, or 3 winners etc. The payout for each rank will increase as more tickets are sold.
+
+When selecting **“Non-Cash” prizes** , you will need to specify the prize for each rank. Prizes can be arbitrary items such as a “trip for two to Hawaii” or an “iPhone” or “$5,000” in cash.
+Please note that regardless of the number of tickets sold, Non-Cash prizes are set before the game and do not change throughout. 
+
+
+You can choose Non-Cash Prizes
 
 ## Non-Cash Prizes
 
