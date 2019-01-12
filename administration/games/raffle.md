@@ -66,19 +66,16 @@ You can choose between Cash Only, and Non-Cash Prizes for your raffle.
 
 The main difference between prizes in Cash Only and Non-Cash games is that Cash Only prizes can grow with the prize pool where Non-Cash prizes are set prior to the start of the game and do not change or grow as more tickets are sold.
 
-When selecting **“Cash Only” prizes**, you have the freedom of dynamically increasing or adding more prizes as more tickets are sold. 
-For example, you can set the number of winners to be 1 in 25, so that for every 25 tickets which are sold, one more prize will be offered.
-
-Alternatively, you can have fixed number of prizes in a Cash Only game. I.e. Only 1 winner, or 3 winners etc. The payout for each rank will increase as more tickets are sold.
-
-When selecting **“Non-Cash” prizes** , you will need to specify the prize for each rank. Prizes can be arbitrary items such as a “trip for two to Hawaii” or an “iPhone” or “$5,000” in cash.
-Please note that regardless of the number of tickets sold, Non-Cash prizes are set before the game and do not change throughout. 
-
 > **Usage Note:**  You can also offer a cash prize in Non-Cash games!  i.e 1st Place: BMW 435,  2nd Place: $10,000 Cash, 3rd Place: iPhone
 > {.is-success}
 
 
 ## Cash Prizes
+
+When selecting **“Cash Only” prizes**, you have the freedom of dynamically increasing or adding more prizes as more tickets are sold. 
+For example, you can set the number of winners to be 1 in 25, so that for every 25 tickets which are sold, one more prize will be offered.
+
+Alternatively, you can have fixed number of prizes in a Cash Only game. I.e. Only 1 winner, or 3 winners etc. The payout for each rank will increase as more tickets are sold.
 
 ### Winners As a percentage of Ticket Sold
 
@@ -139,7 +136,10 @@ This is different from setting a  Guaranteed Prize pool which only adds the diff
 
 ## Non-Cash Prizes
 
-You can easily create and assign Prizes to each rank. 
+When selecting **“Non-Cash” prizes** , you will need to specify the prize for each rank. Prizes can be arbitrary items such as a “trip for two to Hawaii” or an “iPhone” or “$5,000” in cash.
+Please note that regardless of the number of tickets sold, Non-Cash prizes are set before the game and do not change throughout. 
+
+You can easily create and assign Prizes to each rank using the Prize manager tool.
 
 
 ## Creating & Editing Prizes
