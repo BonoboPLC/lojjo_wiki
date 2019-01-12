@@ -84,7 +84,6 @@ For example, you can set the number of winners to 1 in 20 , which means that 1 i
 Pre-set Prize distribution tables are used to calculate the allocation of prizes to each generated rank.
 Instant Game prize allocation tables can be customized upon request.
 
-![Tournament Winners](/uploads/tournament-winners.png "Tournament Winners")
 
 ![Raffle Cash Percentage Payout](/uploads/raffle-cash-percentage-payout.png "Raffle Cash Percentage Payout")
 
