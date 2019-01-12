@@ -80,8 +80,62 @@ Please note that regardless of the number of tickets sold, Non-Cash prizes are s
 
 ## Cash Prizes
 
+#### As a percentage
+
+For example, you can set the number of winners to 1 in 20 , which means that 1 in 20 plays in the game will win a prize, regardless of the number of entries.
+
+Pre-set Prize distribution tables are used to calculate the allocation of prizes to each generated rank.
+Instant Game prize allocation tables can be customized upon request.
+
+![Tournament Winners](/uploads/tournament-winners.png "Tournament Winners")
+
 ![Raffle Cash Percentage Payout](/uploads/raffle-cash-percentage-payout.png "Raffle Cash Percentage Payout")
 
+> **Usage Note:** If a Tournament pays 1 in 20 and has 2,500 entries, then the prize allocation table corresponding to 125 winners will be used.
+{.is-success}
+
+
+#### Fixed Winners
+
+Alternatively you can set a fixed number of winners, i.e. 5 winners, regardless of the number of entries.
+
+Meaning that if a 1,000 entries were in the game, there is only 5 prizes, which will continue to grow as more players join.
+
+> **Usage Note:** If a Tournament pays 5 and has 2,500 entries, then the prize allocation table corresponding to 5 winners will be used.
+{.is-success}
+
+
+![Raffle Cash Fixed Payout](/uploads/raffle-cash-fixed-payout.png "Raffle Cash Fixed Payout")
+
+### Guaranteed Prize Pool
+
+This setting is used to guarantee a minimum value for the prize pool.
+
+If the sum of all the Buy-ins do not equal or exceed this value before the start of the game, the prize pool will be supplemented by the difference.
+
+If the sum of all the Buy-ins exceed this value before the start of the game, no additional supplements are made to the prize pool.
+
+> **Use Case:**  The Guaranteed prize pool is displayed to players from the moment that the game is turned on . If the actual prize pool exceeds the guaranteed prize pool then the prize pool which is displayed to players will increment up by the value of the Buy-in for each entry thereafter.
+{.is-success}
+
+> **Usage Note:**  If the Guaranteed prize pool is $1000 and only $900 in buy-ins have been contributed, then an additional $100 is contributed from Guaranteed Games Expense account to the prize pool of the game.
+{.is-success}
+
+### Estimated Prize Pool
+
+This is your estimated prize pool based on the number of entries you expect to have in each game.
+
+This is the displayed prize pool as soon as the game is turned on. It helps you show a non-zero prize pool in order to make the game attractive to the first few entrants.
+
+Once the actual prize pool exceeds the Estimated Prize Pool or the Estimated no. of Players is reached, then the actual prize pool will be displayed and the text "Estimated Prize Pool" will change to "Guaranteed Prize Pool"
+
+### Prize Pool Seed
+
+This enables you to seed the prize pool by starting it a specific amount. 
+
+This amount is guaranteed to be added to the prize pool regardless of number of entries and is done so as soon as the game is turned on. 
+
+This is different from setting a  Guaranteed Prize pool which only adds the difference between the Guaranteed amount and the actual prize pool once registration is closed.
 
 ## Non-Cash Prizes
 
