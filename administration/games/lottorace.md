@@ -14,6 +14,24 @@ You can use pre-configured games, or create your own unique games by tweaking an
 
 # LottoRace Rules
 
+## How to Play LottoRace:
+
+Each Line can be entered into the game by selecting the numbers and paying the fee(s). When the game starts, each Line will be competing for a share of the available prize pool in the game.
+
+## How to Win in LottoRace:
+
+The objective of is to match all the chosen numbers in a Line with the numbers drawn in each successive Draw. All matches are carried forward to the next Draw and do not need to be matched again. 
+
+Once a bet has matched all of its numbers, it will receive the next available prize.
+
+The draws continue until all prizes are paid out.
+
+**Sharing Prizes**
+
+If 2+ lines win on the same Draw, then all prizes are split equally between the winning lines.
+
+Refer to the payout table for the estimated prize distribution for each rank in the game.
+Return To Player (RTP) for each game can be calculated as RTP = X/(X+Y) where X is the buy-in and Y is the fee for each bet.
 
 # Games
 Here are some of the pre-configured games that are included in your Games Library.
