@@ -31,6 +31,9 @@ Read this if you're part of the Admin team and need to do things like creating g
 Read this if you are Selling Tickets
 
 * [Sales Agent User Guide](retail-sales-agents/ "title text!")
+	* [How to Sell Tickets](/retail-sales-agents#how-to-sell-tickets)
+	* [How t Sell Prizes](/retail-sales-agents#how-to-pay-prizes)
+
 
 
 
