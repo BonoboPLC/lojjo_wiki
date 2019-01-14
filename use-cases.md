@@ -6,6 +6,6 @@
 
 | Game Management           | Seller Management           | Player Management  |  System Management|
 | -------------------------------------------------------------- |:-------------:|:-----:|:-----:|
-| col 3 is      | right-aligned | $1600 |   |
+| Updating Logo    | Creating Seller Accounts | $1600 |   |
 | col 2 is      | centered      |   $12 |    |
 | zebra stripes | are neat      |    $1 |   |
