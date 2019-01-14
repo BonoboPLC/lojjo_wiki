@@ -19,5 +19,5 @@
 
 Markdown | Less Markdown | Less | Pretty
 --- | --- | --- | ---
-asdfasdf | *Still* | `renders` | **nicely**
-asdfasfd | 1 | 2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd | 3
+asdfasdf | *2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd* | `renders` | **nicely**
+asdfasfd | 2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd | 2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd | 3
