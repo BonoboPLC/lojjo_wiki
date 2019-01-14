@@ -15,9 +15,13 @@
 | How do I view ongoing/past Games? |  Whats best practice for day to day seller management? |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
 
 
+Game Management           | Retail Sales Management           | Player Management  |  System Management|
+:-------------|:-------------|:-----|:-----|
+How do I Create a Lottery?  | How do I create accounts for my Sellers? |  How does Online Registration & Play work? | How do I customize the look & feel?  
+How do I  create a LottoRace game?   | How do I manage Prize Payouts?  |    How do players register at Retail Locations ?  |  How do online payments work?  
 
 
 Markdown | Less Markdown | Less | Pretty
 --- | --- | --- | ---
-asdfasdf | *2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd* | `renders` | **nicely**
+asdfasdf | *2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd* | `renders` | **nicely** 
 asdfasfd | 2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd | 2 dsfsf  sdfs s sf sdf sdf s  fdsfd sdf sd | 3
