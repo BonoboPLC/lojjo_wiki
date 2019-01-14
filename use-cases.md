@@ -16,7 +16,7 @@
 
 
 Game Management           | Retail Sales Management           | Player Management  |  System Management|
-:-------------|:-------------|:-----|:-----|
+:-------------|:-------------|:-----|:-----
 How do I Create a Lottery?  | How do I create accounts for my Sellers? |  How does Online Registration & Play work? | How do I customize the look & feel?  
 How do I  create a LottoRace game?   | How do I manage Prize Payouts?  |    How do players register at Retail Locations ?  |  How do online payments work?  
 
