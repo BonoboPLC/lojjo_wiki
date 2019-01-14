@@ -13,3 +13,11 @@
 | How do I update the game Schedule? | How to Verify Players? (as an Agent)     |    How to Verify Players at Retail Locations | Setting Rules & Limits for Players  |
 | How do I view ongoing/past Games? |  How can I stream LIVE draws? |    How can a player replay past games? |  Setting Rules & Limits for Agents   |
 | How do I view ongoing/past Games? |  Whats best practice for day to day seller management? |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
+
+
+
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
