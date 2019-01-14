@@ -10,5 +10,5 @@
 | How do I  create a LottoRace game?   | How do I manage Prize Payouts?  |    How do players register at Retail Locations ?   How do online payments work?  |
 | How do I create a Cash Raffle? | How do I Sell Tickets as an Agent?      |     |  How do I monitory activity on my system?   |
 | How do I create a Prize based Raffle? | How to Pay Prizes as an Agent?   |    |   What kind of things can I configure? |   
-| How do I update the game Schedule? | How to Verify Players as an Agent      |    How to Verify Players at Retail Locations |   |
-| How do I search past games? |  How can I stream LIVE draws? |    How can I replay games? |    |
+| How do I update the game Schedule? | How to Verify Players as an Agent      |    How to Verify Players at Retail Locations | Setting Rules & Limits for Players  |
+| How do I search past games? |  How can I stream LIVE draws? |    How can I replay games? |  Setting Rules & Limits for Agents   |
