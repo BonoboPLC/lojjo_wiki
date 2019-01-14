@@ -20,7 +20,7 @@ Each Line can be entered into the game by selecting the numbers and paying the f
 
 ## How to Win in LottoRace:
 
-The objective of is to match all the chosen numbers in a Line with the numbers drawn in each successive Draw. All matches are carried forward to the next Draw and do not need to be matched again. 
+The objective is to match all the chosen numbers in a Line with the numbers drawn in each successive Draw. All matches are carried forward to the next Draw and do not need to be matched again. 
 
 Once a bet has matched all of its numbers, it will receive the next available prize.
 
