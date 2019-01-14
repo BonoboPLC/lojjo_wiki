@@ -12,3 +12,4 @@
 | How do I create a Prize based Raffle? |  How to Pay Prizes? (as an Agent)   |   Can players deposit at Retail locations?  |   What kind of things can I configure? |   
 | How do I update the game Schedule? | How to Verify Players? (as an Agent)     |    How to Verify Players at Retail Locations | Setting Rules & Limits for Players  |
 | How do I view ongoing/past Games? |  How can I stream LIVE draws? |    How can a player replay past games? |  Setting Rules & Limits for Agents   |
+| How do I view ongoing/past Games? |  How can I stream LIVE draws? |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
