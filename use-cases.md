@@ -15,3 +15,7 @@
 | How do I view ongoing/past Games? |  Whats best practice for day to day seller management? |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
 
 
+
+# Game Management
+
+## How do I create a Lottery?
