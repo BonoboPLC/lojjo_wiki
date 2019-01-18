@@ -19,3 +19,23 @@
 # Game Management
 
 ## How do I create a Lottery?
+
+1. Navigate to Games - > Lottery
+2. Click on "Create Lottery" on the top right corner.
+3. Complete game configurations
+4. Complete Schedule
+5. Click Start to start the game and make it available on the site
+
+## How do I create a Cash Raffle?
+
+1. Navigate to Games - > Raffle
+2. Click on "Create Raffle" on the top right corner.
+3. Complete game configurations
+4. Complete Schedule
+5. Click Start to start the game and make it available on the site
+
+##  
+
+
+
+
