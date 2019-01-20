@@ -51,7 +51,7 @@
 
 1. Navigate to Games - > Raffle
 2. Click on "Create Raffle" on the top right corner.
-3. Complete game configurations as shown here:  Raffle Configuration
+3. Complete game configurations as shown here:  [Raffle Configuration](/administration/games/raffle#tickets-price)
 4. In the Prizes tab choose: "Cash and/or Other Prizes"
 5. For each rank choose "Add new prize" 
 6. A prize can be anything such as a Car, a Gift Card or a date with a celebrity. Create a new prize as shown here: [Creating Prizes](administration/games/raffle#creating-editing-prizes "Creating Prizes")
