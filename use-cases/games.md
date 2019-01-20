@@ -1,7 +1,7 @@
-<!-- TITLE: Games Use Cases -->
+<!-- TITLE: Game Management Use Cases -->
 <!-- SUBTITLE: Most common usage flows -->
 
-# Game Management
+# Game Management Use Cases
 
 ## How do I create a custom LottoRace game?
 
