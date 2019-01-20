@@ -12,9 +12,16 @@
 5. Choose how winners will be calculated; either as a fixed number of winners (i.e. only 2 prizes available) or as a percentage of total entries (i.e. 1 in 10 wins a prize)
 6. Choose if the game will be an [Instant Game or a Schedule tournament](/administration/games/lottorace#tournaments-vs-instant-games)
 7. Customize LottoRace [logo and visuals](/administration/games#setting-game-logo-branding)
-8. Click Start to turn the Lottery on.
+8. Click Start to turn your LottoRace game on
 
 ## How do I add a Progressive Jackpot to a LottoRace game?
+
+1. First read up on [Progressive Jackpots](/administration/games/lottorace#progressive-jackpot) to understand how they work
+2. Make sure that your game is stopped and not turned on
+3. Navigate to the game details for the game you wish to add the Jackpot to
+4. Click on "Enable Jackpot"
+5. Complete [Jackpot configurations](/administration/games/lottorace#jackpot-settings)
+6. Click Start to turn your LottoRace game on
 
 ## How do I create a custom Lottery?
 
