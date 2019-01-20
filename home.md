@@ -15,8 +15,13 @@ Read this if you're part of the Admin team and need to do things like creating g
 	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
 	* [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ")
 
+### How do I? 
 
-
+[How do I create a custom LottoGame game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
+[How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
+[How do I create a custom Lottery?](/use-cases/games#how-do-i-create-a-custom-lottery)
+[How do I create a Cash Raffle?](/use-cases/games#how-do-i-create-a-cash-raffle)
+[How do I create a Prize Raffle?](/use-cases/games#how-do-i-create-a-prize-raffle)
 
 
 ## Sales Agents
