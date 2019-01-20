@@ -22,7 +22,7 @@
 3. Complete game configurations as shown here:  [Raffle Configuration](/administration/games/raffle#tickets-price)
 4. In the Prizes tab choose: "Cash Only"
 5. Choose how winners will be calculated; either as a fixed number of winners (i.e. only 2 prizes available) or as a percentage of total entries (i.e. 1 in 10 wins a prize)
-6. Set the Estimated prize pool - this will be shown to players when the game is turned on.
+6. Set the Estimated prize pool - this will be shown to players when the game is turned on and will grow as actual ticket sales exceed the estimate
 7. Set the the draw schedule
 8. Customize raffle logo and visuals
 9. Click Start to turn the Raffle on.
