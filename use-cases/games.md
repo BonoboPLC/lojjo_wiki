@@ -47,7 +47,7 @@
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
 9. Click Start to turn the Raffle on
 
-##  How do I create a Prize Raffle
+##  How do I create a Prize Raffle?
 
 1. Navigate to Games - > Raffle
 2. Click on "Create Raffle" on the top right corner.
