@@ -7,12 +7,14 @@
 
 1. Navigate to Games - > LottoRace
 2. Click on "Create LottoRace" on the top right corner.
-3. Complete [LottoRace game configurations](/administration/games/lottorace)
+3. Complete [LottoRace game configurations](/administration/games/lottorace) such as [Buy-in and Rake](/administration/games/lottorace#setting-buy-in-rake)
 4. You can configure any number combination such as 6/49 or 5/25 to change the pace and speeds of your games
 5. Choose how winners will be calculated; either as a fixed number of winners (i.e. only 2 prizes available) or as a percentage of total entries (i.e. 1 in 10 wins a prize)
 6. Choose if the game will be an [Instant Game or a Schedule tournament](/administration/games/lottorace#tournaments-vs-instant-games)
 7. Customize LottoRace [logo and visuals](/administration/games#setting-game-logo-branding)
 8. Click Start to turn the Lottery on.
+
+## How do I add a Progressive Jackpot to a LottoRace game?
 
 ## How do I create a custom Lottery?
 
