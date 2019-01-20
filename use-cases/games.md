@@ -1,9 +1,7 @@
-<!-- TITLE: Game Management Use Cases -->
+<!-- TITLE: Common Game Management Use Cases -->
 <!-- SUBTITLE: Most common usage flows -->
 
-# Game Management Use Cases
-
-## How do I create a custom LottoRace game?
+# How do I create a custom LottoRace game?
 
 1. Navigate to Games - > LottoRace
 2. Click on "Create LottoRace" on the top right corner.
@@ -14,7 +12,7 @@
 7. Customize LottoRace [logo and visuals](/administration/games#setting-game-logo-branding)
 8. Click Start to turn your LottoRace game on
 
-## How do I add a Progressive Jackpot to a LottoRace game?
+# How do I add a Progressive Jackpot to a LottoRace game?
 
 1. First read up on [Progressive Jackpots](/administration/games/lottorace#progressive-jackpot) to understand how they work
 2. Make sure that your game is stopped and not turned on
@@ -23,7 +21,7 @@
 5. Complete [Jackpot configurations](/administration/games/lottorace#jackpot-settings)
 6. Click Start to turn your LottoRace game on
 
-## How do I create a custom Lottery?
+# How do I create a custom Lottery?
 
 1. Navigate to Games - > Lottery
 2. Click on "Create Lottery" on the top right corner.
@@ -35,7 +33,7 @@
 8. Click Start to turn the Lottery on
 
 
-## How do I create a Cash Raffle?
+# How do I create a Cash Raffle?
 
 1. Navigate to Games - > Raffle
 2. Click on "Create Raffle" on the top right corner.
@@ -47,7 +45,7 @@
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
 9. Click Start to turn the Raffle on
 
-##  How do I create a Prize Raffle?
+#  How do I create a Prize Raffle?
 
 1. Navigate to Games - > Raffle
 2. Click on "Create Raffle" on the top right corner.
@@ -59,14 +57,14 @@
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
 9. Click Start to turn the Raffle on
 
-## How do I update the game Schedule?
+# How do I update the game Schedule?
 
 1. Navigate to your game
 2. Navigate to the schedule tab or click on "Edit Schedule"
 3. Update your schedule
 4.  Click on "Reload Game" - Important you must do perform this step to update the changes on the website.
 
-## How do I view details of open/completed games?
+# How do I view details of open/completed games?
 1. Navigate to the respective Game menu 
 2. Click on "Search Games"
 3. Enter the Game Instance ID or the Game Template/Definition ID or search by any other field
