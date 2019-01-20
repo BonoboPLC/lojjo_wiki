@@ -3,7 +3,7 @@
 
 # Game Management
 
-## How do I create a LottoRace game?
+## How do I create a custom LottoRace game?
 
 1. Navigate to Games - > LottoRace
 2. Click on "Create LottoRace" on the top right corner.
