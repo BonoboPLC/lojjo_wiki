@@ -66,7 +66,7 @@
 3. Update your schedule
 4.  Click on "Reload Game" - Important you must do perform this step to update the changes on the website.
 
-## How do I view ongoing/past Games?
+## How do I view details of open/completed games?
 1. Navigate to the respective Game menu 
 2. Click on "Search Games"
 3. Enter the Game Instance ID or the Game Template/Definition ID or search by any other field
