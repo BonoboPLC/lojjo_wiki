@@ -31,8 +31,10 @@ How can I protect myself against seller fraud and theft?
 How can I monitor my sellers activity?
 How can I see a tickets history and related activity?
 How does paying prizes work? 
+How can I enable sellers to pay prizes?
 How can sellers verify players?
-Can Players register through sellers?
+How can players registers with sellers?
+
 
 
 
