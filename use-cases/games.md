@@ -59,3 +59,20 @@
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
 9. Click Start to turn the Raffle on
 
+## How do I update the game Schedule?
+
+1. Navigate to your game
+2. Navigate to the schedule tab or click on "Edit Schedule"
+3. Update your schedule
+4.  Click on "Reload Game" - Important you must do perform this step to update the changes on the website.
+
+## How do I view ongoing/past Games?
+1. Navigate to the respective Game menu 
+2. Click on "Search Games"
+3. Enter the Game Instance ID or the Game Template/Definition ID or search by any other field
+4. Choose "Open" as the status if the game has not yet played
+5. Choose "Ended" as the status if the game is over
+6. Click on the Game ID that you wish to see the details for
+7. You'll be taken to the Game Details screen where you can see the current state of the game and all related transactions
+
+
