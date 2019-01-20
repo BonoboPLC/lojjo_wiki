@@ -54,7 +54,7 @@
 3. Complete game configurations as shown here:  [Raffle Configuration](/administration/games/raffle#tickets-price)
 4. In the Prizes tab choose: "Cash and/or Other Prizes"
 5. For each rank choose "Add new prize" 
-6. A prize can be anything such as a Car, a Gift Card or a date with a celebrity. Create a new prize as shown here: [Creating Prizes](administration/games/raffle#creating-editing-prizes "Creating Prizes")
+6. A prize can be anything such as a Car, a Gift Card or a date with a celebrity. Create a new prize as shown here: [Creating Prizes](../../administration/games/raffle#creating-editing-prizes "Creating Prizes")
 7. Set the the draw schedule
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
 9. Click Start to turn the Raffle on
