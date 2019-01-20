@@ -24,7 +24,7 @@
 2. Click on "Create Lottery" on the top right corner.
 3. Complete game configurations
 4. Complete Schedule
-5. Click Start to start the game and make it available on the site
+5. Click Start to turn the game on.
 
 ## How do I create a Cash Raffle?
 
@@ -32,10 +32,17 @@
 2. Click on "Create Raffle" on the top right corner.
 3. Complete game configurations
 4. Complete Schedule
-5. Click Start to start the game and make it available on the site
+5. Click Start to turn the game on.
 
-##  
+##  How do I create a Prize Raffle
 
-
+1. Navigate to Games - > Raffle
+2. Click on "Create Raffle" on the top right corner.
+3. Complete game configurations as shown here:  Raffle Configuration
+4. In the Prizes tab choose: "Cash and/or Other Prizes"
+5. For each rank choose "Add new prize" 
+6. A prize can be anything such as a Car, a Gift Card or a date with a celebrity. Create a new prize as shown here: Creating Prizes
+7. Complete Schedule
+8. Click Start to turn the game on.
 
 
