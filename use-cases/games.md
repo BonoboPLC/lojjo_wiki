@@ -20,12 +20,12 @@
 
 1. Navigate to Games - > Lottery
 2. Click on "Create Lottery" on the top right corner.
-3. Complete game configurations
-4. You can configure any number combination such as 6/49 or 5/25
-5. You must ensure that the pay table for your custom combination and ticket price is setup (Contact us to do so)
+3. Complete [Lottery configurations](/administration/games/lottery) 
+4. You can configure any [pick range for your Lottery](/administration/games/lottery) such as 6/49 or 5/25 as well as Bonus Balls
+5. You must ensure that the [payout table](/administration/games/lottery#payout-table)  for your custom combination and ticket price is setup (Contact us to do so)
 6. Set the the Lottery schedule
 7. Customize Lottery [logo and visuals](/administration/games#setting-game-logo-branding)
-8. Click Start to turn the Lottery on.
+8. Click Start to turn the Lottery on
 
 
 ## How do I create a Cash Raffle?
@@ -38,7 +38,7 @@
 6. Set the Estimated prize pool - this will be shown to players when the game is turned on and will grow as actual ticket sales exceed the estimate
 7. Set the the draw schedule
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
-9. Click Start to turn the Raffle on.
+9. Click Start to turn the Raffle on
 
 ##  How do I create a Prize Raffle
 
@@ -50,5 +50,5 @@
 6. A prize can be anything such as a Car, a Gift Card or a date with a celebrity. Create a new prize as shown here: [Creating Prizes](administration/games/raffle#creating-editing-prizes "Creating Prizes")
 7. Set the the draw schedule
 8. Customize Raffle [logo and visuals](/administration/games#setting-game-logo-branding)
-9. Click Start to turn the Raffle on.
+9. Click Start to turn the Raffle on
 
