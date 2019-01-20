@@ -2,11 +2,11 @@
 <!-- SUBTITLE: A quick summary of Raffle -->
 
 
-# Traditional Prize Raffles
+# Traditional Raffles
 
-Traditional Prize Raffle games allow you to offer any type of prize, as well as cash in your games.
+Traditional Raffle games allow you to offer any type of prize, as well as cash in your games.
 
-You can offer as many prizes as you'd like with as few or as many entries as are needed.
+You can offer as many prizes and as many tickets as you like.
 
 Tickets are sequentially numbered, and a winning ticket will be randomly selected during each draw.
 
