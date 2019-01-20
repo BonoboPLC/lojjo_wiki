@@ -17,7 +17,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 
 ### How do I? 
 
-[How do I create a custom LottoGame game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
+[How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
 [How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
 [How do I create a custom Lottery?](/use-cases/games#how-do-i-create-a-custom-lottery)
 [How do I create a Cash Raffle?](/use-cases/games#how-do-i-create-a-cash-raffle)
