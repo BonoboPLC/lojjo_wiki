@@ -1,5 +1,5 @@
-<!-- TITLE: Common Sales Management Use Cases -->
-<!-- SUBTITLE: Most common flows -->
+<!-- TITLE: Managing Sales Agents -->
+<!-- SUBTITLE: Common use cases for handling sales agents on a day to day basis -->
 
 # How do I create accounts for my Sellers?
 
