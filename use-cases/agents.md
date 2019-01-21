@@ -28,7 +28,7 @@ You can set the [commission percentage](/administration/agents#setting-agent-com
 
 The commission is calculated as a percentage of the Rake set for the ticket.
 
-For example if the Rake is set to $10 and the commission percentage is set to %20 (0.20), the sellers commission will be $2.00.
+For example if the Rake is set to $10 and the commission percentage is set to %20 (0.20), the sellers commission will be $2.00 for each ticket sold.
 
 
 # How do I track and pay seller commissions?
