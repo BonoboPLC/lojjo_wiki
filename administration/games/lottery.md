@@ -1,5 +1,5 @@
-<!-- TITLE: Lottery -->
-<!-- SUBTITLE: A quick summary of Lottery -->
+<!-- TITLE: Lottery Games -->
+<!-- SUBTITLE: Create a custom Lottery  -->
 
 # Lottery Games
 
