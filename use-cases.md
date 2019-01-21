@@ -45,4 +45,7 @@ how can i check that outcomes are random and that  winners are evenly distribute
 
 
 
+How can Players register online?
+How can players deposit online?
+How do players withdraw their winnings online?
 
