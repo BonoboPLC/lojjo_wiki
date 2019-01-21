@@ -36,7 +36,7 @@ For example if the Rake is set to $10 and the commission percentage is set to %2
 # How can I monitor my sellers activity?
 # How can I see a tickets history and related activity?
 # How do I manage prize payouts for my raffle?
-# How can I enable sellers to pay prizes?
+# How can I enable sellers to also pay prizes?
 # How can sellers verify players?
 
 
