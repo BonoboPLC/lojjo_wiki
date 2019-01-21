@@ -1,5 +1,5 @@
 <!-- TITLE: Managing Sales Agents -->
-<!-- SUBTITLE: A quick summary of Agents -->
+<!-- SUBTITLE: A quick overview on how to create and manage your sellers -->
 
 # Creating Sales Agents
 ![Contact](/uploads/contact.png "Contact"){:height="100px" width="100px"}
