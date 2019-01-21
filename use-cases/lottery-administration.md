@@ -9,7 +9,6 @@
 4. An email indicating the results will be sent
 5. If the signatures match on all applications and on all nodes in the cluster the application can continue
 6. If any of the signatures fail to match, then the platform server will be shutdown, restricting all access to system components
-
 ![App Verification](/uploads/app-verification.png "App Verification")
 # How can I check that the RNG has not been tampered with?
 
