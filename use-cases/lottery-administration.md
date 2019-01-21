@@ -1,4 +1,4 @@
-<!-- TITLE: Lottery Administration  -->
+<!-- TITLE: Platform Administration  -->
 <!-- SUBTITLE: Common uses cases for administering your lottery  -->
 
 
