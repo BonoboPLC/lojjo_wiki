@@ -1,5 +1,5 @@
 <!-- TITLE: Use Cases -->
-<!-- SUBTITLE: Most likely Use Cases when operating your Lottery or Raffle -->
+<!-- SUBTITLE: Common Use Cases when operating your Lottery or Raffle -->
 
 # Use Cases
 
@@ -15,12 +15,18 @@
 | How do I view ongoing/past Games? |  Whats best practice for day to day seller management? |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
 | How do I view ongoing/past Games? |  How do I set Commission for Sellers |    How can players deposit and withdraw online? |  Setting Rules & Limits for Agents   |
 
-How do I Create a custom Lottery? 
-How do I  create a LottoRace game?
-How do I create a Cash Raffle?
-How do I update the game Schedule?
-How do I view ongoing/past Games?
-How do I stop a games that has already sold tickets?
+[How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
+[How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
+[How do I create a custom Lottery?](/use-cases/games#how-do-i-create-a-custom-lottery)
+[How do I create a Cash Raffle?](/use-cases/games#how-do-i-create-a-cash-raffle)
+[How do I create a Prize Raffle?](/use-cases/games#how-do-i-create-a-prize-raffle)
+[How do I update the Game Schedule?](/use-cases/games#how-do-i-update-the-game-schedule)
+[ How do I view details of open/completed games?](/use-cases/games#how-do-i-view-details-of-open-completed-games)
+
+System Administration
+
+
+How do I 
 
 
 
@@ -44,7 +50,8 @@ How can I check that games are paying out properly?
 how can i check that outcomes are random and that  winners are evenly distributed?
 
 
-
+How do I view a players activity?
+Can I require ID verification prior to paying out prizes?
 How can Players register online?
 How can players deposit online?
 How do players withdraw their winnings online?
