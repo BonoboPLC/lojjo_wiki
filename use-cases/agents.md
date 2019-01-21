@@ -32,6 +32,10 @@ For example if the Rake is set to $10 and the commission percentage is set to %2
 
 
 # How do I pay commissions to my sellers?
+1. Navigate to Agents -> Sales Agents
+2. Find the agent in the search listing
+3. Click on the Agents username to go into the Agents detail view screen
+4. 
 # How can I protect myself against seller fraud and theft?
 # How can I monitor my sellers activity?
 # How can I see a tickets history and related activity?
