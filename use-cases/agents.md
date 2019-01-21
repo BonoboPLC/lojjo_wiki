@@ -28,6 +28,9 @@ You can set the commission percentage for your seller during the create wizard o
 
 The commission is calculated as a percentage of the Rake for the ticket.
 
+For example if the Rake is set to $10 and the commission percentage is set to %20 (0.20), the commission will be $2.00.
+
+
 # How do I pay commissions to my sellers?
 # How can I protect myself against seller fraud and theft?
 # How can I monitor my sellers activity?
