@@ -20,7 +20,7 @@ You can set the [commission percentage](/administration/agents#setting-agent-com
 1. Navigate to Agents -> Sales Agents
 2. Find the agent in the search listing
 3. Click on the Agents username to go into the Agents detail view screen
-4. In the Agent detail view go into "Limits & Commissions" tab
+4. In the Agent detail view go into the "Limits & Commissions" tab located on top
 5. Update the commission percentage (expressed as a decimal - i.e. for 50% enter 0.50)
 6. Click "Save"
 
