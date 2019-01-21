@@ -31,11 +31,14 @@ The commission is calculated as a percentage of the Rake set for the ticket.
 For example if the Rake is set to $10 and the commission percentage is set to %20 (0.20), the sellers commission will be $2.00.
 
 
-# How do I pay commissions to my sellers?
+# How do I track and pay seller commissions?
 1. Navigate to Agents -> Sales Agents
 2. Find the agent in the search listing
 3. Click on the Agents username to go into the Agents detail view screen
-4. 
+4. You'll see the [pending commissions](/administration/agents#paying-agent-commissions) due to an agent
+5. Pay the agent in cash, check or electronic means as is convenient
+6. Click "Pay agent" and record the payment 
+7. The agents commission balance will now reflect the payment
 # How can I protect myself against seller fraud and theft?
 # How can I monitor my sellers activity?
 # How can I see a tickets history and related activity?
