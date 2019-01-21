@@ -15,6 +15,19 @@
 
 # How do I collect sales receipts from sellers?
 # How do I set commission levels for my sellers?
+You can set the commission percentage for your seller during the create wizard or anytime after that.
+
+1. Navigate to Agents -> Sales Agents
+2. Find the agent in the search listing
+3. Click on the Agents username to go into the Agents detail view screen
+4. In the Agent detail view go into "Limits & Commissions" tab
+5. Update the commission percentage (expressed as a decimal - i.e. for 50% enter 0.50)
+6. Click "Save"
+
+## How is the commission percentage calculated?
+
+The commission is calculated as a percentage of the Rake for the ticket.
+
 # How do I pay commissions to my sellers?
 # How can I protect myself against seller fraud and theft?
 # How can I monitor my sellers activity?
