@@ -24,7 +24,6 @@ How do I stop a games that has already sold tickets?
 
 
 
-
 How do I create accounts for my Sellers?
 How do I set Commission levels for my sellers?
 How can I protect myself against seller fraud and theft?
@@ -34,6 +33,15 @@ How does paying prizes work?
 How can I enable sellers to pay prizes?
 How can sellers verify players?
 How can players registers with sellers?
+
+
+How can I check that the game engine has not been tampered with?
+How can I check that the RNG has not been tampered with?
+How can I check activity audit trail for players?
+How can I check activity audit trail for games?
+How can I check the activity of Staff?
+How can I check that games are paying out properly?
+how can i check that outcomes are random and that  winners are evenly distributed?
 
 
 
