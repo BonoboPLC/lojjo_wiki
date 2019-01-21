@@ -14,7 +14,7 @@
 
 
 # How do I collect sales receipts from sellers?
-# How do I set commission levels for my sellers?
+# How do I set commission percentage for my sellers?
 You can set the [commission percentage](/administration/agents#setting-agent-commissions) for your seller during the create wizard or anytime after that.
 
 1. Navigate to Agents -> Sales Agents
