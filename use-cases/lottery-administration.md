@@ -1,5 +1,5 @@
 <!-- TITLE: Platform Administration  -->
-<!-- SUBTITLE: Common uses cases for administering your lottery  -->
+<!-- SUBTITLE: Common uses cases for administering your lottery and raffle platform  -->
 
 
 # How can I check that the game engine has not been tampered with?
