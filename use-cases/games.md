@@ -1,5 +1,5 @@
-<!-- TITLE: Common Game Management Use Cases -->
-<!-- SUBTITLE: Most common usage flows -->
+<!-- TITLE: Lottery & Raffle Management  -->
+<!-- SUBTITLE: Common Use Cases for managing your Lottery and Raffle games-->
 
 # How do I create a custom LottoRace game?
 
