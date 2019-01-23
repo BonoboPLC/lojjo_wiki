@@ -1,5 +1,5 @@
-<!-- TITLE: Raffle -->
-<!-- SUBTITLE: A quick summary of Raffle -->
+<!-- TITLE: Raffle Games -->
+<!-- SUBTITLE: Creating your own custom cash or prize draw raffle -->
 
 
 # Traditional Raffles
