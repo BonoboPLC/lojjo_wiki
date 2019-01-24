@@ -19,13 +19,24 @@ To perform this check, please follow the easy steps below:
 
 # How can I see all the changes made to a Player account?
 A players account can be affected in many ways.
+
 A player can make changes to their own account by updating their address, settings, password or responsible gaming settings.
+
 A player or admin can make similiar changes to the account such as updating their address, verifying a player or placing restrictions on the account.
-The system might make changes to a players permission, player class or segment based on an action taken by the player.
 
+The system might also make changes to a players permission, player class or segment based on an action taken by the player.
 
+All three types of actions are tracked and available for review by taking the following steps:
 
-## Player History
+1. Navigate to **Players** from the left hand navigation menu
+2. Search for the player you are looking for
+3. Click on the username to view the details of that player
+4. You will now be in the players detail view where you can see all system information about a particular player
+5. Scroll down to the last set of tabs
+6. There you will find the History, Player Audits and Agent Transaction tabs
+7. Each is described below
+
+## Player History tab
 
 The Player History tab enables you to see every action that a Staff member has performed on a players’ account. 
 For example if a Staff member has verified an account or disabled a players access or permissions.
