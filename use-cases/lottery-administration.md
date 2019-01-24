@@ -83,7 +83,7 @@ The History tab includes any all changes that were made to a game including but 
 
 This feature is key for identifying any changes made to any Raffle Template by your Staff.
 
-1. Navigate to Games -> Raffles from the left hand navigation menu
+1. Navigate to **Games** -> Raffles from the left hand navigation menu
 2. Look for the Raffle Game you want to check on
 3. Click on the "History" link shown on the top right corner
 
@@ -96,7 +96,7 @@ This includes anytime they view, edit, create or modify a player, agent, staff o
 
 This feature is key for monitoring staff actions to ensure accountability and integrity of the systems operations and key configuration settings.
 
-1. Navigate to Staff from the left hand navigation menu
+1. Navigate to **Staff** from the left hand navigation menu
 2. Search for the Staff member you wish to check on
 3. Click on the Staff members' username
 4. Navigate to the bottom of the page and click on "Actions"
