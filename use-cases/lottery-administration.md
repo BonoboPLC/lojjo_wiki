@@ -111,7 +111,7 @@ This feature is key for identifying any changes made to the users account.
 
 
 # How can I check that games are paying out properly?
-# How can I check that outcomes are random and that  winners are evenly distributed?
+# How can I check that outcomes are random and evenly distributed?
 
 
 
