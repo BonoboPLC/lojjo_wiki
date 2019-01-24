@@ -53,13 +53,19 @@ Please note that this is different iated from any actions which are either taken
 ## Player Audits
 
 The Player Audits tab enables you to see every action that is taken either by the Player or automatically by the Platform, in response to a Player action/event.  
+
 To view this tab, navigate to the players profile page and scroll all the way to the bottom. 
+
 The Player Audit tab tracks all Player actions with respect to their account, including any changes to Responsible Gaming Limits, address and email updates. 
+
 This feature is key for managing a players’ account and understanding when and how the player registered and/or changed their account details.
 
 ## Player Agent Transactions
+
 The Agent Transactions tab enables you to see every interaction that the Player has had with any of your Agents. This includes registration, ticket sales, account deposits, checking of any tickets, payouts and any data collection which might have occurred.
+
 To view this tab, navigate to the players profile page and scroll all the way to the bottom. 
+
 This feature is key for managing a players’ account and understanding how and when the player interacted with your Sales Agents and exactly what occurred in the process.
 
 
