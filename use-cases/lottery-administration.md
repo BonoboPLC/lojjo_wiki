@@ -117,11 +117,33 @@ The system contains a mechanism to continusly check each games payout to ensure 
 To perform this check, please follow the easy steps below:
 
 1. Navigate to **Reports --> RTP ** from the left hand navigation menu
+2. Any games which do not have RTP equal to configured RTP will show up on this list
+3. This includes any freeroll games as shown below as the game pays out more than it takes in. Conversely, the RTP report would also flag games which are not paying out as much they take in via buy-ins.
 
-
+![Report Payouts](/uploads/report-payouts.png "Report Payouts")
 
 # How can I check that outcomes are random and evenly distributed?
 
+The system contains a mechanism to continusly check each that the outcomes produced by the RNG are evenly distributed and random.
+
+This mechanism works in the following way:
+
+For each game, we sample and examine the results for 3 play indexes; The 1st, 2nd and 3rd plays purchased into each game instance.
+If the results are true random, then so should the distribution of winners, meaning that over a sufficient sample of games, the 1st, 2nd and 3rd plays in the game will each win an equal number of times. 
+
+For example if the game was run over 1,000 times, then we should see the same number of wins, on average, occurring in the 1st, 2nd and 3rd play in the game.
+
+The higher the number of times that game has run, the higher the sample size and the higher degree of confidence with which we can assess the results.
+
+To view the "Fairness" report, please follow the easy steps below:
+
+1. Navigate to **Reports --> Fairness ** from the left hand navigation menu
+2. All active games in the system will be listed here as shown below.
+3. If the number of "Games counted" is high, then Play index 1, 2 and 3, should be very close to the average. We measure this difference by the deviation each position has from the average. 
+4. If the game is paying out fairly, then the deviation amongst the indexes will be very low
+5. Be careful to ensure that  game has been counted sufficient times before judging the deviation and results
+
+![Fairness Standard Deviation](/uploads/fairness-standard-deviation.png "Fairness Standard Deviation")
 
 
 
