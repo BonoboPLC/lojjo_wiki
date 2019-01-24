@@ -22,7 +22,7 @@ A players account can be affected in many ways.
 
 A player can make changes to their own account by updating their address, settings, password or responsible gaming settings.
 
-A player or admin can make similiar changes to the account such as updating their address, verifying a player or placing restrictions on the account.
+A player or admin can make similar changes to the account such as updating their address, verifying a player or placing restrictions on the account.
 
 The system might also make changes to a players permission, player class or segment based on an action taken by the player.
 
@@ -47,7 +47,7 @@ The History tab displays all Staff actions including, but not limited to changes
 
 This feature is key for managing a players’ account and any respective changes that were made to the account by admin Staff.
 
-Please note that this is different iated from any actions which are either taken by the Player or by the Platform in response to a Player action/event. These types of actions are logged in the Player Audit Tab and not the History tab. 
+Please note that this differs from any actions which are either taken by the Player or by the Platform in response to a Player action/event. These types of actions are logged in the Player Audit Tab and not the History tab. 
 
 
 ## Player Audits
@@ -111,7 +111,7 @@ This feature is key for identifying any changes made to the users account.
 
 
 # How can I check that games are paying out properly?
-# How can i check that outcomes are random and that  winners are evenly distributed?
+# How can I check that outcomes are random and that  winners are evenly distributed?
 
 
 
