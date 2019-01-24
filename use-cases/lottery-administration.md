@@ -111,6 +111,15 @@ This feature is key for identifying any changes made to the users account.
 
 
 # How can I check that games are paying out properly?
+
+The system contains a mechanism to continusly check each games payout to ensure that all prizes are paid out and that the [Return to Player (RTP)](/administration/games/lottorace#return-to-player) of the game is as configured.
+
+To perform this check, please follow the easy steps below:
+
+1. Navigate to **Reports --> RTP ** from the left hand navigation menu
+
+
+
 # How can I check that outcomes are random and evenly distributed?
 
 
