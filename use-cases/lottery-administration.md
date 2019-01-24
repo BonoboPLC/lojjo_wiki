@@ -3,6 +3,12 @@
 
 
 # How can I verify that no system components have been tampered with?
+The system contains a mechanism which allows any user to verify and authenticate the validity of the software packages currently running on the server.
+
+This is done by comparing the SHA256 signature of apps running on the server to the signature of verified apps uploaded by and created by our team.
+
+To perform this check, please follow the easy steps below:
+
 1. Navigate to My Company -> Applications
 2. The verification checks will start running on load
 3. Signature of the apps currently running on the server will be compared against official releases
@@ -20,11 +26,18 @@ The system might make changes to a players permission, player class or segment b
 
 
 ## Player History
+
 The Player History tab enables you to see every action that a Staff member has performed on a players’ account. 
+For example if a Staff member has verified an account or disabled a players access or permissions.
+
 To view this tab, navigate to the players profile page and scroll all the way to the bottom. 
+
 The History tab displays all Staff actions including, but not limited to changes to Player Verification settings, Contact details, responsible gaming limits, account credits, CDD Email requests and password resets. 
+
 This feature is key for managing a players’ account and any respective changes that were made to the account by admin Staff.
-Please note that this is different  iated from any actions which are either taken by the Player or by the Platform in response to a Player action/event. These types of actions are logged in the Player Audit Tab and not the History tab. 
+
+Please note that this is different iated from any actions which are either taken by the Player or by the Platform in response to a Player action/event. These types of actions are logged in the Player Audit Tab and not the History tab. 
+
 
 ## Player Audits
 
