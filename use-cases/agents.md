@@ -14,6 +14,14 @@
 
 
 # How do I collect sales receipts from sellers?
+The platform keeps track of sales made by each of your sales agents.  At the end of their shift, you can [collect the Cash or electronic payment receipts](/administration/agents#collecting-sales-receipts) from the agent.
+
+Navigate to Agents -> Sales Agents
+Find the agent in the search listing
+Click on the Agents username to go into the Agents detail view screen
+You will now be able to see the Sales Receipt balance of each agent
+Click on Collect and enter the amount you are collecting from the agent.
+
 # How do I set commission percentage for my sellers?
 You can set the [commission percentage](/administration/agents#setting-agent-commissions) for your seller during the create wizard or anytime after that.
 
