@@ -27,9 +27,9 @@ Each game template is assigned a unique Game Template ID (also called Game Defin
 
  # Creating Game Templates
 
-To create any type of Game Templates, navigate to that game type (Raffle/LottoRace/Lottery) and look for the Create button on the top right corner.
+To create any type of Game Templates, navigate to that game type (Raffle/LottoRace) and look for the Create button on the top right corner.
 
- ![Create Lottery](/uploads/create-lottery.png "Create Lottery")
+ ![Create Lottery](/uploads/create-raffle.png "Create Raffle")
  
 
  # Editing Games
