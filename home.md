@@ -30,13 +30,15 @@ Information for system administrators.
 
 ## How can I? 
 
-[How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
-[How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
-[How do I create a custom Lottery?](/use-cases/games#how-do-i-create-a-custom-lottery)
+
 [How do I create a Cash Raffle?](/use-cases/games#how-do-i-create-a-cash-raffle)
 [How do I create a Prize Raffle?](/use-cases/games#how-do-i-create-a-prize-raffle)
+[How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
+[How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
 [How do I update the Game Schedule?](/use-cases/games#how-do-i-update-the-game-schedule)
 [ How do I view details of open/completed games?](/use-cases/games#how-do-i-view-details-of-open-completed-games)
+
+
 
 # Sales Agent Management
 
