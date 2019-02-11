@@ -52,7 +52,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 To manage games, navigate to Games -> LottoRace from the left hand navigation.
 
-![Manage Games](/uploads/manage-games.png "Manage Games")
+![Manage Games](/uploads/raffle-panel.png "Raffle panel")
 
 ### Starting Games
 
