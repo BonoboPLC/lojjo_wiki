@@ -31,6 +31,10 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
  ![Create Lottery](/uploads/create-raffle.png "Create Raffle")
  
+ You will be taken to the Raffle Creator wizard which will walk you through the process.
+ 
+ ![Raffle Tickets](/uploads/raffle-tickets.png "Raffle Tickets")
+ 
 
  # Editing Games
  In order to edit any of the games configuration, make sure the game is stopped.
