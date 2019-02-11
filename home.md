@@ -38,7 +38,7 @@ Information for system administrators.
 [How do I update the Game Schedule?](/use-cases/games#how-do-i-update-the-game-schedule)
 [ How do I view details of open/completed games?](/use-cases/games#how-do-i-view-details-of-open-completed-games)
 
-# Sales Agents Management
+# Sales Agent Management
 
 * [Managing Sales Agents](/administration/agents "Managing Retail Lottery Sales Agents")
 	* [Creating Sales Agents](/administration/agents#creating-sales-agents)
