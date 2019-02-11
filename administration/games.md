@@ -60,15 +60,11 @@ To manage games, navigate to Games -> Raffles from the left hand navigation.
 
 ### Starting Games
 
-Press the Green Start Button to make the game Live on the site.
+Press the Green Start Button to turn the game on and enable ticket sales.
 
 The game container should immediately appear on both the Play and Stream sites.
 
-![Start Stop 2](/uploads/start-stop-2.png "Start Stop 2")
-
-Registration will be available immediately for Instant Games and based on Registration Delay for Tournaments.
-
-Once the game has been started, new Game Instances will be created as each Game Instance is filled up and runs.
+  ![Start the Game](/uploads/raffle-panel-stopped.png "Start Game")
 
 
 > **Usage note:** If there are any missing configurations, you will see "Incomplete Configuration" instead and get prompts to fix them.
