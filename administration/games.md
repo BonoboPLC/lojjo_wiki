@@ -50,7 +50,13 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
 
 # Starting & Stopping Games
 
-To manage games, navigate to Games -> LottoRace from the left hand navigation.
+To manage games, navigate to Games -> Raffles from the left hand navigation.
+ 
+ Each Raffle panel will display the status of the Raffle, and the number of games open for registration.
+ 
+ If the game is already on, you will see the "Stop" button. If the game is not on, you will see the Start button. 
+ 
+ Press and follow the prompts to confirm.
 
 ![Manage Games](/uploads/raffle-panel.png "Raffle panel")
 
