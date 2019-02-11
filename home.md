@@ -24,8 +24,9 @@ Information for system administrators.
 #  Game Management
 
 * [Game Management Overview](/administration/games "Managing your Lottery & Raffle Games")
+ 	* [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ")
 	* [LottoRace Raffle Games](/administration/games/lottorace "Managing your Lottery & Raffle Games")
-	* [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ")
+
 
 ## How can I? 
 
