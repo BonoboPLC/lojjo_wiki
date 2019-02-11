@@ -39,9 +39,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
  # Editing Games
  In order to edit any of the games configuration, make sure the game is stopped.
  
- Then click "Change" on each configuration group.
- 
- ![Edit Game](/uploads/edit-game.png "Edit Game")
+ Then click "Edit" as shown below.
  
   ![Edit Game](/uploads/raffle-panel-stopped.png "Edit Game")
 
