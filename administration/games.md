@@ -167,7 +167,9 @@ The maximum number of Game Instances that can be created by this game template.
 
 You can customize up to 5 elements to reflect your games branding and image.
 
-These include a Logo, Page and playout backgrounds and color.  
+These include a Logo, Page and playout backgrounds and tile color (Advanced settings).  
+
+![Raffle Logo Images](/uploads/raffle-logo-images.png "Raffle Logo Images")
 
 > **Usage Note:** If you are updating any assets for a Game Template which already has an open Game Instance, you must "Reload" the game for the changes to take place on the live instance.
 {.is-success}
