@@ -52,11 +52,9 @@ To manage games, navigate to Games -> Raffles from the left hand navigation.
  
  Each Raffle panel will display the status of the Raffle, and the number of games open for registration.
  
- If the game is already on, you will see the "Stop" button. If the game is not on, you will see the Start button. 
- 
- Press and follow the prompts to confirm.
+You can edit/start and stop games from this page.
 
-![Manage Games](/uploads/raffle-panel.png "Raffle panel")
+
 
 ### Starting Games
 
@@ -78,9 +76,11 @@ The game container should immediately appear on both the Play and Stream sites.
 2. Press Stop
 3. Confirm that you want to stop the game
 
-![Stopping Games](/uploads/stopping-games.png "Stopping Games")
+![Manage Games](/uploads/raffle-panel.png "Raffle panel")
 
 Pressing Stop will kill any open instances, cancel and refund all bets to player accounts, and prevent any new Game Instances from being created.
+
+![Stopping Games](/uploads/stopping-games.png "Stopping Games")
 
 Only press Stop when there are no Game Instances  open for registration.
 
