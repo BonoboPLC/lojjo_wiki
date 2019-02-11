@@ -43,7 +43,7 @@ To create any type of Game Templates, navigate to that game type (Raffle/LottoRa
  
  ![Edit Game](/uploads/edit-game.png "Edit Game")
  
-  ![Edit Game](/uploads/raffle-panel-stopped "Edit Game")
+  ![Edit Game](/uploads/raffle-panel-stopped.png "Edit Game")
 
 > **Usage note:**  The Game Template must be stopped first, before editing any of the games configuration values, with the exception game branding and schedule which can be edited live.
 {.is-success}
