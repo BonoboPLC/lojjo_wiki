@@ -7,18 +7,7 @@
 # A guide for Platform Managers
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
 
-#  System Administration
-Information for system administrators.
 
-## How can I? 
-
-
-[How can I see all the changes made to a Player account?](/use-cases/lottery-administration#how-can-i-see-all-the-changes-made-to-a-player-account)
-[How can I see all the changes made to a Raffle Template?](/use-cases/lottery-administration#how-can-i-see-the-changes-made-to-a-raffle-template)
-[How can I check the activity of Staff?](/use-cases/lottery-administration#how-can-i-check-the-activity-of-staff)
-[How can I check that games are paying out properly?](/use-cases/lottery-administration#how-can-i-check-that-games-are-paying-out-properly)
-[How can I check that game outcomes are random and evenly distributed?](/use-cases/lottery-administration#how-can-i-check-that-outcomes-are-random-and-evenly-distributed)
-[How can I verify that no system components have been tampered with?](/use-cases/lottery-administration#how-can-i-verify-that-no-system-components-have-been-tampered-with)
 
 
 #  Game Management
@@ -47,6 +36,18 @@ Information for system administrators.
 	* [Day to Day Operation flow](/administration/agents#viewing-agent-activity)
 
 
+#  System Administration
+Information for system administrators.
+
+## How can I? 
+
+
+[How can I see all the changes made to a Player account?](/use-cases/lottery-administration#how-can-i-see-all-the-changes-made-to-a-player-account)
+[How can I see all the changes made to a Raffle Template?](/use-cases/lottery-administration#how-can-i-see-the-changes-made-to-a-raffle-template)
+[How can I check the activity of Staff?](/use-cases/lottery-administration#how-can-i-check-the-activity-of-staff)
+[How can I check that games are paying out properly?](/use-cases/lottery-administration#how-can-i-check-that-games-are-paying-out-properly)
+[How can I check that game outcomes are random and evenly distributed?](/use-cases/lottery-administration#how-can-i-check-that-outcomes-are-random-and-evenly-distributed)
+[How can I verify that no system components have been tampered with?](/use-cases/lottery-administration#how-can-i-verify-that-no-system-components-have-been-tampered-with)
 
 # A guide for Retail Shop Operators
 Read this if you are Selling Tickets
