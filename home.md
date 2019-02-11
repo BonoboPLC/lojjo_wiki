@@ -57,7 +57,7 @@ Read this if you are Selling Tickets
 	* [How to Pay Prizes](/retail-sales-agents#how-to-pay-prizes)
 
 
-[Android Agent App](https://static.lottorace.com/android/bonobo-agent.apk)
+[Android Agent App](https://static.lojjo.com/android/bonobo-agent.apk)
 
 
 
