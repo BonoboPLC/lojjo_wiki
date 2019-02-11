@@ -10,7 +10,7 @@ Read this if you're part of the Admin team and need to do things like creating g
 #  System Administration
 Information for system administrators.
 
-## How do I? 
+## How can I? 
 
 [How can I verify that no system components have been tampered with?](/use-cases/lottery-administration#how-can-i-verify-that-no-system-components-have-been-tampered-with)
 [How can I see all the changes made to a Player account?](/use-cases/lottery-administration#how-can-i-see-all-the-changes-made-to-a-player-account)
@@ -27,7 +27,7 @@ Information for system administrators.
 	* [Traditional Lottery Games](/administration/games/lottery  "Managing your Lottery Games")
 	* [Cash & Prize Draw Raffles (i.e. 50/50 Draw)](/administration/games/raffle "Managing your Raffle Games ")
 
-## How do I? 
+## How can I? 
 
 [How do I create a custom LottoRace game?](/use-cases/games#how-do-i-create-a-custom-lotto-race-game)
 [How do I add a Progressive Jackpot to a LottoRace game?](/use-cases/games#how-do-i-add-a-progressive-jackpot-to-a-lotto-race-game)
