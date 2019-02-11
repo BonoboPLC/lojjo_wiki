@@ -9,8 +9,6 @@ There are 3 different type of games currently offered on the Platform.
 | [![Weekly Lotto](/uploads/win-a-car.png "Weekly Lotto"){:height="100px" width="100px"}Prize Draw Raffles](/administration/games/lottery  "Managing your Lottery Games") | [![Daily Raffle](/uploads/50-50-small.png "Prize Raffles"){:height="100px" width="100px"}Cash Raffles (50/50)](/administration/games/raffle "Managing your Raffle Games ")|[ ![Lottorace Logo Large](/uploads/lottorace-logo-large.png "Lottorace Logo Large"){:height="100px" width="200px"} LottoRace Raffles](/administration/games/lottorace "Managing your Lottery & Raffle Games")
 
 
-![50 50 Small](/uploads/50-50-small.png "50 50 Small")
-
 
 # Pre-loaded Game Templates
 Depending on your installation type, we preload a number of pre-configured games for you.
