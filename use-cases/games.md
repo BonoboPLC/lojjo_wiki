@@ -1,6 +1,20 @@
 <!-- TITLE: Lottery & Raffle Management  -->
 <!-- SUBTITLE: Common Use Cases for managing your Lottery and Raffle games-->
 
+# How do I view details of open/completed games?
+1. Navigate to the respective Game menu 
+2. Click on "Search Games"
+3. Enter the Game Instance ID or the Game Template/Definition ID or search by any other field
+4. Choose "Open" as the status if the game has not yet played
+5. Choose "Ended" as the status if the game is over
+6. Click on the Game ID that you wish to see the details for
+7. You'll be taken to the **Game Instance Detail view** where you can see the current state of the game and all related transactions
+
+# How do I view Financial Transactions for Raffle?
+1. Navigate to the **Game Instance Detail View** for the Game Instance you want to review
+2. First view summary Info on the top left showing **Buy-in, Rake, Prizes and Game Net**
+3. Then navigate to Financial Transactions tab in the bottom half of the page for details of each specific transaction
+4. Review all transactions relating to a game
 
 # How do I create a Cash Raffle?
 
