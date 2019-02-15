@@ -210,3 +210,4 @@ This account increases each time a commission is earned on Ticket Sales and only
 When payment is made at each pay period, record the transaction here.
 
 ![Pay Agent Commissions](/uploads/pay-agent-commissions.png "Pay Agent Commissions")
+
