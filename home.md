@@ -1,3 +1,11 @@
+---
+title: home
+description: 
+published: 1
+date: 2019-11-15T10:30:37.859Z
+tags: 
+---
+
  <!-- TITLE: Platform Guide -->
 <!-- SUBTITLE: A complete guide for managing Games, Sales Agents, Players and more -->
 
@@ -55,11 +63,6 @@ Read this if you are Selling Tickets
 * [Sales Agent User Guide](retail-sales-agents/ "title text!")
 	* [How to Sell Tickets](/retail-sales-agents#how-to-sell-tickets)
 	* [How to Pay Prizes](/retail-sales-agents#how-to-pay-prizes)
-
-
-[Android Agent App](https://static.lojjo.com/android/bonobo-agent.apk)
-
-
 
 
 
