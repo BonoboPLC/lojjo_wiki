@@ -2,7 +2,7 @@
 title: home
 description: 
 published: 1
-date: 2019-11-15T10:30:37.859Z
+date: 2019-11-15T10:31:40.468Z
 tags: 
 ---
 
@@ -14,7 +14,6 @@ tags:
 
 # A guide for Platform Managers
 Read this if you're part of the Admin team and need to do things like creating games, managing agents, and more.
-
 
 
 
